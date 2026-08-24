@@ -5,9 +5,9 @@ version: 1.0
 weight: 1
 ---
 
-# Remerciements
+# Le bureau de poste
 
-## 4eme de couverture
+## L'ouvrage
 
 « L'Histoire ne frappe pas à la porte : elle entre par le guichet des dépêches et la chambre des accouchées. »
 
@@ -19,6 +19,7 @@ Mais quand une nuit d'accouchement tragique emporte les illusions et scelle le s
 Marie-Zéphyrine de Bernardy-Lilaz orchestre un jeu de miroirs fascinant. Derrière la grande intrigue d'action — une chasse au trésor liée à l'expédition française au Bas-Canada en 1837 et une vieille caisse militaire —, se cache le réquisitoire intime d'une femme recluse, luttant contre la décomposition du monde et le carcan des rôles sociaux par la puissance absolue de la fiction.
 
 ## L'auteur
+![Photo de l'auteur](/Bureau-Poste/images/Zephyrine_Ww1.png)
 
 Marie-Zéphyrine de Bernardy-Lilaz est une figure mystérieuse de la littérature rurale de l'entre-deux-guerres.
 Après avoir arpenté pendant trente ans les chemins du canton, soigné les fièvres et accompagné les naissances sous le choc de la Grande Guerre et de l'épidémie de 1918-1920, elle s'est retirée du monde. Écrasée par la démission des hommes de sa vie — elle vivra en recluse, dans sa maison de pierre et à l'étonnante charpente en chêne massif, jusqu'à sa mort.
