@@ -2,7 +2,7 @@
 title: "L'encre ou l'oubli"
 date: 2026-08-24
 version: 1.0
-weight: 27
+weight: 28
 ---
 
 *(La pénombre d'une petite chambre de grenier sous les tuiles. Le silence y est lourd, épais, interrompu seulement par le crissement d'une plume d'oie sur le papier usé. Sur la table de bois brut, la bougie achève de se consumer dans une flaque de cire. Dans un angle de la pièce repose le grand coffre de bois, fermé, couvert d'une fine couche de poussière. Marie-Zéphyrine, voûtée, le visage creusé par les rides et la solitude, trace une dernière boucle. Elle souffle doucement sur l'encre encore fraîche du manuscrit, puis pose délicatement sa plume à côté de l'encrier.)*

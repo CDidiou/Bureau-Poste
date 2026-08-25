@@ -2,7 +2,7 @@
 title: "Le miracle de la vie"
 date: 2026-08-24
 version: 1.0
-weight: 24
+weight: 25
 ---
 
 *(La grande pièce chaleureuse de la ferme de Mathurin. La table est encore couverte des verres et des rires de la fête. Soudain, de la chambre voisine, s'élève un chant doux et cristallin, à peine plus fort qu'un souffle de brise. Mathurin s'arrête net, la main levée, un grand sourire éclairant son visage.)*

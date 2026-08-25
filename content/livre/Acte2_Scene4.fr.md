@@ -2,7 +2,7 @@
 title: "Le chiffre du registre"
 date: 2026-08-24
 version: 1.0
-weight: 21
+weight: 22
 ---
 
 *(Même décor dans la grange de Mathurin, illuminée comme un salon de fête. Le petit carnet de comptes de l'expédition Hindelang et une vieille carte topographique de 1837 sont étalés sur le couvercle du coffre militaire. Joseph est au centre, un compas d'arpenteur à la main, tandis que Zéphyrine, le Curé, le Garde Champêtre et Mathurin se pressent autour de lui dans un silence plein d'attente et de fraternité.)*

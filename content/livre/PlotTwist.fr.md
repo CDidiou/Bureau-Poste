@@ -2,7 +2,7 @@
 title: "Plot twist"
 date: 2026-08-24
 version: 1.0
-weight: 17
+weight: 18
 ---
 
 *(Un silence pesant s'installe. La lumière vacillante de l'étable s'éteint brusquement. La voix de la sage-femme, vieillie, rocailleuse, brisée par les années de solitude, s'élève du noir absolu et s'adresse directement au lecteur.)*

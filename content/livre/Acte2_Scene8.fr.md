@@ -2,7 +2,7 @@
 title: "Ou se taisent à jamais"
 date: 2026-08-24
 version: 1.0
-weight: 25
+weight: 26
 ---
 
 *(La grande cuisine de Mathurin, baignée d'une lumière de fête. La table en chêne est encombrée de verres à pied, de bouteilles de vin vieux, de miches de pain entamées et du petit berceau d'osier où le nouveau-né dort paisiblement. Le Curé, la soutane légèrement déboutonnée au col, retrousse ses manches. Le Garde Champêtre, un grand buvard à la main, recharge un encrier de cuivre. Joseph tient la plume d'oie, prêt à écrire, tandis que Zéphyrine verse une larmichette de gnôle dans le café de Mathurin. Tous rient de bon cœur.)*

@@ -2,7 +2,7 @@
 title: "Une aventure humaine"
 date: 2026-08-24
 version: 1.0
-weight: 23
+weight: 24
 ---
 
 *(Le soir même, dans la grande cuisine chaleureuse de Mathurin. Une grande soupe miroite dans l'âtre, une miche de pain frais trône au centre de la table. La joyeuse bande est rassemblée autour de Joseph, qui tient la médaille creuse de Saint-Joseph et le minuscule parchemin qu'il en a extrait. Le Curé, le Garde Champêtre, Mathurin et Zéphyrine se pressent autour de lui, les yeux brillants d'excitation.)*

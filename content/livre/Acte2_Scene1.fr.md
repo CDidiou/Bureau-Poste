@@ -2,7 +2,7 @@
 title: "Le temple de la charité"
 date: 2026-08-24
 version: 1.0
-weight: 18
+weight: 19
 ---
 
 # Partie 2: La plume

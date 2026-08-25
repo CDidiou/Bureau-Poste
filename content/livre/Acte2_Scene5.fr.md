@@ -2,7 +2,7 @@
 title: "La médaille"
 date: 2026-08-24
 version: 1.0
-weight: 22
+weight: 23
 ---
 
 *(Un sous-bois en lisière du canton. La nuit est limpide, piquée d'étoiles scintillant comme des diamants sous une lune radieuse. Une brise douce fait chanter les feuilles des vieux chênes. Le Garde Champêtre marche en tête, tenant une lanterne de cuivre dont la clarté dorée illumine le chemin. Derrière lui s'avancent Joseph — marchant d'un pas prompt et alerte — tenant Zéphyrine par la main, suivis du Curé et de Mathurin qui portent chacun avec fierté les outils d'arpentage.)*
