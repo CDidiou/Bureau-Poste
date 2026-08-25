@@ -1,11 +1,9 @@
 ---
-title: "L'orage et l'alerte chez le paysan"
+title: "La Saint-Martin"
 date: 2026-08-24
 version: 1.0
 weight: 16
 ---
-
-### Scène 14 : L'orage et l'alerte chez le paysan
 
 *(La nuit. Un orage d'automne d'une violence extrême s'abat sur le canton. Le vent fait claquer les volets et la pluie fouette rageusement le porche du presbytère. À l'intérieur, la Sage-Femme et le Curé trient des bandes de lin à la lumière d'une lanterne. Soudain, de lourds coups retentissent contre la porte, accompagnés d'un cri étouffé par la tempête.)*
 

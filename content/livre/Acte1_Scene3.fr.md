@@ -5,8 +5,6 @@ version: 1.0
 weight: 5
 ---
 
-### Scène 3: La menace de l'épidémie
-
 *Milieu d'après-midi. La halle du village. Le garde champêtre a grimpé sur un banc de pierre, le bras en écharpe, tenant son tambour d'une seule main avec une gaucherie furieuse. Les villageois grondent. Le curé observe en retrait.*
 
 **Le Garde Champêtre :**

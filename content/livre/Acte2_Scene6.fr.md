@@ -1,27 +1,22 @@
 ---
-title: "La révélation du vrai trésor"
+title: "Une aventure humaine"
 date: 2026-08-24
 version: 1.0
 weight: 23
 ---
 
-#### Scène 6 : La révélation du vrai trésor
-
 *(Le soir même, dans la grande cuisine chaleureuse de Mathurin. Une grande soupe miroite dans l'âtre, une miche de pain frais trône au centre de la table. La joyeuse bande est rassemblée autour de Joseph, qui tient la médaille creuse de Saint-Joseph et le minuscule parchemin qu'il en a extrait. Le Curé, le Garde Champêtre, Mathurin et Zéphyrine se pressent autour de lui, les yeux brillants d'excitation.)*
 
-**Zéphyrine :**
-*(s'approchant de Joseph, la voix tremblante d'une douce impatience)*
+**Zéphyrine :** *(s'approchant de Joseph, la voix tremblante d'une douce impatience)*
 Lisez-nous le parchemin, Joseph ! Dites-nous ce que les patriotes de 1837 nous ont laissé au bout de ce chemin !
 
 **Joseph :** *(dépliant le papier avec une précaution infinie, baisant la marge du parchemin avant d'élever la voix)*
 « *Là où la charité accueille le frère, le dépôt des cœurs est scellé sous le toit du juste. L'or des hommes s'envole, la fraternité reste.* »
 
-**Le brave garde :**
-*(se grattant le menton avec un sourire ravi)*
+**Le brave garde :** *(se grattant le menton avec un sourire ravi)*
 « Sous le toit du juste » ! Mais c'est la ferme de Mathurin ! C'est ici même !
 
-**Le curé :**
-*(joignant les mains, le visage illuminé par une grâce divine)*
+**Le curé :** *(joignant les mains, le visage illuminé par une grâce divine)*
 Regardez l'alignement des mots, mes enfants ! La médaille ne pointe pas vers une cassette de pièces ou un sac de louis enfoui sous la pierre !
 
 **Joseph :** *(s'adressant à l'assemblée avec une vivacité d'esprit et une clarté magistrale)*

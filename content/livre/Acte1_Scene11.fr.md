@@ -1,11 +1,9 @@
 ---
-title: "Le départ avorté du Curé"
+title: "Premiers crachats"
 date: 2026-08-24
 version: 1.0
 weight: 13
 ---
-
-### Scène 11 : Le départ avorté du Curé
 
 *(Le porche du presbytère. Le Curé, le visage tendu et fatigué, pose au sol une valise en cuir usée et un grand sac de toile ficelé. Il vérifie une dernière fois le verrou de la lourde porte en chêne. La Sage-Femme arrive du bas de la rue, une couverture de laine sous le bras et du désinfectant sur ses habits.)*
 

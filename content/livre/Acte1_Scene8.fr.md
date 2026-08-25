@@ -1,11 +1,9 @@
 ---
-title: "La combine de la barricade"
+title: "Eau de vie"
 date: 2026-08-24
 version: 1.0
 weight: 10
 ---
-
-### Scène 8: La combine de la barricade
 
 *(Le soir tombe. La bordure de la parcelle de Mathurin, devant sa grange. Mathurin s'échine à clouer de lourdes planches de réemploi et des morceaux de volige en travers des battants de la porte pour en boucher tous les interstices. Le Garde Champêtre arrive par le chemin du bas, le bras en écharpe, la marche un peu lourde mais l'œil aux aguets.)*
 

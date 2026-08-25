@@ -1,11 +1,9 @@
 ---
-title: "L'annonce des réquisitions"
+title: "Le trésor du prunier"
 date: 2026-08-24
 version: 1.0
 weight: 4
 ---
-
-### Scène 2: L'annonce des réquisitions
 
 *Au presbytère. Le Curé est assis près de la fenêtre, repassant au chiffon un petit registre de fabrique. La Sage-Femme essuie la table de la cuisine. On frappe deux coups secs contre le montant de la porte.*
 

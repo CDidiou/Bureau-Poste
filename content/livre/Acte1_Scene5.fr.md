@@ -5,8 +5,6 @@ version: 1.0
 weight: 7
 ---
 
-### Scène 5: La nuit près de la fontaine
-
 *(Nuit noire. Le village est calfeutré, portes verrouillées et contrevents clos par crainte du mauvais air et de la contagion. La place est déserte. Seul le clapotis régulier de la fontaine rompt le silence.)*
 
 *(Le Boiteux est appuyé contre la vasque en pierre, son bâton posé entre les jambes. Un bruit de pas légers sur le pavé le fait se redresser. La Sage-Femme surgit de l'ombre d'une ruelle, un châle sombre serré sur ses épaules.)*

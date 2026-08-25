@@ -1,11 +1,9 @@
 ---
-title: "Le choix de l'Hôtel-Dieu"
+title: "Infiltrations d'eau"
 date: 2026-08-24
 version: 1.0
 weight: 6
 ---
-
-### Scène 4: Le choix de l'Hôtel-Dieu
 
 *(Il fait nuit. La réunion vient de se disperser. Restent sous le préau la sage-femme, le boiteux, le curé et le garde champêtre qui essuie son tambour avec sa manche.)*
 

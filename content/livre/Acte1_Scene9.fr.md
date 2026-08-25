@@ -5,8 +5,6 @@ version: 1.0
 weight: 11
 ---
 
-### Scène 9: L'ambulance au presbytère
-
 *(La grande salle paroissiale du presbytère. Une grande table de bois sombre est encombrée d'images pieuses, de cierges et de registres de fabrique. Le Curé plie soigneusement des chasubles et range ses missels. La porte s'ouvre à la volée. La Sage-Femme entre, un grand panier d'osier sous le bras, débordant de draps de lin et d'herbes séchées, suivie du Garde Champêtre qui porte à bout de bras deux grands baquets de bois et des rouleaux de bandes d'étoupe.)*
 
 **Le Curé :** *(surpris par la manœuvre, s'interposant devant la table)*

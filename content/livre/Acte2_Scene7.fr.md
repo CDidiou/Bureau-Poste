@@ -5,8 +5,6 @@ version: 1.0
 weight: 24
 ---
 
-#### Scène 7 : Le miracle de la vie
-
 *(La grande pièce chaleureuse de la ferme de Mathurin. La table est encore couverte des verres et des rires de la fête. Soudain, de la chambre voisine, s'élève un chant doux et cristallin, à peine plus fort qu'un souffle de brise. Mathurin s'arrête net, la main levée, un grand sourire éclairant son visage.)*
 
 **Le père Mathurin :** *(s'adressant à la compagnie avec une joie sereine)*

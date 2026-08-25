@@ -7,8 +7,6 @@ weight: 3
 
 # Partie 1: La terre
 
-### Scène 1: La rumeur du bistrot
-
 **Le Garde Champêtre :**
 Doucement, bon sang ! Doucement, Sage-Femme ! Ça me rentre dans la chair comme des aiguilles à tricoter !
 

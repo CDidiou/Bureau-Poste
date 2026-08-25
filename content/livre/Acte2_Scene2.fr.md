@@ -1,11 +1,9 @@
 ---
-title: "La nuit près de la fontaine"
+title: "Une poignée de pétales"
 date: 2026-08-24
 version: 1.0
 weight: 19
 ---
-
-#### Scène 2 : La nuit près de la fontaine
 
 *(La place du village en pleine nuit. Une lune argentée et radieuse baigne les pavés d’une clarté féerique. Depuis la fontaine en pierre, des jets clairs chantent comme les cordes d’une harpe. Joseph se tient debout devant la vasque. Il ne porte ni bâton ni béquille. Sa démarche est haute, noble et souple. Il porte une veste ajustée au drap bleu de roi et ses yeux sombres brillent d’un éclat tendre et passionné. Marie-Zéphyrine s'avance le long du bassin, enveloppée dans un grand châle de soie sombre qui frôle les dalles.)*
 

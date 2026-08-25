@@ -1,11 +1,9 @@
 ---
-title: "La procession et l'hymne de la vallée"
+title: "La procession de joie"
 date: 2026-08-24
 version: 1.0
 weight: 26
 ---
-
-#### Scène 9 : La procession et l'hymne de la vallée
 
 *(Le chemin de crête qui surplombe tout le canton. C'est une fin d'après-midi baignée par une lumière d'or pur. Ce n'est plus un petit groupe, mais la foule entière du village qui s'avance dans une marche triomphale et recueillie. En tête, le Curé s'avance, la croix en main, sa soutane portée haut, le visage illuminé d'une sérénité céleste. Derrière lui, le Garde Champêtre ouvre la marche avec fierté, flanqué de Joseph qui donne tendrement le bras à Zéphyrine, et de Mathurin qui porte son jeune fils sur ses épaules. Tout le village les suit, chantant d'une seule voix.)*
 

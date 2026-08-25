@@ -1,11 +1,9 @@
 ---
-title: "La nuit de l'horreur dans la ferme"
+title: "Prêche de nuit"
 date: 2026-08-24
 version: 1.0
 weight: 17
 ---
-
-### Scène 15 : La nuit de l'horreur dans la ferme
 
 (L'étable de Mathurin. Une chaleur suffocante et poisseuse règne dans la pièce éclairée par la seule lumière blafarde d'une lanterne à pétrole. Dehors, la tempête fait rage et la pluie fouette rageusement les fenêtres. La femme de Mathurin est allongée sur la paille, blême, s'accrochant de toutes ses forces aux ridelles d'une charrette. Mathurin est immobile contre le mur, la fourche serrée contre lui, le regard hagard. Le Garde Champêtre, terrifié, retient son souffle près du battant de la porte. Le Boiteux est assis sur un baquet, pris de spasmes de toux qu'il tente d'étouffer dans sa veste. La Sage-Femme, les bras trempés jusqu'aux coudes, s'écarte lentement du corps de la mère. Dans ses mains, enroulée dans un linge blanc de lin, repose une petite forme inerte.)
 

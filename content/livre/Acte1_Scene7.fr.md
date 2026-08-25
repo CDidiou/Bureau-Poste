@@ -1,11 +1,9 @@
 ---
-title: "Le choc avec Mathurin"
+title: "Sous la paille"
 date: 2026-08-24
 version: 1.0
 weight: 9
 ---
-
-### Scène 7: Le choc avec Mathurin
 
 *(En bordure du hameau voisin. Le jour baisse. Mathurin charrie une charge lourde près de sa grange. Le boiteux arrive à la ferme du paysan à son rythme, appuyé sur son bâton.)*
 
@@ -32,7 +30,7 @@ N'élève pas le ton, tu vas te gâter le sang. Tu sais comme moi que si la pré
 **Le Boiteux :** *(s'arrêtant, le regard fixé sur l'ombre de la porte, un sourire lent dessinant son visage)*
 Tu as bien de la colère pour trois bottes de seigle, Mathurin... Qu'est-ce que tu as mis sous ta paille pour avoir si peur qu'on approche un buvard ?
 
-**Mathurin :** *((bloquant brusquement la fissure de la porte de son corps, la voix sourde et tremblante de rage)*
+**Mathurin :** *(bloquant brusquement la fissure de la porte de son corps, la voix sourde et tremblante de rage)*
 Je ne répéterai pas. Fous le camp.
 
 

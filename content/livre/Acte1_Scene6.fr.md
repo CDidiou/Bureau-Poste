@@ -5,8 +5,6 @@ version: 1.0
 weight: 8
 ---
 
-### Scène 6: Le chantage
-
 *(Un après-midi au bord de la rivière, à une dizaine de mètres du lavoir où le battement régulier des battoirs et le jaser des lavandières font un fond sonore continu. La sage-femme s'est retirée à l'écart avec la femme du charpentier, sous prétexte de lui donner des herbes sèches pour sa grande qui tousse rouge. La femme du charpentier tient fermement la main de son gamin — le petit du charpentier —, terrifié.)*
 
 **La Sage-Femme :** *(tirant un paquet de ficelles d'une main, de l'autre tenant le bras du gamin avec une poigne d'acier)*

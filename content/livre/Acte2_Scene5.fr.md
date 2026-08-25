@@ -1,13 +1,11 @@
 ---
-title: "La quête de la médaille"
+title: "La médaille"
 date: 2026-08-24
 version: 1.0
 weight: 22
 ---
 
-#### Scène 5 : La quête de la médaille
-
-*(Un sous-bois en lisière du canton. La nuit est limpide, piquée d'étoiles scintillant comme des diamants sous une lune radieuse. Une brise douce fait chanter les feuilles des vieux chênes. Le Garde Champêtre marche en tête, tenant une lanterne de cuivre dont la clarté dorée illumine le chemin. Derrière lui s'avancent le Boiteux — marchant d'un pas prompt et alerte — tenant Marie-Zéphyrine par la main, suivis du Curé et de Mathurin qui portent chacun avec fierté les outils d'arpentage.)*
+*(Un sous-bois en lisière du canton. La nuit est limpide, piquée d'étoiles scintillant comme des diamants sous une lune radieuse. Une brise douce fait chanter les feuilles des vieux chênes. Le Garde Champêtre marche en tête, tenant une lanterne de cuivre dont la clarté dorée illumine le chemin. Derrière lui s'avancent Joseph — marchant d'un pas prompt et alerte — tenant Zéphyrine par la main, suivis du Curé et de Mathurin qui portent chacun avec fierté les outils d'arpentage.)*
 
 **Le brave garde :** *(s'arrêtant devant un muret de pierres sèches moussues, se retournant avec un large sourire)*
 Nous y voilà, mes braves amis ! Le sentier des Huguenots, à l'aplomb du vieux prunier de la Combe ! Je connais chaque motte de terre de ce vallon depuis mes sept ans. Si les patriotes de 1837 ont laissé une empreinte ici, c'est forcément dans la niche du calvaire en ruine !

@@ -1,11 +1,9 @@
 ---
-title: "La fureur du Boiteux et le trésor dépossédé"
+title: "Les patriotes"
 date: 2026-08-24
 version: 1.0
 weight: 14
 ---
-
-### Scène 12 : La fureur du Boiteux et le trésor dépossédé
 
 *(Au presbytère. Le soir tombe. La tempête se profile au loin. Le Boiteux est assis sur un banc, la jambe tendue, râlant de douleur. La Sage-Femme applique un cataplasme d'eau-de-vie et de moutarde sur son moignon tremblant. Joseph, irrité par la douleur et le mépris ambiant du village, tape du poing sur la table.)*
 
@@ -45,4 +43,4 @@ Et c'est pour ça que vous vous détruisez la santé ? Pour de l'or vieux d'un s
 **Le Boiteux :** *(la regardant avec une détresse profonde et une fierté brisée)*
 Ce n'est pas pour l'or, mademoiselle Zéphie... C'est pour n'être plus le Boiteux ! Le pauvre diable de la Somme qu'on tolère parce qu'il sait lire les décrets ! Si je trouve ce que ma famille a laissé, je remets les pendules à l'heure. Je remets tout le monde à sa place !
 
-(Un silence lourd s'installe. La Sage-Femme le regarde avec une compassion immense, comprenant l'abîme d'amertume et de fierté dans lequel Joseph s'enferme, incapable de voir qu'elle l'aime pour ce qu'il est et non pour un trésor perdu.)
+(Un silence lourd s'installe. La Sage-Femme le regarde avec une compassion immense, comprenant l'abîme d'amertume et de fierté dans lequel le Boiteux s'enferme, incapable de voir qu'elle l'aime pour ce qu'il est et non pour un trésor perdu.)

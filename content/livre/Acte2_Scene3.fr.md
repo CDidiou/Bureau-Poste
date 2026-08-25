@@ -1,11 +1,9 @@
 ---
-title: "La découverte des lettres et du coffre"
+title: "Le cadenas doré"
 date: 2026-08-24
 version: 1.0
 weight: 20
 ---
-
-#### Scène 3 : La découverte des lettres et du coffre
 
 *(La grange de Mathurin. les poutres sont astiquées, de grandes lampes à huile éclairent chaleureusement l'espace et l'odeur du foin frais se mêle à celle du bois cire. Mathurin, la mine réjouie et le geste accueillant, invite Zéphyrine, Joseph, le Curé, et le Garde Champêtre à s'approcher d'un tabernacle de chêne sculpté disposé au centre de la pièce.)*
 

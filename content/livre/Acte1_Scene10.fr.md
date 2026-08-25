@@ -1,11 +1,9 @@
 ---
-title: "Le garde champêtre et l'inspecteur volant"
+title: "Avec des pincettes"
 date: 2026-08-24
 version: 1.0
 weight: 12
 ---
-
-### Scène 10 : Le garde champêtre et l'inspecteur volant
 
 *(La limite du canton, matérialisée par un fagot de ronces en travers du chemin et un écriteau à la peinture fraîche : « HALTE SANITAIRE - DEFENSE DE PASSER ». Le Garde Champêtre, le visage rouge de sueur et de fermeté, tient à bout de bras un long fusil sans bretelle qu'il réajuste à chaque instant sous l'aisselle. Assus sur une borne en pierre, un couteau à la main, Mathurin épluche calmement un navet en le regardant faire.)*
 
@@ -22,7 +20,7 @@ L'arrêté est très clair ! « Nul ne pénètre avec de la fièvre ou du courri
 Il a raison, le fonctionnaire. Si tu lui laisses franchir les ronces, la grippe va sauter sur ton fusil et te bouffer la crosse. C’est connu, ces petites bêtes-là, ça aime le bois sec et le galon d'argent.
 
 **Le garde champêtre :** *(tournant un œil inquiet vers Mathurin)*
-Tais-toi, Mathurin ! Je fais respecter l'ordre public ! *(Au coursier)* Montrez vos mains !
+Tais-toi, le Mathurin ! Je fais respecter l'ordre public ! *(Au coursier)* Montrez vos mains !
 
 **Le coursier :**
 Mes mains ? Mais elles sont dans des gants en peau de porc, sacré bougre !
