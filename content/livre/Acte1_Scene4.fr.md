@@ -11,7 +11,7 @@ weight: 6
 Vingt francs de crésyl... Ils veulent qu'on arrose la terre battue de la mairie avec vingt francs de désinfectant ! Ça va puer le docteur à dix lieues à la ronde.
 
 **La Sage-Femme :**
-Ce n'est pas la terre qui les inquiète, voyons, ce sont les poumons. Et votre crésyl n'empêchera pas les femmes de mettre bas. La Mélie est à terme pour dimanche, la petite du Mathurin d'ici quinze jours. Si vous bloquez les chemins avec vos cordons sanitaires, comment pourrai-je passer ?
+Ce n'est pas la terre qui les inquiète, voyons, ce sont les poumons. Et votre crésyl n'empêchera pas les femmes de mettre bas. La Mélie est à terme pour dimanche, la femme du Mathurin d'ici quinze jours s'il n'y a pas plus de complications. Si vous bloquez les chemins avec vos cordons sanitaires, comment pourrai-je passer ?
 
 **Le Boiteux :** *(appuyé contre un pilier, un brin moqueur)*
 Vous passerez à pied, ma chère amie. Le préfet a été formel : personne ne franchit la limite sans le rectangle de papier blanc et le coup de tampon de la poste.
@@ -19,13 +19,13 @@ Vous passerez à pied, ma chère amie. Le préfet a été formel : personne ne f
 **La Sage-Femme :**
 Le coup de tampon ! La peste soit de leurs tampons ! Un enfant qui pousse n'attend pas que le facteur ait fini de boire sa goutte !
 
-***Le Curé :** *(calme, mains jointes dans le dos)*
+**Le Curé :** *(calme, mains jointes dans le dos)*
 Le facteur ne boira plus grand-chose, Mademoiselle. Le bâtiment des postes du canton est réquisitionné dès demain matin. On y installe le télégraphe prioritaire pour l'armée et la préfecture. Les lettres privées passeront après les dépêches de santé.
 
 **Le Boiteux :** *(son regard s'anime, calculant rapidement)*
 La poste... Dans la maison du père Mathieu ? Celle qui touche au champ de la fabrique ? Mais c'est une véritable passoire ! La toiture prend l'eau depuis quatorze, et le registre des baux n'a jamais été purgé avec le cantonnement. Si l'Administration s'y installe sans vérifier le cadastre d'avant-guerre, ils vont poser leurs guichets en plein sur le droit de passage de la commune.
 
-***Le Curé :** *(observant le Boiteux du coin de l'œil)*
+**Le Curé :** *(observant le Boiteux du coin de l'œil)*
 La République ne demande pas la permission au cadastre quand la fièvre monte, Major. Elle prend ce qui est debout.
 
 **Le Boiteux :**

@@ -21,7 +21,7 @@ Et voici le coffre que les vaillants insurgés de l'expédition Hindelang ont co
 
 *(Mathurin retire sans aucun effort un lourd cadenas doré qui s'ouvre dans un déclic harmonieux. Il soulève le couvercle de la caisse militaire en bois de hêtre. Zéphyrine, le Curé, et le Garde Champêtre se penchent, émerveillés.)*
 
-***Zéphyrine :** *(portant la main à ses lèvres)*
+**Zéphyrine :** *(portant la main à ses lèvres)*
 Quelle merveille... Tout y est conservé comme au premier jour.
 
 **Le père Mathurin :** *(sortant les objets un à un avec une humilité et une tendresse touchantes)*

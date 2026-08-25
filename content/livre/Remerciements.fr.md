@@ -20,13 +20,13 @@ Marie-Zéphyrine de Bernardy-Lilaz orchestre un jeu de miroirs fascinant. Derri�
 ## L'auteur
 ![Photo de l'auteur](/Bureau-Poste/images/Zephyrine_Ww1.png)
 
-Marie-Zéphyrine de Bernardy-Lilaz est une figure mystérieuse de la littérature rurale de l'entre-deux-guerres.
-Après avoir arpenté pendant trente ans les chemins du canton, soigné les fièvres et accompagné les naissances sous le choc de la Grande Guerre et de l'épidémie de 1918-1920, elle s'est retirée du monde. Écrasée par la démission des hommes de sa vie — elle vivra en recluse, dans sa maison de pierre et à l'étonnante charpente en chêne massif, jusqu'à sa mort.
-Dans son seul roman, Marie-Zéphyrine a posé un regard émouvant sur l'humanité, l'amour et la rigidité des rôles sociaux, qui bloquent le coeur des hommes.
+Marie-Zéphyrine de Bernardy-Lilaz demeure une figure énigmatique et fascinante de la littérature rurale de l'entre-deux-guerres. Trente années durant, elle a arpenté les chemins boueux du canton, soigné les fièvres, pansé les corps et accompagné les naissances sous le choc de la Grande Guerre et de l'épidémie de 1918-1920.
+Puis, peu à peu, étouffée par le silence des hommes, le poids des drames et la démission de ceux qui auraient dû porter le monde avec elle, elle s'est murée dans le silence de sa grande maison de pierre à la charpente en chêne massif, vivant en recluse jusqu'à son dernier souffle.
+Dans ce qui s'apparente à son seul roman connu, Marie-Zéphyrine pose un regard émouvant sur l'humanité, l'amour et la rigidité des rôles sociaux, qui bloquent le coeur des hommes.
 
 ## Remerciements
 
-À la femme du charpentier, d'abord. Pour le viager, le bois sec déposé chaque matin sur le sol de pierre, la soupe chaude glissée sans un mot, et pour avoir juré sur la Croix de ne jamais ouvrir la serrure de mon coffre avant que l'on ne m'ait portée en terre. Sans votre silence fidèle, ces dialogues auraient fini en cendres dans la cheminée.
+À la femme du charpentier, d'abord. Pour le viager, le bois sec déposé chaque matin sur le sol de pierre, la soupe chaude glissée sans un mot, et pour avoir juré sur la Croix de ne jamais ouvrir la serrure de mon coffre avant que l'on ne m'ait portée en terre. Sans votre silence fidèle, ces histoires auraient fini en cendres dans la cheminée.
 
 Au curé de ce canton, moins à lui qu'à ses paroles, celles qui ont su entendre ce que je ne disais pas.
 
