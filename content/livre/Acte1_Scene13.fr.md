@@ -1,0 +1,56 @@
+---
+title: "L'orage et l'alerte chez le paysan"
+date: 2026-08-24
+version: 1.0
+weight: 15
+---
+
+### Scène 13 : L'orage et l'alerte chez le paysan
+
+*(La nuit. Un orage d'automne d'une violence extrême s'abat sur le canton. Le vent fait claquer les volets et la pluie fouette rageusement le porche du presbytère. À l'intérieur, la Sage-Femme et le Curé trient des bandes de lin à la lumière d'une lanterne. Soudain, de lourds coups retentissent contre la porte, accompagnés d'un cri étouffé par la tempête.)*
+
+**La sage-femme :**
+*(sursautant, posant ses ciseaux)*
+Qui peut bien traîner par un temps pareil ?
+
+**Le curé :**
+Si c'est encore le coursier à bicyclette, il va finir noyé dans le ruisseau...
+
+*(Le Curé tire le verrou. La porte s'ouvre brusquement, repoussée par la bourrasque. Le Garde Champêtre s'écroule à moitié sur le seuil, trempé jusqu'aux os, le hoquetant de fatigue et la poitrine haletante. Il tient sa lanterne éteinte d'une main et s'accroche au cadre de la porte de l'autre.)*
+
+**Le garde champêtre :**
+*(crachant de l'eau, essoufflé)*
+La sage-femme ! Vite... Il faut la sage-femme !
+
+**La sage-femme :**
+*(s'approchant brusquement, attrapant le garde par les revers de sa veste)*
+Qu'est-ce qui se passe, Garde ? C'est la grippe ? Qui est touché dans le bas du canton ?
+
+**Le garde champêtre :**
+Non ! Enfin... Je ne sais pas ! C'est la femme de Mathurin ! La Jeanne ! Elle s'est effondrée dans l'étable ! Elle hurle comme une damnée, le ventre dur comme de la pierre !
+
+**Le curé :**
+Déjà ? Mais son terme n'était pas prévu avant la Saint-Martin !
+
+**Le garde champêtre :**
+Elle a voulu porter un sac de trempe pour les bêtes avant que la grêle ne perce le toit ! Les eaux ont crevé par terre ! Mathurin est fou de rage, il tourne autour d'elle avec sa fourche, il croit que c'est le mauvais sort !
+
+**La sage-femme :**
+*(attrapant immédiatement sa sacoche de cuir et son grand manteau de laine)*
+L'orage et la peur de la maladie... Rien de tel pour déclencher une délivrance prématurée.
+
+**Le curé :**
+*(attrapant son étole et son huile sainte)*
+Je viens avec vous. Si l'enfant vient prématurément, il faudra le baptiser sans attendre.
+
+**La sage-femme :**
+Prenez vos huiles si ça vous rassure, mon père, mais prenez surtout une lanterne qui ne prend pas l'eau ! Et vous, Garde Champêtre, ouvrez la marche avec votre fusil ! Si Mathurin refuse de me laisser entrer parce qu'il a peur du cordon sanitaire, vous lui collerez le passe-partout sous le nez !
+
+**Le garde champêtre :**
+*(effrayé)*
+Mathurin ? Mais il est armé, mademoiselle ! Et avec le Boiteux qui est monté à la ferme une heure plus tôt pour réclamer son dû, ils sont en train de s'étriper au milieu de la paille !
+
+**La sage-femme :**
+Joseph est là-bas ? Avec sa toux ? Alors on n'a plus une minute à perdre ! En route !
+
+(Elle s'élance la première dans la nuit noire et le déluge, suivie par le Curé qui rabat son capuchon et le Garde Champêtre qui court en trébuchant sur les pavés trempés.)
