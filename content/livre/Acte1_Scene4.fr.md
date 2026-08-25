@@ -11,7 +11,7 @@ weight: 6
 Vingt francs de crésyl... Ils veulent qu'on arrose la terre battue de la mairie avec vingt francs de désinfectant ! Ça va puer le docteur à dix lieues à la ronde.
 
 **La Sage-Femme :**
-Ce n'est pas la terre qui les inquiète, voyons, ce sont les poumons. Et votre crésyl n'empêchera pas les femmes de mettre bas. La Mélie est à terme pour dimanche, la femme du Mathurin d'ici quinze jours s'il n'y a pas plus de complications. Si vous bloquez les chemins avec vos cordons sanitaires, comment pourrai-je passer ?
+Ce n'est pas la terre qui les inquiète, voyons, ce sont les poumons. Et votre crésyl n'empêchera pas les femmes de mettre bas. La Mélie, la cousine du Mathurin, est à terme pour dimanche, et sa propre femme, elle, c'est pour d'ici quinze jours, s'il n'y a pas plus de complications pour cette dernière. Si vous bloquez les chemins avec vos cordons sanitaires, comment pourrai-je passer ?
 
 **Le Boiteux :** *(appuyé contre un pilier, un brin moqueur)*
 Vous passerez à pied, ma chère amie. Le préfet a été formel : personne ne franchit la limite sans le rectangle de papier blanc et le coup de tampon de la poste.
@@ -38,7 +38,7 @@ Et vous vous proposez, le boiteux ? Pour tenir le buvard et le flacon d'encre ?
 Quelqu'un doit bien veiller à ce que les papiers restent droits pendant que vous arrosez les pierres avec votre eau de vaisselle anglaise. On n'abandonne pas le canton aux messieurs de la ville.
 
 **La Sage-Femme :**
-Pensez-vous que je pourrai passer dimanche pour la Mélie ? Et pour la petite du Mathurin, cela sera-t-il possible aussi ?
+Pensez-vous que je pourrai passer dimanche pour la Mélie ? Et pour la femme du Mathurin, cela sera-t-il possible aussi ?
 
 **Le Boiteux :** *(son ton s'adoucissant légèrement)*
-Je pense surtout, Mademoiselle, que si le bureau de poste s'installe là, les secours arriveront par la route du bas. Et vos bandes de lin avec. Demain matin, je serai à la grange pour dresser les premiers tréteaux de votre hôpital d'urgence. Il faut bien que cette guibolle serve à quelque chose.
+Je pense surtout, Mademoiselle, que si le bureau de poste s'installe là, les secours arriveront par la route du bas. Et vos bandes de lin avec. Demain matin, je serai à la grange pour dresser les premiers tréteaux de votre hôpital d'urgence. Nous aurons aussi besoin d'un établi, ce sera utile pour s'organiser. Oui, un établi ! C'est toujours nécessaire ça, un établi.

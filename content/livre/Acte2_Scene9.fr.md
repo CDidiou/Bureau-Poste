@@ -8,7 +8,7 @@ weight: 27
 *(Le chemin de crête qui surplombe tout le canton. C'est une fin d'après-midi baignée par une lumière d'or pur. Ce n'est plus un petit groupe, mais la foule entière du village qui s'avance dans une marche triomphale et recueillie. En tête, le Curé s'avance, la croix en main, sa soutane portée haut, le visage illuminé d'une sérénité céleste. Derrière lui, le Garde Champêtre ouvre la marche avec fierté, flanqué de Joseph qui donne tendrement le bras à Zéphyrine, et de Mathurin qui porte son jeune fils sur ses épaules. Tout le village les suit, chantant d'une seule voix.)*
 
 **Le brave garde :** *(s'arrêtant un instant au bord du talus, désignant la vallée d'une canne enthousiaste à l'intention des villageois)*
-Regardez-moi cette terre, mes braves ! Nous laissons derrière nous le vallon du *Saut-du-Loup* et nous voici au sommet de la *Combe-aux-Belles-Dames* ! Deux siècles que nos anciens y font paître les bêtes ! Mon oncle me disait toujours qu'on y entend l'écho du canton chanter plus fort qu'ailleurs !
+Regardez-moi cette terre, mes braves ! Nous laissons derrière nous le vallon des *Cinq-Souches* et nous voici au sommet de la *Combe-aux-Belles-Filles* ! Deux siècles que nos anciens y font paître les bêtes ! Mon oncle me disait toujours qu'on y entend l'écho du canton chanter plus fort qu'ailleurs !
 
 **Le curé :** *(se retournant vers la foule assemblée, levant sa croix d'argent vers le ciel couchant)*
 Votre oncle disait vrai, mon cher Garde ! Car aujourd'hui, ce ne sont pas seulement les hommes qui marchent, c'est l'âme même de notre pays qui s'élève ! Regardez-vous : il n'y a plus ici de pauvres ou de riches, plus de rancœurs, plus de peurs ! Nous sommes les enfants d'une même grâce, les gardiens d'un même amour !
@@ -23,7 +23,7 @@ Fille de l'Élysée !
 Nous entrons, ivres de feu,
 Dans ton sanctuaire sacré ! »*
 
-*(Le Garde Champêtre reprend le chant à pleine voix, bientôt suivi par Mathurin, puis par Joseph. En un instant, les voix de centaines de villageois s'unissent en un chœur grandiose qui enfle, résonne et fait vibrer les flancs de la Combe-aux-Belles-Dames et les bois du Saut-du-Loup.)*
+*(Le Garde Champêtre reprend le chant à pleine voix, bientôt suivi par Mathurin, puis par Joseph. En un instant, les voix de centaines de villageois s'unissent en un chœur grandiose qui enfle, résonne et fait vibrer les flancs de la Combe-aux-Belles-Filles et les bois des Cinq-Souches.)*
 
 **Tout le village :**
 *(en chœur, la voix portant à travers toute la vallée)*
