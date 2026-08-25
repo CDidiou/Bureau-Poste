@@ -7,13 +7,10 @@ weight: 5
 
 ### Scène 3: La menace de l'épidémie
 
-*Milieu d'après-midi. La halle du village. Le garde champêtre est grimpé sur le banc de pierre, le bras en écharpe, tenant son tambour d'une seule main avec une gaucherie furieuse. Les villageois grondent. Le curé observe en retrait.*
+*Milieu d'après-midi. La halle du village. Le garde champêtre a grimpé sur un banc de pierre, le bras en écharpe, tenant son tambour d'une seule main avec une gaucherie furieuse. Les villageois grondent. Le curé observe en retrait.*
 
-**Le garde-champêtre :**
+**Le Garde Champêtre :**
 *Tape un coup sec et manqué sur la peau du tambour*
-Avis ! Avis à la population ! Par ordre de M. le Maire et du préfet du département ! La rivière est franchie ! Je répète : l'eau ne fait plus barrage ! À Saint-Martin, l'épidémie des espagnols est dans les maisons depuis ce matin !
-
-*Brouhaha sous la halle. Des voix s'élèvent.*
-
-**Le garde-champêtre :**
-Fermez vos gueules cinq minutes ! Les réunions d'estaminet, c'est fini ! Ceux de la ville installent le carré sanitaire à la frontière du canton. Ce soir même, vingt heures précises, réunion obligatoire à la salle des fêtes pour le grand recensement des lits et des couvertures ! Que personne ne manque, ou c'est deux francs d'amende et le procès-verbal au cul !
+Avis ! Avis à la population ! Par ordre de Monsieur le Maire et de Monsieur le Préfet du département ! La rivière est franchie ! Je répète : l'eau ne fait plus barrage ! À Saint-Martin, la grippe espagnole est dans les maisons depuis ce matin !
+*(Brouhaha sous la halle. Des voix s'élèvent, inquiètes et hostiles.)*
+Fermez vos gueules deux minutes ! Les réunions d'estaminet, c'est fini ! Ceux de la ville installent le cordon sanitaire à la frontière du canton. Ce soir même, vingt heures précises, réunion obligatoire à la salle des fêtes pour le grand recensement des lits et des couvertures ! Que personne ne manque, ou c'est deux francs d'amende et le procès-verbal au cul !

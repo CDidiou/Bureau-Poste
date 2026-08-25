@@ -9,12 +9,11 @@ weight: 1
 
 ## L'ouvrage
 
-« L'Histoire ne frappe pas à la porte : elle entre par le guichet des dépêches et la chambre des accouchées. »
-
-1920. Le canton retient son souffle. Tandis que les hommes reviennent du front la chair blessée et l'âme close, une menace invisible franchit la rivière : la grippe espagnole.
+L'Histoire ne frappe pas à la porte : elle entre par le guichet des dépêches et la chambre des accouchées.
+La première guerre mondiale vient de se terminer. Mais le canton retient son souffle de nouveau. Tandis que les hommes reviennent du front la chair blessée et l'âme close, une menace invisible franchit la rivière : la grippe espagnole.
 Pour orchestrer la quarantaine et désinfecter les courriers, l'Administration s'empare du village.
-Un bureau de poste réquisitionné devient le cœur palpitant et cruel du canton — là où s'accumulent les circulaires au crésyl, les avis de décès, les réquisitions et les lettres de notaires.
-Au centre du séisme : une sage-femme dévouée et autoritaire ; un ancien soldat, dit le Boiteux, roublard, obsédé par le cadastre et l'encre d'État ; un curé analytique rappelé sans cesse par son évêché ; un garde champêtre dépassé et Mathurin le paysan.
+Un bureau de poste réquisitionné devient le cœur palpitant et cruel du monde — là où s'accumulent les circulaires au crésyl, les avis de décès, les réquisitions et les lettres de notaires.
+Au centre du séisme : une sage-femme dévouée et autoritaire ; un ancien soldat, dit le Boiteux, roublard, obsédé par le cadastre et l'encre d'État ; un curé analytique rappelé sans cesse par son évêché ; un garde champêtre dépassé ; et enfin Mathurin un paysan bien méfiant.
 Mais quand une nuit d'accouchement tragique emporte les illusions et scelle le sort des hommes, le récit bascule.
 Marie-Zéphyrine de Bernardy-Lilaz orchestre un jeu de miroirs fascinant. Derrière la grande intrigue d'action — une chasse au trésor liée à l'expédition française au Bas-Canada en 1837 et une vieille caisse militaire —, se cache le réquisitoire intime d'une femme recluse, luttant contre la décomposition du monde et le carcan des rôles sociaux par la puissance absolue de la fiction.
 

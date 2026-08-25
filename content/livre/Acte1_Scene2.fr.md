@@ -7,77 +7,72 @@ weight: 4
 
 ### Scène 2: L'annonce des réquisitions
 
-Scène au presbytère. Le curé est assis près de la fenêtre, repassant au chiffon un petit registre de fabrique. La sage-femme qu ilui sert d'assistante essuie la table de cuisine. On frappe deux coups secs contre le montant de la porte.
+*Au presbytère. Le Curé est assis près de la fenêtre, repassant au chiffon un petit registre de fabrique. La Sage-Femme essuie la table de la cuisine. On frappe deux coups secs contre le montant de la porte.*
 
-**Le boiteux :**
-C'est ouvert pour les invalides ou faut repasser le jour du marché ?
+**Le Boiteux :**
+C'est ouvert pour les invalides ou faut-il repasser le jour du marché ?
 
-**Le curé :**
-Asseyez-vous, major, au lieu de rester là à vous user la bonne jambe.
+**Le Curé :**
+Asseyez-vous, Major, au lieu de rester là à vous user la bonne jambe.
 
-**Le boiteux :**
+**Le Boiteux :**
 Merci bien
-*Il s'assoit, pose son chapeau sur ses genoux. Ses yeux s'attardent un instant sur les mains de la sage-femme qui rangent les fioles*
-Je ne vous avais pas vu, madame. Enfin... mademoiselle. Tous mes hommages. Vous prenez bien soin de notre brave curé !
+*Il s'assoit, pose son chapeau sur ses genoux. Ses yeux s'attardent un instant sur les mains de la Sage-Femme qui rangent les fioles.*
+Je ne vous avais pas vue, Madame. Enfin... Mademoiselle. Tous mes hommages. Vous prenez bien soin de notre brave curé.
 
-**La sage femme :**
-Bonjour monsieur le major. Que Dieu vous bénisse.
+**La Sage-Femme :**
+Bonjour, Monsieur le Major. Le soin des âmes et des corps ne prend pas de vacances.
 
-**Le curé :**
-*Sans lever les yeux de son registre, d'une voix posée*
-Je lisais, vous voyais. Le silence d'ici aide à la réflexion.
+**Le Curé :** *(Sans lever les yeux de son registre, d'une voix posée)*
+Je lisais en vous attendant. Le silence d'ici aide à la réflexion.
 
-**Le boiteux :**
-Toujours dans les saints livres ?
+**Le Boiteux :**
+Toujours plongé dans les Saints Livres ?
 
-**Le curé :**
-Pas seulement.
-*Il tourne une page*
-Le diocèse a reçu les relevés du cadastre du canton d'avant-guerre. Ceux de l'évêché. Ils sont parfois plus bavards que ceux de la mairie.
+**Le Curé :** *(tournant une page)*
+Pas seulement. Le diocèse vient de nous faire parvenir les relevés du cadastre du canton d'avant-guerre. Ceux de l'évêché. Ils sont parfois plus bavards que ceux de la mairie.
 
-**Le boiteux :**
-*Se redresse très légèrement*
-Ah ? Et qu'est-ce qu'ils racontent de beau les papiers de l'évêque ?
+**Le Boiteux :** *(se redressant légèrement)*
+Ah ? Et qu'est-ce qu'ils racontent de beau, les papiers de l'évêque ?
 
-**Le curé :**
-Ils racontent que la parcelle de la Roche Fontaine n'a jamais eu de droit de passage sur le communal. En tout cas, pas depuis le concordat. Mais qu'une servitude privée existait autrefois... au bénéfice du prêtre habitateur. Validé sur papier notorial avec estampille, 1839.
+**Le Curé :** *(d'une voix presque détachée, repassant son chiffon sur le cuir du registre)*
+Ils racontent que la parcelle de la Roche-Fontaine n'a jamais eu de droit de passage sur le communal. Mais surtout... qu'une note marginale de la fabrique y mentionne une cache. Un pli de l'évêché parle de trois cassettes scellées, enfouies sous le repère d'angle. Le fameux prunier.
 
-**Le boiteux :**
-Un demi-sourire dans le coin de sa bouche*
-1839... Hindenlang avait déjà été pendu. Les notaires écrivaient à la plume d'oie et oubliaient la moitié des virgules. Une virgule mal placée sur un plan, M. le Curé, et la terre glisse d'un mètre vers le nord.
+**Le Boiteux :** *(un demi-sourire au coin des lèvres)*
+1837... C'était l'année des patriotes et des insurrections du Bas-Canada. Les notaires de la Monarchie de Juillet écrivaient à la plume d'oie et confondaient les pistoles et les Louis d'or. Une virgule mal placée sur un plan, Monsieur le Curé, et l'or de mes ancêtres glisse d'un mètre vers le nord.
 
-**La sage femme :**
-**Elle pose une tasse d'infusion fumante devant le boiteux*
-Laissez donc les notaires tranquilles et buvez ça. Et arrêtez de raconter au bistrot que vous déplacez les bornes à la jambe de bois. Le garde est niais, mais il a une langue de deux mètres.
+**Le Curé :** *(amusé, sans lever les yeux)*
+Vos ancêtres avaient de la mémoire, Major. Mais les archives du diocèse ont la vue plus longue que vos pelles.
 
-**Le boiteux :**
-*Il prend la tasse. Leurs doigts se frôlent un instant ; il immobilise son geste, un brin incertain*
-Voyons, je ne dirai point ce type de choses, de celles qui ne sont point arrivées. Voyez, je suis en pleine greffes de nouveaux fruitiers, des tiges neuves. Nous avons bien besoin de plus de fruits, vous en conviendrez.
+**La Sage-Femme :** *(posant une tasse d'infusion fumante devant le Major)*
+Laissez donc les notaires tranquilles et buvez ceci. Et cessez de raconter au bistrot que vous déplacez les bornes à la jambe de bois. Le garde est niais, mais il a une langue de deux mètres.
 
-**Le curé :**
-*Voix détachée, repassant son chiffon*
-Le notaire de la ville m'a dit qu'un homme instruit peut faire dire beaucoup de choses à un acte de vente. Tant de gens ne savent encore déchiffrer les contrats et leurs alinéas.
+**Le Boiteux :** *(Il prend la tasse. Leurs doigts se frôlent un instant ; il immobilise son geste, un brin incertain)*
+Voyons... Je ne saurais dire des choses qui ne sont point arrivées. Voyez-vous, je suis en pleine greffe de nouveaux fruitiers, des tiges neuves. Le village a grand besoin de fruits, vous en conviendrez.
 
-**Le boiteux :**
-*Regard froid vers le curé*
-Vous avez bien raison, il faut que l'instruction fasse son ouvrage, et plus vite que les fruitiers. Nous en avons plus besoin je crois. Pour ma part, je ne cherche querelle à personne. D'ailleurs voici les comptes.
-*Il tire un papier de sous son bras*
-C'est le calcul des tisanes pour les femmes du bas du canton. J'ai tout porté comme vous vouliez. Tout est écrit au net.
+**Le Curé :** *(d'une voix détachée, continuant de repasser son chiffon)*
+Le notaire de la ville m'a glissé qu'un homme instruit peut faire dire bien des choses à un acte de vente. Tant de braves gens ne savent toujours pas déchiffrer les contrats et leurs alinéas...
 
-**Le curé :**
-Merci, major, Dieu est miséricorde.
+**Le Boiteux :** *(fixant le Curé d'un regard froid)*
+Vous avez parfaitement raison, Monsieur le Curé. Il faut que l'instruction fasse son ouvrage, et bien plus vite encore que mes fruitiers. Pour ma part, je ne cherche querelle à personne. D'ailleurs, voici les comptes.
+*(Il tire un papier plié de sous son bras et le pose sur la table)*
+C'est le relevé des tisanes pour les femmes du bas du canton. J'ai tout consigné comme vous le souhaitiez. Tout est au net.
 
-**La sage femme :**
-Il nous manque tellement d'ingrédients, pour mes cataplasmes. Vous ne vous rendez pas compte. Tout le monde a tellement de besoin. Vous nous êtes précieux, à tous, major.
+**Le Curé :**
+Qu'il en soit ainsi, Major. Le Ciel tiendra les comptes.
 
-**Le boiteux :**
-*Bas, en se levant avec peine*
-Trève de merci. Vous êtes bien braves. J'en ai vu de la souffrance, plus que ce qu'une existence entière peut supporter.
-Et puis notez, c'est important tout ça, s'il n'y a personne pour lire la cartouche sur vos pots, vous finiriez par empoisonner le garde-champêtre pour de bon.
+**La Sage-Femme :**
+Il nous manque tant d'ingrédients pour les cataplasmes... Vous n'imaginez pas. Les besoins sont si grands dans le canton. Vous nous êtes précieux, Major. À nous tous.
 
-**Le curé :**
-*Fermant doucement son registre*
-Ce serait dommage. La commune perdrait son seul œil nocturne. Bonne journée, major.
+*(Le Major la regarde un instant. Un silence s'installe, lourd d'implicite, sous le regard vigilant du prêtre.)*
 
-**Le boiteux :**
-Au revoir curé. Au revoir, mademoiselle.
+**Le Boiteux :** *(bas, en se levant avec peine)*
+Trêve de mercis. J'en ai vu, de la souffrance. Plus que ce qu'une existence entière ne devrait supporter. Et puis... s'il n'y avait personne pour déchiffrer les étiquettes sur vos fioles, vous finiriez par empoisonner le garde champêtre pour de bon.
+
+**Le Curé :** *(fermant doucement son registre)*
+Ce serait grand dommage. La commune perdrait son unique œil nocturne. Bonne journée, Major.
+
+**Le Boiteux :**
+Monsieur le Curé... Mademoiselle.
+
+(Il s'incline légèrement vers la Sage-Femme, pose son chapeau sur sa tête et sort, faisant résonner le choc régulier de sa jambe de bois sur le ciment de l'entrée.)
