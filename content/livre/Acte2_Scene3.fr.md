@@ -5,7 +5,7 @@ version: 1.0
 weight: 21
 ---
 
-*(La grange de Mathurin. Des lampes à huile éclairent l'espace. Mathurin, la mine sombre et les mâchoires serrées, montre du doigt une vieille caisse poussiéreuse posée sur un billot, bousculant brutalement un tabouret sur son passage.)*
+*(La grange de Mathurin. Des lampes à huile éclairent l'espace. Derrière Mathurin, une vieille caisse poussiéreuse posée sur un billot.)*
 
 **Le père Mathurin :** *(grognant, barrant l'accès d'un geste menaçant)*
 Avancez pas trop vite, tas de fainéants ! Ne touchez à rien ! Ce coffre, c'est le mien, et tout ce qu'il y a dedans est à moi, payé par le sang de mes ancêtres ! Qu'on ne vienne pas me piller sous prétexte de fraternité ou d'histoire locale, ou je lâche les chiens !
@@ -13,7 +13,7 @@ Avancez pas trop vite, tas de fainéants ! Ne touchez à rien ! Ce coffre, c'est
 **Joseph :** *(s'interposant avec une aisance souveraine)*
 Mathurin a raison de veiller sur son bien, mais il sait que nos mains sont pures. Nul ne prendra rien ; nous sommes ici pour honorer votre lignée, non pour la spolier.
 
-*(Mathurin ouvre grand la porte de la grange. Ils entrent tous)*
+*(Mathurin s'écarte. Ils se placent autour du billot et de la caisse.)*
 
 **Le curé :** *(dépliant doucement un vieux parchemin jauni sur la table)*
 Regardez ce que les archives du diocèse m'ont révélé ce matin ! Une lettre officielle signée de la main même du grand vicaire, datée de l'hiver 1838 ! Elle comporte un numéro de registre mystérieux qui recoupe exactement la date du passage des patriotes canadiens réfugiés dans notre canton !
@@ -44,7 +44,7 @@ Voyez cet uniforme sans insignes, de drap bleu sombre... Et ce petit carnet de c
 **Le brave garde :** *(saisissant les objets)*
 C'est... c'est à nous. À nous tous.
 
-***Zéphyrine :** *(fixant Joseph avec une fierté immense)*
+**Zéphyrine :** *(fixant Joseph avec une fierté immense)*
 Et nous avons parmi nous l'esprit le plus fin du pays pour en percer le dernier mystère. Joseph... À vous de faire parler ces souvenirs !
 
 (Joseph s'incline devant Zéphyrine, un sourire confiant et radieux aux lèvres, et saisit le carnet de comptes sous le regard admiratif de toute l'assemblée.)

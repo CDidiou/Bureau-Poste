@@ -5,9 +5,9 @@ version: 1.0
 weight: 18
 ---
 
-*(Un silence pesant s'installe. La lumière vacillante de l'étable s'éteint brusquement. La voix de la sage-femme, vieillie, rocailleuse, brisée par les années de solitude, s'élève du noir absolu et s'adresse directement au lecteur.)*
+*(Un silence pesant s'installe. La lumière vacillante de l'étable s'éteint. Noir. Long silence. Puis la voix de Marie-Zéphyrine, presque sans souffle.)*
 
-**Marie-Zéphyrine**
+**Marie-Zéphyrine :**
 Quittez donc ce livre si vous cherchiez la consolation des sermons ! Posez-le sur la table et allez vous coucher. L’histoire est moche, vous m'entendez ? Les hommes sont moches. Le monde est moche.
 
 Vous croyiez quoi ? Que le prêche du curé allait transformer ces âmes de boue en saints de vitrail ? Qu’ils allaient se tomber dans les bras en pleurant de fraternité ? La réalité n’a rien d'un chant d'église. Elle retombe à plat, vilaine et sèche comme une pelletée de terre sur un sapin.
@@ -18,7 +18,7 @@ Vous croyiez quoi ? Que le prêche du curé allait transformer ces âmes de boue
 
 Mais ce monde-là, je le refuse ! Je le rature ! Je le crache !
 
-Puisque les hommes sont incapables d'être grands, je vais les forcer à l'être ! Si la vie ne sait que briser les êtres, mes pages, elles, vont les ressusciter ! Ce que le prêche du curé promettait pour le ciel, je vais le bâtir ici, sous ma plume, au paradis des mots !
+Puisque les hommes sont incapables d'être grands, je vais les forcer à l'être ! Si la vie ne sait que briser les êtres, mes pages, elles, vont les ressusciter ! Ce que le prêche du curé promettait pour le ciel, je vais le bâtir ici, sous ma plume, au paradis des mots ! Dans mon royaume, Joseph a retrouvé sa force, le prêtre a retrouvé son âme parce que je lui ai appris à s'en servir, Mathurin a ouvert ses granges sous mon égide et l'enfant... oh, l'enfant respire, parce que j'ai daigné le sauver !
+Regardez-les... Ils sont là. Ils ne toussent plus. Ils ne comptent plus leurs pièces. Écoutez le souffle du roman qui se lève ! Écoutez l'amour et la gloire qui s'emparent d'un monde enfin juste ! Cette fois, ils parleront avec leur cœur.
 
-Regardez-les... Ils sont là. Ils ne toussent plus. Ils ne comptent plus leurs pièces. Dans mon cœur, Joseph a retrouvé sa jambe, le prêtre a retrouvé son âme, Mathurin a ouvert ses granges et l'enfant... oh, l'enfant respire ! Écoutez le souffle du roman qui se lève ! Écoutez l'amour et la gloire qui s'emparent de nous ! Bienvenue dans ma vérité !
-
+Maintenant... tournez la page.
