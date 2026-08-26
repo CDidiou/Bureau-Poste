@@ -5,10 +5,22 @@ version: 1.0
 weight: 22
 ---
 
-*(Même décor dans la grange de Mathurin, illuminée comme un salon de fête. Le petit carnet de comptes de l'expédition Hindelang et une vieille carte topographique de 1837 sont étalés sur le couvercle du coffre militaire. Joseph est au centre, un compas d'arpenteur à la main, tandis que Zéphyrine, le Curé, le Garde Champêtre et Mathurin se pressent autour de lui dans un silence plein d'attente et de fraternité.)*
+*(Même décor dans la grange de Mathurin, illuminée par les lanternes. Le petit carnet de comptes et une vieille carte topographique sont étalés sur le coffre. Joseph est au centre, un compas à la main, entouré des quatre autres.)*
 
 **Joseph :** *(son regard étincelant d'une intelligence vive, traçant une ligne au crayon sur la carte)*
-Regardez bien ici, mes chers amis ! Le numéro trois cent quarante-deux que monsieur le Curé a exhumé des registres du diocèse n'est pas une simple référence de sacristie ! C'est le numéro d'un alinéa cadastral expurgé lors de la révision de 1840 !
+Regardez bien ici, mes chers amis ! Le numéro trois cent quarante-deux que monsieur le Curé a exhumé des registres n'est pas une simple référence ! C'est le numéro d'un alinéa cadastral expurgé... Et si on le croise avec ce carnet, la vérité éclate : les louis d'or envoyés pour les patriotes n'ont pas disparu ! Le trésor a été caché sous l'ancien bornage du prunier, sur la parcelle de Mathurin !
+
+**Le père Mathurin :**
+De l’or ? Des louis d'or ! Sous mon prunier ?! Mais c’est à moi ! C’est sur ma terre, donc c'est ma propriété, et pas question de le partager avec le canton ou avec qui que ce soit ! Si vous touchez à une seule motte de terre chez moi, je vous chasse à coups de fusil, bande de vautours venus piller mon bien !
+
+**Zéphyrine :** *(s'avançant, indomptable et lumineuse)*
+Mathurin ! Cet or n’est pas le fruit de votre labeur, c'est le sang de l'Histoire. Ce trésor appartient à la communauté.
+
+**Joseph :** *(s'interposant avec une aisance solaire)*
+Mathurin, vos terres sont grandes, mais votre cœur l'est encore plus quand vous comprenez que la richesse ne vaut que partagée. Nul ne vous spolie ; cet or servira à élever tout le village, sous votre propre nom et avec votre bénédiction.
+
+**Le père Mathurin :**
+Vous avez raison... Mais que tout le monde sache que ça vient de chez moi !
 
 **Le curé :** *(joignant les mains d'émerveillement)*
 Incroyable ! La Providence avait tout écrit ! Ce registre que je croyais endormi sous la poussière de l'évêché était la clef exacte que vous cherchiez, Joseph !
@@ -23,7 +35,7 @@ Et dire que ce trésor de liberté dormait sous la terre de mon père depuis pr�
 Vous voyez, Joseph ? Votre passion pour les papiers et les lignes du cadastre n'était pas une vanité... C'était le fil d'or qui devait nous conduire tous vers cette vérité héroïque !
 
 **Le brave garde :** *(ajustant fièrement son calot, la voix tremblante de fierté)*
-Une caisse d'or et d'honneur gardée par le canton ! Je vais de ce pas consigner cette découverte sur le registre de la garde, et nous planterons un drapeau au-dessus du prunier pour marquer le lieu où la France et le Canada se sont donné la main !
+Une caisse d'or et d'honneur gardée par le canton ! Je planterai un drapeau au-dessus du prunier pour marquer le lieu où la France et le Canada se sont donné la main !
 
 **Joseph :** *(se tournant vers Zéphyrine, lui prenant tendrement la main sous le regard bienveillant du Curé)*
 L'or du trésor importe peu, mes amis. Ce qui compte, c'est la lumière qu'il jette sur notre union. Rien n'a été fait pour la cupidité d'un seul, mais tout pour la gloire et le bonheur de notre communauté !
@@ -31,4 +43,4 @@ L'or du trésor importe peu, mes amis. Ce qui compte, c'est la lumière qu'il je
 **Le curé :**
 Amen ! Que cette sagesse guide chacun de nos pas ! Ce soir, l'Histoire ne nous sépare plus : elle nous rassemble dans un même élan d'amour !
 
-(Tous entourent Zéphyrine et Joseph, échangeant des rires et des poignées de main chaleureuses, tandis que Joseph replie délicatement la carte sous la lumière dorée des lanternes.)
+*(Tous entourent Zéphyrine et Joseph, échangeant des rires et des poignées de main chaleureuses, tandis que Joseph replie délicatement la carte.)*

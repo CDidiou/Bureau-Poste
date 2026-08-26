@@ -5,13 +5,18 @@ version: 1.0
 weight: 21
 ---
 
-*(La grange de Mathurin. les poutres sont astiquées, de grandes lampes à huile éclairent chaleureusement l'espace et l'odeur du foin frais se mêle à celle du bois cire. Mathurin, la mine réjouie et le geste accueillant, invite Zéphyrine, Joseph, le Curé, et le Garde Champêtre à s'approcher d'un tabernacle de chêne sculpté disposé au centre de la pièce.)*
+*(La grange de Mathurin. Des lampes à huile éclairent l'espace. Mathurin, la mine sombre et les mâchoires serrées, montre du doigt une vieille caisse poussiéreuse posée sur un billot, bousculant brutalement un tabouret sur son passage.)*
 
-**Le père Mathurin :** *(s'inclinant avec une grande courtoisie)*
-Entrez, mes amis, entrez sous mon toit ! Quelle bénédiction de vous voir réunis ce soir autour de cette mémoire que mon père gardait comme un trésor sacré !
+**Le père Mathurin :** *(grognant, barrant l'accès d'un geste menaçant)*
+Avancez pas trop vite, tas de fainéants ! Ne touchez à rien ! Ce coffre, c'est le mien, et tout ce qu'il y a dedans est à moi, payé par le sang de mes ancêtres ! Qu'on ne vienne pas me piller sous prétexte de fraternité ou d'histoire locale, ou je lâche les chiens !
 
-**Le curé :** *(dépliant doucement un vieux parchemin jauni sur la table, la voix emplie d'une ferveur lumineuse)*
-Regardez ce que les archives du diocèse m'ont révélé ce matin, mes frères ! Une lettre officielle signée de la main même du grand vicaire, datée de l'hiver 1838 ! Elle comporte un numéro de registre mystérieux qui recoupe exactement la date du passage des patriotes canadiens réfugiés dans notre canton !
+**Joseph :** *(s'interposant avec une aisance souveraine)*
+Mathurin a raison de veiller sur son bien, mais il sait que nos mains sont pures. Nul ne prendra rien ; nous sommes ici pour honorer votre lignée, non pour la spolier.
+
+*(Mathurin ouvre grand la porte de la grange. Ils entrent tous)*
+
+**Le curé :** *(dépliant doucement un vieux parchemin jauni sur la table)*
+Regardez ce que les archives du diocèse m'ont révélé ce matin ! Une lettre officielle signée de la main même du grand vicaire, datée de l'hiver 1838 ! Elle comporte un numéro de registre mystérieux qui recoupe exactement la date du passage des patriotes canadiens réfugiés dans notre canton !
 
 **Joseph :** *(rapprochant sa lanterne, examinant le chiffre d'un œil brillant de génie)*
 Un numéro d'ordre ! Le trois cent quarante-deux ! C'est la clef de voûte de toute l'affaire !
@@ -19,19 +24,25 @@ Un numéro d'ordre ! Le trois cent quarante-deux ! C'est la clef de voûte de to
 **Le père Mathurin :**
 Et voici le coffre que les vaillants insurgés de l'expédition Hindelang ont confié à ma famille avant d'affronter leur destin !
 
-*(Mathurin retire sans aucun effort un lourd cadenas doré qui s'ouvre dans un déclic harmonieux. Il soulève le couvercle de la caisse militaire en bois de hêtre. Zéphyrine, le Curé, et le Garde Champêtre se penchent, émerveillés.)*
+**Le brave garde :**
+Halte là ! Et si le sous-préfet arrive ? Si c'est du matériel subversif ? Il faut un mandat pour ouvrir une caisse de rebelles, c'est le règlement.
+
+**Zéphyrine :**
+Mon pauvre Garde, aucun sous-préfet n'a de pouvoir sur la beauté de ce qui s'ouvre ici. Joseph veille, et notre amour est le seul sauf-conduit qui vaille. Respirez, vous êtes en sécurité sous notre égide.
+
+**Le brave garde :**** *(ému aux larmes, se découvrant la tête)*
+Ah... Zéphyrine... Avec vous et Joseph, je ne crains plus rien ! Alors, c'est l'honneur de notre canton que nous allons découvrir. Mathurin, ouvre ce coffre, je te l'ordonne !
+
+*(Mathurin retire un lourd cadenas doré qui s'ouvre dans un déclic harmonieux. Il soulève le couvercle de la caisse militaire en bois de hêtre. Zéphyrine, le curé, et le garde champêtre se penchent, émerveillés.)*
 
 **Zéphyrine :** *(portant la main à ses lèvres)*
 Quelle merveille... Tout y est conservé comme au premier jour.
 
-**Le père Mathurin :** *(sortant les objets un à un avec une humilité et une tendresse touchantes)*
-Voyez cet uniforme sans insignes, de drap bleu sombre, taillé pour la liberté... Et ce petit carnet de comptes où sont inscrites en lettres d'or les souscriptions des villageois de l'époque... Et enfin, ces cachets de plomb portant l'empreinte de la devise des insurgés ! Pas une pièce ne manque.
+**Le père Mathurin :** *(sortant les objets un à un)*
+Voyez cet uniforme sans insignes, de drap bleu sombre... Et ce petit carnet de comptes où sont inscrites les souscriptions des villageois de l'époque... Et enfin, ces cachets de plomb portant l'empreinte de la devise des insurgés ! Pas une pièce ne manque.
 
-**Le garde champêtre :** *(ému aux larmes, se découvrant la tête)*
-C'est l'honneur de notre canton qui reposait là, sous la paille de Mathurin ! Penser que des braves venus de Montréal ont foulé nos chemins et laissé ici leur empreinte !
-
-**Le curé :**
-La Providence a veillé sur ce coffre pour que nous le rouvrions ensemble, dans la paix et l'amour vertueux de notre communauté !
+**Le brave garde :** *(saisissant les objets)*
+C'est... c'est à nous. À nous tous.
 
 ***Zéphyrine :** *(fixant Joseph avec une fierté immense)*
 Et nous avons parmi nous l'esprit le plus fin du pays pour en percer le dernier mystère. Joseph... À vous de faire parler ces souvenirs !

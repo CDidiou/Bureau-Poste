@@ -1,55 +1,42 @@
 ---
-title: "Avec des pincettes"
+title: "Premiers crachats"
 date: 2026-08-24
 version: 1.0
 weight: 12
 ---
 
-*(La limite du canton, matérialisée par un fagot de ronces en travers du chemin et un écriteau à la peinture fraîche : « HALTE SANITAIRE - DEFENSE DE PASSER ». Le Garde Champêtre, le visage rouge de sueur et de fermeté, tient à bout de bras un long fusil sans bretelle qu'il réajuste à chaque instant sous l'aisselle. Assus sur une borne en pierre, un couteau à la main, Mathurin épluche calmement un navet en le regardant faire.)*
+*(Le porche du presbytère. Le Curé, le visage tendu et fatigué, pose au sol une valise en cuir usée et un grand sac de toile ficelé. Il vérifie une dernière fois le verrou de la lourde porte en chêne. La Sage-Femme arrive du bas de la rue, une couverture de laine sous le bras et du désinfectant sur ses habits.)*
 
-**Le garde champêtre :** *(reculant d'un pas, ajustant son fusil)*
-Je vous dis qu'on ne passe pas ! C’est l’arrêté de la commune ! Les pneus de votre engin touchent le sol du canton, donc l'air de vos poumons touche l'air du canton !
+**La Sage-Femme :** *(s'arrêtant net en voyant les valises)*
+Vous bouclez vos bagages, monsieur le Curé ? Le train de midi n'est pourtant pas encore annoncé.
 
-**Le coursier :** *(en capote de cuir, piétinant devant sa bicyclette chargée de sacoches, l'air ahuri)*
-Mais je suis le messager volant de la Sous-Préfecture ! J’ai quatre dépêches urgentes pour le maire, deux circulaires sur la graisse à cuir et un pli pour le receveur ! Vous ne m'empêcherez pas de faire ma tournée !
+**Le Curé :**
+L'évêque m'attend pour le conseil diocésain des secours. La discipline ecclésiastique ne s'arrête pas aux limites du canton, mademoiselle. C'est là-bas que se décident la répartition des aides et les prières publiques.
 
-**Le garde champêtre :**
-L'arrêté est très clair ! « Nul ne pénètre avec de la fièvre ou du courrier provenant d'une zone contaminée. » La ville est contaminée. Vous venez de la ville. Donc vous êtes un vecteur !
+**La Sage-Femme :**
+Les prières publiques ! Quand la sueur noire monte aux poumons des enfants et que les mères étouffent dans leur lit, votre évêque est bien à l'abri derrière ses vitraux ! Et c'est à la ville qu'on a le plus besoin de bonnets de nuit et de cierges ?
 
-**Mathurin :** *(sans lever les yeux de son navet, avec une voix traînante)*
-Il a raison, le fonctionnaire. Si tu lui laisses franchir les ronces, la grippe va sauter sur ton fusil et te bouffer la crosse. C’est connu, ces petites bêtes-là, ça aime le bois sec et le galon d'argent.
+**Le Curé :** *(sa voix monte d'un ton, piqué au vif)*
+Ne jugez pas de mes devoirs, Mademoiselle ! La Sainte Église doit organiser la charité à l'échelle du diocèse ! Ma place est là où mes supérieurs m'ordonnent d'être !
 
-**Le garde champêtre :** *(tournant un œil inquiet vers Mathurin)*
-Tais-toi, le Mathurin ! Je fais respecter l'ordre public ! *(Au coursier)* Montrez vos mains !
+**La Sage-Femme :**
+Votre place est ici, au milieu de vos paroissiens qui meurent de trouille ! Vous leur laissez la salle paroissiale vide, un garde champêtre qui menace les bicyclettes avec un fusil sans bretelle, et monsieur le Major qui commence à cracher sa poussière en comptant les sacs de grain !
 
-**Le coursier :**
-Mes mains ? Mais elles sont dans des gants en peau de porc, sacré bougre !
+**Le Curé :**
+Le major sait très bien se garder tout seul.
 
-**Le garde champêtre :**
-Soufflez dedans pour voir si vous avez du feu sous le menton ! Si la buée est chaude, je tire en l'air pour donner l'alarme !
+**La Sage-Femme :**
+Le major est malade ! Il tousse à se rompre les côtes derrière son bureau de Poste ! Si vous partez maintenant, qui va donner les derniers sacrements quand le premier corps sera froid ? C'est le facteur qui va réciter les patenôtres avec son tampon ? C'est moi qui vais faire office de bedeau entre deux accouchements ?
 
-**Le coursier :** *(exaspéré)*
-Tirer en l'air ? Mais vous n'avez même pas de bretelle à votre pétard ! Si vous tirez, le recul va vous envoyer dans le fossé et c'est votre mousquet qui va me crever le pneu !
+**Le Curé :** *(fixant la Sage-Femme, les mains serrées sur la poignée de sa valise)*
+Vous m'accusez de désertion ?
 
-**Mathurin :** *(rigolant tout bas)*
-Ah, ça, c’est bien vrai. Le mois dernier, il a voulu tirer sur le chien du rémouleur, la crosse lui a sauté au menton, on a dû lui remettre les dents en place avec une tenaille à déferrer.
+**La Sage-Femme :**
+Je vous accuse de lâcheté, mon père ! Quand le berger fait marche arrière au moment où le loup franchit le ruisseau, on ne dit pas qu'il va au conseil diocésain : on dit qu'il a peur pour sa peau !
 
-**Le garde champêtre :** *(rougissant, serrant l'arme des deux mains)*
-C'était un coup de gel dans la culasse ! Ça n'a rien à voir ! *(Au coursier)* Je vous ordonne de déposer vos sacs sur la borne, de reculer de cinquante pas en comptant à haute voix, et je viendrai chercher les papiers avec une pincette à charbon !
+*(Un silence lourd s'installe. Au loin, le sifflet de la locomotive retentit dans la vallée, annonçant le passage du train en gare. Le Curé baisse les yeux vers ses valises, puis relève un regard sombre et déterminé vers la Sage-Femme.)*
 
-**Le coursier :**
-Une pincette à charbon ? Mais vous êtes devenus complètement timbrés dans votre patelin ! Je dois aller jusqu'au presbytère !
+**Le Curé :** *(lâchant lentement la poignée de sa valise qui retombe sur le pavé)*
+Le bon berger ne laisse pas ses brebis aux loups... Vous resterez avec votre crésyl, mademoiselle Marie. Et je reste avec mes registres de décès. Que Dieu ait pitié de nos âmes si la nuit qui vient est aussi noire que votre langue.
 
-**Mathurin :**
-N'y va pas, l'ami. Le presbytère est transformé en buanderie à choléra. La sage-femme y fait bouillir des serpillières et le Curé y pleure ses cierges. Si tu mets un pied là-dedans, elle va te tremper la sacoche dans le crésyl et te tondre la capote pour en faire du charpie.
-
-**Le coursier :** *(regardant le fagot de ronces, puis le Garde Champêtre qui menace d'échapper son fusil)*
-C'est du délire... Vous êtes fous fiers ! Qu'est-ce que je fais de mes sacs, alors ?
-
-**Le garde champêtre :**
-Vous les jetez par-dessus les ronces ! Et vous repartez en faisant le grand tour par la combe ! Sans tousser !
-
-**Mathurin :** *(se levant, essuyant la lame de son couteau sur sa culotte)*
-Balance-les, le coursier. De toute façon, le Boiteux est déjà repassé derrière toi pour savoir ce qu'il y avait dedans avant même que tu n'aies gonflé tes roues ce matin.
-
-*(Le coursier pousse un grand soupir de dépit, balance un paquet de pli ficelés par-dessus les ronces, fait demi-tour avec sa bicyclette en les maudissant. Le Garde Champêtre s'approche prudemment du paquet, son fusil braqué sur les enveloppes comme s'il s'agissait d'une portée de vipères.)*
+*(Il ramasse son sac, déverrouille à nouveau la porte du presbytère et rentre à l'intérieur en la repoussant d'un coup sec.)*

@@ -23,22 +23,36 @@ Exactement sous cet alinéa, Zéphyrine ! Mon esprit n'a pas douté un seul inst
 **Le brave garde :** *(obéissant avec empressement, approchant la lumière dans une grande ferveur)*
 Regardez ! Une dalle descellée sous le lierre !
 
+
+
+**Le père Mathurin :** *(bousculant violemment un buisson)*
+Ca suffit ! Vous êtes ici chez moi. Cette terre est à moi, les pierres sont à moi, et ce qu'il y a dessous est à moi ! Partez ! Partez, maintenant !
+
+**Zéphyrine :** *(ne reculant pas d'un pouce)*
+Mathurin, ne coupez pas le fil de votre propre âme ! Votre terre n'est grande que parce que nous la bénissons ensemble. Ce trésor est pour l'éternité de notre village.
+
+**Joseph :**
+Et votre nom, Mathurin, restera gravé dans la légende de ce canton, honoré par tous les vôtres. Nul ne vous volera rien, car nous veillons en frères.
+
 **Le père Mathurin :** *(s'agenouillant vivement avec humilité, écartant le lierre à mains nues sans le moindre effort)*
-Laissez-moi soulever la pierre ! Pour la mémoire des braves et pour la joie de notre canton !
+D'accord, mais laissez-moi sle premier oulever la pierre ! Pour la mémoire des braves et pour la joie de notre canton !
 
 (Mathurin déplace la pierre plate qui cède sans aucun frottement. Au fond d'une petite cavité garnie de velours sec repose un objet métallique rond, poli par le temps, qui miroite sous les rayons du soleil de minuit.)
 
 **Zéphyrine :** *(laissant échapper un souffle ravi)*
 Une médaille !
 
+**Le curé :** (s'interposant brusquement d'un geste sec, levant les mains pour faire barrage)
+Arrêtez ! Ne la touchez pas ! Cette médaille est consacrée, elle appartient au domaine exclusif de l’Église et des âmes défuntes ! La profaner sur la terre nue serait un sacrilège ! Elle doit retourner immédiatement dans le coffre du diocèse, scellée par nos prières et protégée de vos mains curieuses !
+
+**Zéphyrine :** *(s'avançant, le regard fulgurant de passion et d'audace)*
+Le véritable sacrilège, Monsieur le Curé, serait d'enfouir à nouveau la vérité dans la nuit et le silence ! Dieu n'a pas mis ce trésor sur notre chemin pour qu'il pourrisse dans un inventaire de sacristie. Joseph est la lumière qui éclatera le sceau du mystère ; laissez la vie parler à travers lui !
+
 **Le curé :** *(la ramassant avec précaution entre deux doigts, la soulevant vers le ciel)*
-C'est la médaille de Saint-Joseph ! Le patron des charpentiers et des causes justes ! Regardez, elle est faite de deux coquilles d'argent emboîtées avec un artifice merveilleux.
+Soit. Que la grâce soit avec nous. C'est la médaille de Saint-Joseph ! Le patron des charpentiers et des causes justes ! Regardez, elle est faite de deux coquilles d'argent emboîtées avec un artifice merveilleux.
 
 **Joseph :** *(prenant la médaille d'un geste délicat et l'ouvrant sans la moindre résistance d'une simple pression du pouce)*
 Et elle s'ouvre comme une fleur au matin ! À l'intérieur repose un petit parchemin plié en quatre !
-
-**Le brave garde :** *(poussant un cri de joie en jetant son calot en l'air)*
-Hourra ! Nous l'avons trouvée ! Pas un obstacle, pas une querelle ! La victoire absolue de notre amitié !
 
 **Zéphyrine :** *(prenant la main de Joseph et la serrant sur son cœur)*
 Lisez-le nous, Joseph ! Lisez-nous le secret qui scelle à jamais la beauté de notre aventure !

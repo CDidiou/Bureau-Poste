@@ -1,44 +1,36 @@
 ---
-title: "Le chantage"
+title: "Sous la paille"
 date: 2026-08-24
 version: 1.0
 weight: 8
 ---
 
-*(Un après-midi au bord de la rivière, à une dizaine de mètres du lavoir où le battement régulier des battoirs et le jaser des lavandières font un fond sonore continu. La sage-femme s'est retirée à l'écart avec la femme du charpentier, sous prétexte de lui donner des herbes sèches pour sa grande qui tousse rouge. La femme du charpentier tient fermement la main de son gamin — le petit du charpentier —, terrifié.)*
+*(En bordure du hameau voisin. Le jour baisse. Mathurin charrie une charge lourde près de sa grange. Le boiteux arrive à la ferme du paysan à son rythme, appuyé sur son bâton.)*
 
-**La Sage-Femme :** *(tirant un paquet de ficelles d'une main, de l'autre tenant le bras du gamin avec une poigne d'acier)*
-Regarde-moi bien, le petit. Et écoute avec tes deux oreilles.
+**Le Boiteux :**
+Tu travailles tard, Mathurin. On dirait que tu mets le grain à l'abri avant la pluie. Ou avant les gendarmes.
 
-**La femme du charpentier :** *(nerveuse, coup d'œil inquiet vers les autres femmes au lavoir)*
-Laissez-le, mademoiselle... Il a déjà eu bien assez peur hier soir avec ses courses dans le noir.
+**Mathurin :** *(sans s'arrêter)*
+La pluie ou les gendarmes, ça me regarde. Qu'est-ce que tu viens traîner par ici ?
 
-**La Sage-Femme :** *(sans lâcher l'enfant, le ton glacé)*
-Il a peur parce qu'il a la langue trop pendue pour son âge. Figure-toi, la mère, qu'hier soir, à la fontaine, monsieur se promenait avec son pot d'eau. Et il a cru voir le diable en personne à côté du bassin. Ce matin, il avait déjà l'air d'un bavard prêt à chanter la messe à son père.
+**Le Boiteux :**
+L'intérêt général, mon vieux. La préfecture a fait tomber le décret : réquisition des pailles pour l'hôpital du canton. Et comme le registre du bureau de poste provisoire dit que ta parcelle de la Côte longe le communal, il te faut donner dix bottes de seigle.
 
-**La femme du charpentier :** *(blêmissant)*
-Mon homme est un violent, vous le savez bien... S'il apprend que le gamin a traîné dehors après la ronde, il va lui passer l'avoyeur sur le dos !
+**Mathurin :** *(posant son sac avec violence)*
+Pas un brin de paille. Ni pour la Gueuse, ni pour la ville, ni pour ton canton de fiévreux.
 
-**La Sage-Femme :** *(s)'approchant tout près de la femme du charpentier, voix très basse, venimeuse)*
-Oh, ce n'est pas de la volée du charpentier que tu devrais avoir peur, la mère. Parce que si ton gamin continue à raconter des contes de fées sur ce qu'il voit la nuit, je vais me rafraîchir la mémoire. Et je pourrais bien aller raconter au charpentier comment s'est passé ton accouchement pour celui-ci.
+**Le Boiteux :** *(tranquille)*
+N'élève pas le ton, tu vas te gâter le sang. Tu sais comme moi que si la préfecture vérifie le bornage du chemin du bas, ta grange déborde d'un mètre sur le droit de passage. Si je laisse le garde champêtre repasser l'arpentage pour la désinfection au crésyl, tes murs vont rapetisser de moitié. Mais si tu me laisses passer par là avec les charrois de la sage-femme, je peux oublier de pointer l'alinéa au registre.
 
-**La femme du charpentier :** *(s'étranglant)*
-De quoi... De quoi vous parlez ?
+**Mathurin :** *(il s'avance, menaçant, attrapant sa fourche)*
+Écoute-moi bien, le boiteux. Tu n'as jamais mis les pieds sur ma terre, et ce sera pareil demain. La grange est fermée. Le chemin est fermé. Si je vois une béquille repasser la haie, je te la casse sur le dos, préfecture ou pas préfecture. Ouste.
 
-**La Sage-Femme :** *(sourire court, sans chaleur)*
-Je parle de ses oreilles, la mère. Il n'a pas une seule ligne du charpentier sur le visage. Et quand je l'ai sorti de ton ventre il y a huit ans, on savait très bien toutes les deux que les graines ne venaient pas de l'atelier du bois. Tu veux qu'on aille demander au charpentier s'il se rappelle quelle tête avait le grand commis de la ville cet été-là ?
+*(Le Boiteux fait un demi-tour simulé. Son regard glisse le long de la porte entrouverte de la grange. Sous la bâche en toile bise tirée à la hâte, il croit voir le fer d'une cornière renforcée.)*
 
-**La femme du charpentier :** *(les larmes aux yeux, attrapant son fils par le col pour le coller contre sa jupe)*
-Taisez-vous... Par pitié, taisez-vous ! Le charpentier le tuerait, et moi avec !
+**Le Boiteux :** *(s'arrêtant, le regard fixé sur l'ombre de la porte, un sourire lent dessinant son visage)*
+Tu as bien de la colère pour trois bottes de seigle, Mathurin... Qu'est-ce que tu as mis sous ta paille pour avoir si peur qu'on approche un buvard ?
 
-**La Sage-Femme :** *(tranchante)*
-Alors tiens ton fils. Cloue-lui le bec à la table de famille. Qu'il n'ait pas un mot sur la fontaine, pas un mot sur moi. Si j'entends la moindre rumeur sortir de chez vous avant la fin de la semaine, c'est moi qui irai toucher deux mots à ton homme entre deux coups de rabot. Tu m'as bien comprise ?
+**Mathurin :** *(bloquant brusquement la fissure de la porte de son corps, la voix sourde et tremblante de rage)*
+Je ne répéterai pas. Fous le camp.
 
-**La femme du charpentier :** *(secouant le gamin avec colère)*
-Tu entends, toi ? Pas un mot ! Tu ne dis rien à ton père, jamais ! Ni sur l'eau, ni sur rien !
 
-**La petit du charpentier :** *(nez coulant, la voix étouffée)*
-Oui, maman... J'ai rien vu, je jure...
-
-**La Sage-Femme :** *(lui tendant froidement le paquet d'herbes)*
-Voilà pour la tisane. Faites bouillir deux fois. Et maintenant, retourne au lavoir avant que les autres n'en fassent des choux gras.

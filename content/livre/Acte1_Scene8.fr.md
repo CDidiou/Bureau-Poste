@@ -1,48 +1,44 @@
 ---
-title: "Eau de vie"
+title: "L'ambulance au presbytère"
 date: 2026-08-24
 version: 1.0
 weight: 10
 ---
 
-*(Le soir tombe. La bordure de la parcelle de Mathurin, devant sa grange. Mathurin s'échine à clouer de lourdes planches de réemploi et des morceaux de volige en travers des battants de la porte pour en boucher tous les interstices. Le Garde Champêtre arrive par le chemin du bas, le bras en écharpe, la marche un peu lourde mais l'œil aux aguets.)*
+*(La grande salle paroissiale du presbytère. Une grande table de bois sombre est encombrée d'images pieuses, de cierges et de registres de fabrique. Le Curé plie soigneusement des chasubles et range ses missels. La porte s'ouvre à la volée. La Sage-Femme entre, un grand panier d'osier sous le bras, débordant de draps de lin et d'herbes séchées, suivie du Garde Champêtre qui porte à bout de bras deux grands baquets de bois et des rouleaux de bandes d'étoupe.)*
 
-**Le Garde Champêtre :**
-Tu t'échines à cette heure, Mathurin ? On dirait un blaireau qui rebouche son trou avant la nuit.
+**Le Curé :** *(surpris par la manœuvre, s'interposant devant la table)*
+Que signifie ce tintamarre, Mademoiselle ? Vous n'êtes pas au marché !
 
-**Mathurin :** *(sans lever les yeux, frappant un coup de marteau rageur sur une pointe)*
-Je ferme chez moi. L'arrêté du curé et de la préfecture est clair : confinement, interdiction de bouger. Je fais appliquer.
+**La Sage-Femme :**
+Posez cela sur les bancs, Garde.
 
-**Le Garde Champêtre :** *(regardant le bric-à-broc de bois cloué sur la porte, un brin moqueur)*
-Tu le fais appliquer avec du bon sapin de récupération et de la volige bien serrée, dis donc. Le préfet a dit « restez chez vous », pas « montez un fortin ». Tu as peur que la grippe passe à travers les lames de la porte ? Ou c'est le Boiteux qui te donne des sueurs froides ?
+**Le Curé :** 
+Ces bancs me sont nécessaires pour le catéchisme.
 
-**Mathurin :** *(s'arrêtant, le marteau en l'air, le fixant)*
-Le Boiteux a voulu jouer des papiers. Des papiers, des papiers... Moi, je me barricade au cas où. Et toi, tu ferais mieux de retourner au village avant que je ne te compte dans les intrus.
+**La Sage-Femme :**
+Le catéchisme attendra que les poumons du canton arrêtent de siffler ! Garde, vous pouvez repartir. Merci pour votre aide !
 
-**Le Garde Champêtre :** *(souriant, s'approchant sans crainte)*
-Oh, doucement. Les papiers du Boiteux, je sais ce qu'ils valent : autant que ma cartouche de l'autre jour, ils sont partis à côté. Il est venu me raconter ses histoires de cadastre et d'ambulance. Mais té ! Je l'ai vu l'autre nuit, autour du vieux prunier de bornage... Il ne cherchait pas de la paille, il cherchait à faire bouger les limites avec sa guibolle en bois ! C'est un roublard, mais ici, on est deux à connaître le terrain.
+**Le Garde Champêtre :** *(essuyant la sueur de son front avec sa manche, hésitant)*
+Avec tout mon respect, Mademoiselle...
+*(Il jette un coup d'œil inquiet au Curé, baisse la tête et sort précipitamment.)*
 
-**Mathurin :** *(méfiant, baissant légèrement sa masse)*
-Qu'est-ce que tu es en train de me chanter, Garde ?
+**Le Curé :**
+C’est un sacrilège, Mademoiselle ! Cette salle est réservée aux œuvres de la Fabrique et au réconfort des âmes ! Vous ne pouvez pas transformer le presbytère en infirmerie sans l'accord de l'évêché !
 
-**Le Garde Champêtre :**
-Rien du tout ! Je dis juste que si tu cloues ton portail comme un sourd, la maréchaussée ou le maire vont trouver ça gros comme une maison. Par contre... si c'est moi qui pose le sceau communal sur tes battants pour « quarantaine officielle de sous-secteur », personne ne viendra y foutre le nez. Ni le Boiteux, ni les gendarmes.
+**La Sage-Femme :** *(déchargeant brutalement ses paquets de linge sur la table, poussant les cierges de côté)*
+Vos âmes, Monsieur le Curé, elles auront tout le temps de brûler en purgatoire si leurs corps étouffent dans leur crachat d'ici la fin de la semaine ! De l'eau chaude et du crésyl, voilà ce qu'il faut ! Pas des patenôtres !
 
-**Mathurin :** *(surpris, fronçant les sourcils)*
-Et tu ferais ça ? Et pourquoi ?
+**Le Curé :** *(la voix tremblante d'indignation)*
+La maladie est une épreuve envoyée pour purifier les cœurs, pas une affaire de serpillières et de baquets ! Vous chassez la prière pour y mettre de la charpie et de la tisane !
 
-**Le Garde Champêtre :** *(à voix plus basse, avec un clin d'œil)*
-D'abord, parce que le Boiteux ne me revient pas avec ses airs de chef de bureau. Et puis... tu le sais, Mathurin. Même que tu sais que je le sais. Je ne suis pas aveugle. Je sais très bien ce que tu gardes sous les bâches depuis la démobilisation. Les caisses de bon fer et de cuivre abandonnées, de la fauche au tortillard, oh que ça se revend finement à la ville...
+**La Sage-Femme :** *(s'arrêtant net, le pointant du doigt)*
+La fièvre ne fait pas de théologie, mon père ! Quand les premiers fiévreux vont arriver du bas du canton en crachant du sang noir, vous leur lirez le livre des Psaumes ? Vous leur direz de prier pendant que leurs poumons se remplissent d'eau ? Il me faut trois lits de camp, du lin propre, et un endroit sec pour faire bouillir mes instruments. Votre presbytère a trois cheminées qui tirent droit et un plancher sans humidité. L'ambulance sera ici.
 
-**Mathurin :** *(saisissant le garde par le revers du col, la voix menaçante)*
-Méfie-toi...
+**Le Curé :**
+C'est ma maison ! L'autorité ecclésiastique...
 
-**Le Garde Champêtre :** *(serein, malgré la prise)*
-Mais je m'en fous, moi, de ton bric-à-brac ! C'est pas comme la gniole, ça oui ! Un miracle offert par le Bon Dieu. Et toi, des prunes pour la goutte, tu en as plus que tu ne sais en compter. Je n'aimerais pas que tu te fasses poisser par la préfecture, tu comprends ? En plus, ce serait tout le canton qui aurait les pandores dans les jupes. Alors si tu es d'accord, je reviens demain avec une vraie affiche estampillée « Zone infectée - Interdiction absolue », sur ton portail. Une officielle. Avec le coup de tampon de la mairie.
+**La Sage-Femme :** *(emplissant une jatte d'eau claire qu'elle pose avec fracas devant lui)*
+Ce sera un havre de survie, mon père. Que cela vous plaise ou non. Et si la Sainte Vierge repasse par ici, elle aimera mieux trouver du linge propre pour essuyer le front des mourants que vos bouquins pleins de poussière !
 
-**Mathurin :** *(relâchant lentement la veste du garde, esquissant un début de rictus)*
-Ouh, toi, tu les aimes, les prunes ! Ça, je le comprends !
-
-**Le Garde Champêtre :**
-*Ajustant sa veste de son bras valide avec fierté*
-Faut bien que tout le monde s'arrrange. Allez, tu vas voir, on va te l'organiser dans les règles, ce confinement.
+*(Le Curé la regarde, les lèvres serrées, incapable de répondre devant sa détermination.)*

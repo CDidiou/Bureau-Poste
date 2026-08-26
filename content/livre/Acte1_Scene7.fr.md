@@ -1,36 +1,48 @@
 ---
-title: "Sous la paille"
+title: "Eau de vie"
 date: 2026-08-24
 version: 1.0
 weight: 9
 ---
 
-*(En bordure du hameau voisin. Le jour baisse. Mathurin charrie une charge lourde près de sa grange. Le boiteux arrive à la ferme du paysan à son rythme, appuyé sur son bâton.)*
+*(Le soir tombe. La bordure de la parcelle de Mathurin, devant sa grange. Mathurin s'échine à clouer de lourdes planches de réemploi et des morceaux de volige en travers des battants de la porte pour en boucher tous les interstices. Le Garde Champêtre arrive par le chemin du bas, le bras en écharpe, la marche un peu lourde mais l'œil aux aguets.)*
 
-**Le Boiteux :**
-Tu travailles tard, Mathurin. On dirait que tu mets le grain à l'abri avant la pluie. Ou avant les gendarmes.
+**Le Garde Champêtre :**
+Tu t'échines à cette heure, Mathurin ? On dirait un blaireau qui rebouche son trou avant la nuit.
 
-**Mathurin :** *(sans s'arrêter)*
-La pluie ou les gendarmes, ça me regarde. Qu'est-ce que tu viens traîner par ici ?
+**Mathurin :** *(sans lever les yeux, frappant un coup de marteau rageur sur une pointe)*
+Je ferme chez moi. L'arrêté du curé et de la préfecture est clair : confinement, interdiction de bouger. Je fais appliquer.
 
-**Le Boiteux :**
-L'intérêt général, mon vieux. La préfecture a fait tomber le décret : réquisition des pailles pour l'hôpital du canton. Et comme le registre du bureau de poste provisoire dit que ta parcelle de la Côte longe le communal, il te faut donner dix bottes de seigle.
+**Le Garde Champêtre :** *(regardant le bric-à-broc de bois cloué sur la porte, un brin moqueur)*
+Tu le fais appliquer avec du bon sapin de récupération et de la volige bien serrée, dis donc. Le préfet a dit « restez chez vous », pas « montez un fortin ». Tu as peur que la grippe passe à travers les lames de la porte ? Ou c'est le Boiteux qui te donne des sueurs froides ?
 
-**Mathurin :** *(posant son sac avec violence)*
-Pas un brin de paille. Ni pour la Gueuse, ni pour la ville, ni pour ton canton de fiévreux.
+**Mathurin :** *(s'arrêtant, le marteau en l'air, le fixant)*
+Le Boiteux a voulu jouer des papiers. Des papiers, des papiers... Moi, je me barricade au cas où. Et toi, tu ferais mieux de retourner au village avant que je ne te compte dans les intrus.
 
-**Le Boiteux :** *(tranquille)*
-N'élève pas le ton, tu vas te gâter le sang. Tu sais comme moi que si la préfecture vérifie le bornage du chemin du bas, ta grange déborde d'un mètre sur le droit de passage. Si je laisse le garde champêtre repasser l'arpentage pour la désinfection au crésyl, tes murs vont rapetisser de moitié. Mais si tu me laisses passer par là avec les charrois de la sage-femme, je peux oublier de pointer l'alinéa au registre.
+**Le Garde Champêtre :** *(souriant, s'approchant sans crainte)*
+Oh, doucement. Les papiers du Boiteux, je sais ce qu'ils valent : autant que ma cartouche de l'autre jour, ils sont partis à côté. Il est venu me raconter ses histoires de cadastre et d'ambulance. Mais té ! Je l'ai vu l'autre nuit, autour du vieux prunier de bornage... Il ne cherchait pas de la paille, il cherchait à faire bouger les limites avec sa guibolle en bois ! C'est un roublard, mais ici, on est deux à connaître le terrain.
 
-**Mathurin :** *(il s'avance, menaçant, attrapant sa fourche)*
-Écoute-moi bien, le boiteux. Tu n'as jamais mis les pieds sur ma terre, et ce sera pareil demain. La grange est fermée. Le chemin est fermé. Si je vois une béquille repasser la haie, je te la casse sur le dos, préfecture ou pas préfecture. Ouste.
+**Mathurin :** *(méfiant, baissant légèrement sa masse)*
+Qu'est-ce que tu es en train de me chanter, Garde ?
 
-*(Le Boiteux fait un demi-tour simulé. Son regard glisse le long de la porte entrouverte de la grange. Sous la bâche en toile bise tirée à la hâte, il croit voir le fer d'une cornière renforcée.)*
+**Le Garde Champêtre :**
+Rien du tout ! Je dis juste que si tu cloues ton portail comme un sourd, la maréchaussée ou le maire vont trouver ça gros comme une maison. Par contre... si c'est moi qui pose le sceau communal sur tes battants pour « quarantaine officielle de sous-secteur », personne ne viendra y foutre le nez. Ni le Boiteux, ni les gendarmes.
 
-**Le Boiteux :** *(s'arrêtant, le regard fixé sur l'ombre de la porte, un sourire lent dessinant son visage)*
-Tu as bien de la colère pour trois bottes de seigle, Mathurin... Qu'est-ce que tu as mis sous ta paille pour avoir si peur qu'on approche un buvard ?
+**Mathurin :** *(surpris, fronçant les sourcils)*
+Et tu ferais ça ? Et pourquoi ?
 
-**Mathurin :** *(bloquant brusquement la fissure de la porte de son corps, la voix sourde et tremblante de rage)*
-Je ne répéterai pas. Fous le camp.
+**Le Garde Champêtre :** *(à voix plus basse, avec un clin d'œil)*
+D'abord, parce que le Boiteux ne me revient pas avec ses airs de chef de bureau. Et puis... tu le sais, Mathurin. Même que tu sais que je le sais. Je ne suis pas aveugle. Je sais très bien ce que tu gardes sous les bâches depuis la démobilisation. Les caisses de bon fer et de cuivre abandonnées, de la fauche au tortillard, oh que ça se revend finement à la ville...
 
+**Mathurin :** *(saisissant le garde par le revers du col, la voix menaçante)*
+Méfie-toi...
 
+**Le Garde Champêtre :** *(serein, malgré la prise)*
+Mais je m'en fous, moi, de ton bric-à-brac ! C'est pas comme la gniole, ça oui ! Un miracle offert par le Bon Dieu. Et toi, des prunes pour la goutte, tu en as plus que tu ne sais en compter. Je n'aimerais pas que tu te fasses poisser par la préfecture, tu comprends ? En plus, ce serait tout le canton qui aurait les pandores dans les jupes. Alors si tu es d'accord, je reviens demain avec une vraie affiche estampillée « Zone infectée - Interdiction absolue », sur ton portail. Une officielle. Avec le coup de tampon de la mairie.
+
+**Mathurin :** *(relâchant lentement la veste du garde, esquissant un début de rictus)*
+Ouh, toi, tu les aimes, les prunes ! Ça, je le comprends !
+
+**Le Garde Champêtre :**
+*Ajustant sa veste de son bras valide avec fierté*
+Faut bien que tout le monde s'arrrange. Allez, tu vas voir, on va te l'organiser dans les règles, ce confinement.

@@ -5,16 +5,16 @@ version: 1.0
 weight: 26
 ---
 
-*(La grande cuisine de Mathurin, baignée d'une lumière de fête. La table en chêne est encombrée de verres à pied, de bouteilles de vin vieux, de miches de pain entamées et du petit berceau d'osier où le nouveau-né dort paisiblement. Le Curé, la soutane légèrement déboutonnée au col, retrousse ses manches. Le Garde Champêtre, un grand buvard à la main, recharge un encrier de cuivre. Joseph tient la plume d'oie, prêt à écrire, tandis que Zéphyrine verse une larmichette de gnôle dans le café de Mathurin. Tous rient de bon cœur.)*
+*(La grande cuisine de Mathurin, baignée d'une lumière de fête. La table est encombrée de verres et de bouteilles. Le Curé, la soutane déboutonnée, retrousse ses manches. Le Garde Champêtre recharge un encrier. Joseph tient la plume d'oie, tandis que Zéphyrine verse une larmichette de gnôle dans le café de Mathurin.)*
 
 **Le père Mathurin :** *(rechargeant la pipe du Garde Champêtre avec un large sourire)*
-Rajoute une ligne sur le prunier, Joseph ! Dis que sous les racines, le capitaine canadien avait gravé la devise du canton avec la pointe de son sabre !
+Rajoute une ligne sur le prunier, Joseph ! Dis que sous les racines, le capitaine canadien avait gravé la devise du canton avec la pointe de son sabre, et que ça m'appartient en propre, corps et âme, sans que la commune n'ait à y fourrer son nez !
 
 **Le brave garde :** *(tapant du poing sur la table dans un grand éclat de rire)*
 Ah ! Et mets aussi que la maréchaussée de la ville a cherché le pli pendant trois jours sans jamais trouver le chemin, parce que j'avais déplacé la borne de la Combe de cinquante toises !
 
 **Le curé :** *(souriant, trempant son biscuit dans son vin de messe)*
-Ne surchargez pas trop le parchemin d'artifices séculiers, messieurs ! Gardons une part de mystère divin... Disons plutôt que la Providence a voilé les yeux des limiers de la Préfecture pour préserver l'innocence de nos vallées !
+Ne surchargez pas trop le parchemin d'artifices séculiers, messieurs ! Gardons une part de mystère divin, d'autant que ces patriotes étaient certainement de fieffés ivrognes... Disons plutôt que la Providence a voilé les yeux des limiers de la Préfecture pour préserver l'innocence de nos vallées !
 
 *Zéphyrine :** *(s'approchant de la table, se penchant par-dessus l'épaule de Joseph, posant doucement sa main sur la sienne qui tient la plume)*
 Laissez-les dire, Joseph... Mettez-y tout le romanesque de vos cartes, toute la poésie de nos nuits d'automne et toute la bravoure de vos ancêtres ! Il faut que ceux qui liront cette histoire dans cent ans en aient le cœur tout rempli d'émerveillement !
