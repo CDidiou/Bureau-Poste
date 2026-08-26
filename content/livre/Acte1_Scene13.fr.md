@@ -1,48 +1,44 @@
 ---
-title: "La Saint-Martin"
+title: "Le chantage"
 date: 2026-08-24
 version: 1.0
 weight: 15
 ---
 
-*(La nuit. Un orage d'automne d'une violence extrême s'abat sur le canton. Le vent fait claquer les volets et la pluie fouette rageusement le porche du presbytère. À l'intérieur, la Sage-Femme et le Curé trient des bandes de lin à la lumière d'une lanterne. Soudain, de lourds coups retentissent contre la porte, accompagnés d'un cri étouffé par la tempête.)*
+*(Le lendemain après-midi au bord de la rivière, à une dizaine de mètres du lavoir où le battement régulier des battoirs et le jaser des lavandières font un fond sonore continu. La sage-femme s'est retirée à l'écart avec la femme du charpentier, sous prétexte de lui donner des herbes sèches pour sa grande qui tousse rouge. La femme du charpentier tient fermement la main de son gamin — le petit du charpentier —, terrifié.)*
 
-**La Sage-Femme :** *(sursautant, posant ses ciseaux)*
-Qui peut bien traîner par un temps pareil ?
+**La Sage-Femme :** *(tirant un paquet de ficelles d'une main, de l'autre tenant le bras du gamin avec une poigne d'acier)*
+Regarde-moi bien, le petit. Et écoute avec tes deux oreilles.
 
-**Le Curé :**
-Si c'est encore le coursier à bicyclette, il va finir noyé dans le ruisseau...
+**La femme du charpentier :** *(nerveuse, coup d'œil inquiet vers les autres femmes au lavoir)*
+Laissez-le, mademoiselle... Il a déjà eu bien assez peur l'autre soir à la fontaine.
 
-*(Le Curé tire le verrou. La porte s'ouvre brusquement, repoussée par la bourrasque. Le Garde Champêtre s'écroule à moitié sur le seuil, trempé jusqu'aux os, hoquetant de fatigue et la poitrine haletante. Il tient sa lanterne éteinte d'une main et s'accroche au cadre de la porte de l'autre.)*
+**La Sage-Femme :** *(sans lâcher l'enfant, le ton glacé)*
+Il a peur parce qu'il a la langue trop pendue pour son âge. Et qu'est-ce qu'il a cru ? Voir le diable en personne à côté du bassin ! Ce n'est qu'un petit bavard que son père ferait mieux de corriger.
 
-**Le garde champêtre :** *(crachant de l'eau, essoufflé)*
-La Sage-Femme ! Vite... Il faut la Sage-Femme !
+**La femme du charpentier :** *(blêmissant)*
+Mon homme est un violent, vous le savez bien... S'il apprend que le gamin a traîné dehors après la ronde, il va lui passer l'avoyeur sur le dos !
 
-**La Sage-Femme :** *(s'approchant brusquement, attrapant le garde par les revers de sa veste)*
-Qu'est-ce qui se passe, Garde ? C'est la grippe ? Qui est touché dans le bas du canton ?
+**La Sage-Femme :** *(s'approchant tout près de la femme du charpentier, voix très basse, venimeuse)*
+Oh, ce n'est pas de la volée du charpentier que tu devrais avoir peur, la mère. Parce que si ton gamin continue à raconter des contes de fées sur ce qu'il voit la nuit, je vais me rafraîchir la mémoire. Et je pourrais bien aller raconter au charpentier comment s'est passé ton accouchement pour celui-ci.
 
-**Le garde champêtre :**
-Non ! Enfin... Je ne sais pas ! C'est la femme du Mathurin ! La Jeanne ! Elle s'est effondrée dans l'étable ! Elle hurle comme une damnée, le ventre dur comme de la pierre !
+**La femme du charpentier :** *(s'étranglant)*
+De quoi... De quoi vous parlez ?
 
-**Le Curé :**
-Déjà ? Mais son terme n'était pas prévu avant la Saint-Martin !
+**La Sage-Femme :** *(sourire court, sans chaleur)*
+Je parle de ses oreilles, la mère. Il n'a pas une seule ligne du charpentier sur le visage. Et quand je l'ai sorti de ton ventre il y a huit ans, on savait très bien toutes les deux que les graines ne venaient pas de l'atelier du bois. Tu veux qu'on aille demander au charpentier s'il se rappelle quelle tête avait le grand commis de la ville cet été-là ?
 
-**Le garde champêtre :**
-Elle a voulu porter un sac de trempe pour les bêtes avant que la grêle ne perce le toit ! Les eaux ont crevé par terre ! Le Mathurin est fou de rage, il tourne autour d'elle avec sa fourche, il croit que c'est le mauvais sort !
+**La femme du charpentier :** *(les larmes aux yeux, attrapant son fils par le col pour le coller contre sa jupe)*
+Taisez-vous... Par pitié, taisez-vous ! Le charpentier le tuerait, et moi avec !
 
-**La Sage-Femme :** *(attrapant immédiatement sa sacoche de cuir et son grand manteau de laine)*
-L'orage et la peur de la maladie... Rien de tel pour déclencher une délivrance prématurée.
+**La Sage-Femme :** *(tranchante)*
+Alors tiens ton fils. Cloue-lui le bec à la table de famille. Qu'il n'ait pas un mot sur la fontaine, pas un mot sur moi. Si j'entends la moindre rumeur sortir de chez vous avant la fin de la semaine, c'est moi qui irai toucher deux mots à ton homme entre deux coups de rabot. Et toi, retire tes griffes du major. Tu m'as bien comprise ?
 
-**Le Curé :** *(attrapant son étole et son huile sainte)*
-Je viens avec vous. Si l'enfant vient prématurément, il faudra le baptiser sans attendre.
+**La femme du charpentier :** *(secouant le gamin avec une colère de panique)*
+Tu entends, toi ? Pas un mot ! Tu ne dis rien à ton père, jamais ! Ni sur l'eau, ni sur rien !
 
-**La Sage-Femme :**
-Prenez vos huiles si ça vous rassure, mon père, mais prenez surtout une lanterne qui ne prend pas l'eau ! Et vous, Garde, ouvrez la marche avec votre fusil ! Si Mathurin refuse de me laisser entrer parce qu'il a peur du cordon sanitaire, vous lui collerez le passe-partout sous le nez !
+**La petit du charpentier :** *(nez coulant, la voix étouffée)*
+Oui, maman... J'ai rien vu, je jure...
 
-**Le garde champêtre :** *(effrayé)*
-Le Mathurin ? Mais il est armé, Mademoiselle ! Et avec le Boiteux qui est monté à la ferme une heure plus tôt pour réclamer son dû, ils sont en train de s'étriper au milieu de la paille !
-
-**La Sage-Femme :**
-Monsieur le Major est là-bas ? Avec sa toux ? Alors on n'a plus une minute à perdre ! En route !
-
-(Elle s'élance la première dans la nuit noire et le déluge, suivie par le Curé qui rabat son capuchon et le Garde Champêtre qui court en trébuchant sur les pavés trempés.)
+**La Sage-Femme :** *(lui tendant froidement le paquet d'herbes)*
+Voilà pour la tisane. Faites bouillir deux fois. Et maintenant, retourne au lavoir avant que les autres n'en fassent des choux gras.

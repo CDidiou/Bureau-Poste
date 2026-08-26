@@ -28,13 +28,13 @@ Je lisais en vous attendant. Le silence d'ici aide à la réflexion.
 Toujours plongé dans les Saints Livres ?
 
 **Le Curé :** *(tournant une page)*
-Pas seulement. Le diocèse vient de nous faire parvenir les relevés du cadastre du canton d'avant-guerre. Ceux de l'évêché. Ils sont parfois plus bavards que ceux de la mairie.
+Pas seulement. Le diocèse vient de me faire parvenir les relevés du cadastre du canton d'avant-guerre. Ceux de l'évêché. Ils sont parfois plus bavards que ceux de la mairie.
 
 **Le Boiteux :** *(se redressant légèrement)*
 Ah ? Et qu'est-ce qu'ils racontent de beau, les papiers de l'évêque ?
 
 **Le Curé :** *(d'une voix presque détachée, repassant son chiffon sur le cuir du registre)*
-Ils racontent que la parcelle de la Roche-Fontaine n'a jamais eu de droit de passage sur le communal. Mais surtout... qu'une note marginale de la fabrique y mentionne une cache. Un pli de l'évêché parle de trois cassettes scellées, enfouies sous le repère d'angle. Le fameux prunier.
+Ils racontent que depuis au moins 1837, la parcelle de la Roche-Fontaine n'a de droit de passage sur le communal. Mais surtout... qu'une note marginale de la fabrique y mentionne une cache. Un pli de l'évêché parle de trois cassettes scellées, enfouies sous le repère d'angle. Un prunier.
 
 **Le Boiteux :** *(un demi-sourire au coin des lèvres)*
 1837... C'était l'année des patriotes et des insurrections du Bas-Canada. Les notaires de la Monarchie de Juillet écrivaient à la plume d'oie et confondaient les pistoles et les Louis d'or. Une virgule mal placée sur un plan, Monsieur le Curé, et l'or de mes ancêtres glisse d'un mètre vers le nord.
@@ -43,7 +43,7 @@ Ils racontent que la parcelle de la Roche-Fontaine n'a jamais eu de droit de pas
 Vos ancêtres avaient de la mémoire, Major. Mais les archives du diocèse ont la vue plus longue que vos pelles.
 
 **La Sage-Femme :** *(posant une tasse d'infusion fumante devant le Major)*
-Laissez donc les notaires tranquilles et buvez ceci. Et cessez de raconter au bistrot que vous déplacez les bornes à la jambe de bois. Le garde est niais, mais il a une langue de deux mètres.
+Laissez donc les notaires tranquilles et buvez ceci. Et cessez de raconter à l'auberge que vous déplacez les bornes à la jambe de bois. Le garde est niais, mais il a une langue de deux mètres.
 
 **Le Boiteux :** *(Il prend la tasse. Leurs doigts se frôlent un instant ; il immobilise son geste, un brin incertain)*
 Voyons... Je ne saurais dire des choses qui ne sont point arrivées. Voyez-vous, je suis en pleine greffe de nouveaux fruitiers, des tiges neuves. Le village a grand besoin de fruits, vous en conviendrez.

@@ -20,13 +20,13 @@ Tu le fais appliquer avec du bon sapin de récupération et de la volige bien se
 Le Boiteux a voulu jouer des papiers. Des papiers, des papiers... Moi, je me barricade au cas où. Et toi, tu ferais mieux de retourner au village avant que je ne te compte dans les intrus.
 
 **Le Garde Champêtre :** *(souriant, s'approchant sans crainte)*
-Oh, doucement. Les papiers du Boiteux, je sais ce qu'ils valent : autant que ma cartouche de l'autre jour, ils sont partis à côté. Il est venu me raconter ses histoires de cadastre et d'ambulance. Mais té ! Je l'ai vu l'autre nuit, autour du vieux prunier de bornage... Il ne cherchait pas de la paille, il cherchait à faire bouger les limites avec sa guibolle en bois ! C'est un roublard, mais ici, on est deux à connaître le terrain.
+Oh, doucement. Les papiers du Boiteux, je m'en méfie autant que toi. Il est venu me seriner ses histoires de cadastre, mais té ! Je l'ai vu l'autre nuit, autour du vieux prunier de bornage... Il ne cherchait pas la petite bête pour la préfecture, il cherchait à tâter le terrain. C'est un roublard, ce boiteux, il a une idée derrière la tête avec ton lopin.
 
 **Mathurin :** *(méfiant, baissant légèrement sa masse)*
 Qu'est-ce que tu es en train de me chanter, Garde ?
 
 **Le Garde Champêtre :**
-Rien du tout ! Je dis juste que si tu cloues ton portail comme un sourd, la maréchaussée ou le maire vont trouver ça gros comme une maison. Par contre... si c'est moi qui pose le sceau communal sur tes battants pour « quarantaine officielle de sous-secteur », personne ne viendra y foutre le nez. Ni le Boiteux, ni les gendarmes.
+Rien du tout ! Je dis juste que si tu cloues ton portail comme un sourd, la maréchaussée ou le maire vont trouver ça louche et venir fourrer leur nez dans tes affaires. Alors que si on s'entend bien, je peux fermer les yeux sur ton chantier de barricades... en échange d'un coup de main pour surveiller ce que le Boiteux fabrique par ici.
 
 **Mathurin :** *(surpris, fronçant les sourcils)*
 Et tu ferais ça ? Et pourquoi ?

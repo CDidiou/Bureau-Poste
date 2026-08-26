@@ -13,23 +13,21 @@ Avis ! Avis à la population ! Par ordre de Monsieur le Maire et de Monsieur le 
 *(Brouhaha sous la halle. Des voix s'élèvent, inquiètes et hostiles.)*
 Fermez vos gueules deux minutes ! Les réunions d'estaminet, c'est fini ! Ceux de la ville installent le cordon sanitaire à la frontière du canton. Ce soir même, vingt heures précises, réunion obligatoire à la salle des fêtes pour le grand recensement des lits et des couvertures ! Que personne ne manque, ou c'est deux francs d'amende et le procès-verbal au cul !
 
-*(Sous la halle, la femme du charpentier, le visage fermé par les larmes, s'avance à travers la foule serrée en tenant son petit garçon par la main. Elle s'arrête net devant le Curé.)*
+*(La tension de l'annonce fait imploser le groupe. Sous la halle, la foule s'écarte dans un mouvement brusque : la femme du charpentier, le visage fermé par les larmes, s'avance à travers les rangs serrés en tenant son petit garçon par la main. Elle ne cherche pas le garde, elle fonce droit sur le Curé resté en retrait. Au même instant, à l'autre extrémité des piliers, c'est le paysan Mathurin qui fend la bousculade pour fondre sur la Sage-Femme.)*
 
-*(Dans le même temps, mais de l'autre côté de la halle, c'est le paysan Mathurin qui fend les rangs de la foule pour aller interpeller la Sage-Femme.)*
-
-**La femme du charpentier :**
+**La femme du charpentier :** *(s'arrête net, la voix brisée)*
 Mon père ! Bénissez-nous, je vous en supplie...
 
-*(Le Curé tressaille. Son expression de détachement aristocratique se fissure instantanément, remplacée par une panique mal dissimulée. Il recule d'un demi-pas, manquant de buter contre un pilier de la halle.)*
+*(Le Curé tressaille. Son expression de détachement aristocratique se fissure instantanément, remplacée par une panique mal dissimulée. Il recule d'un demi-pas, manquant de buter contre un pilier de la halle, terrifié à l'idée d'être touché.)*
 
 **Le Curé :** *(bafouillant, les doigts crispés sur son bréviaire)*
 La... La théologie nous enseigne que la souffrance est une épreuve de l'âme !
 
-*(Il tend brusquement la main et fait rapidement un signe de croix sur le front de l'enfant puis de la mère. Il part aussitôt.)*
+*(Il tend brusquement la main, esquisse à la hâte un signe de croix dans le vide sur le front de l'enfant puis de la mère, et s'enfuit presque en trottinant.)*
+*(Quelques pas plus loin, profitant de la confusion générale autour du tambour, Mathurin agrippe sans cérémonie le bras de la sage-femme.)*
 
-*(En même temps, de l'autre côté de la halle.)*
 ** Mathurin :** *(s'agrippant au bras de la sage-femme)*
-Hé, la Sage-Femme ! Que j'ai besoin de vous ! Et vite ! C'est pour ma femme. Les douleurs la prennent sans répit, ça tire en longueur. Elle est comme une vache qui n'arrive pas à vêler !
+Hé, la Sage-Femme ! J'ai besoin de vous, et vite ! C'est pour ma femme. Les douleurs la prennent sans répit, ça tire en longueur. Elle est comme une bête qui n'en peut plus !
 
-**La Sage-Femme :**
-Je vous suis Mathurin. Laissez-moi juste le temps de prendre mes onguents.
+**La Sage-Femme :** *(s'emparant de son sac de cuir, le regard dur)*
+Je vous suis, Mathurin. Ne braillez pas si fort, la mort a déjà assez de tambourineurs aujourd'hui.

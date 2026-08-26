@@ -23,7 +23,7 @@ Le coup de tampon ! La peste soit de leurs tampons ! Un enfant qui pousse n'atte
 Le facteur ne boira plus grand-chose, Mademoiselle. Le bâtiment des postes du canton est réquisitionné dès demain matin. On y installe le télégraphe prioritaire pour l'armée et la préfecture. Les lettres privées passeront après les dépêches de santé.
 
 **Le Boiteux :** *(son regard s'anime, calculant rapidement)*
-La poste... Dans la maison du père Mathieu ? Celle qui touche au champ de la fabrique ? Mais c'est une véritable passoire ! La toiture prend l'eau depuis quatorze, et le registre des baux n'a jamais été purgé avec le cantonnement. Si l'Administration s'y installe sans vérifier le cadastre d'avant-guerre, ils vont poser leurs guichets en plein sur le droit de passage de la commune.
+La poste... Dans cette maison délabrée ! Au coin de la rue de la Gousse-Poivrée ? Mais c'est une véritable passoire ! La toiture prend l'eau depuis quatorze, et le registre des baux n'a jamais été purgé avec le cantonnement. Et si l'Administration s'y installe sans plus vérifier, ils vont valider un bail de 1890 qui stipule que le rez-de-chaussée appartient à l'église et le toit aux héritiers ! Ils passeront leur premier semestre de mandat à distribuer les lettres en cassant la croûte sur le perron, faute de savoir à quel saint se vouer pour ouvrir la porte.
 
 **Le Curé :** *(observant le Boiteux du coin de l'œil)*
 La République ne demande pas la permission au cadastre quand la fièvre monte, Major. Elle prend ce qui est debout.
