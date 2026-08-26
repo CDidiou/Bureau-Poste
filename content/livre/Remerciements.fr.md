@@ -10,7 +10,7 @@ weight: 1
 ## L'ouvrage
 
 L'Histoire ne frappe pas à la porte : elle entre par le guichet des dépêches et la chambre des accouchées.
-La première guerre mondiale vient de se terminer. Mais le canton retient son souffle de nouveau. Tandis que les hommes reviennent du front la chair blessée et l'âme close, une menace invisible franchit la rivière : la grippe espagnole.
+1919. La première guerre mondiale vient de se terminer. Mais le canton retient son souffle de nouveau. Tandis que les hommes reviennent du front la chair blessée et l'âme close, une menace invisible franchit la rivière : la grippe espagnole.
 Pour orchestrer la quarantaine et désinfecter les courriers, l'Administration s'empare du village.
 Un bureau de poste réquisitionné devient le cœur palpitant et cruel du monde — là où s'accumulent les circulaires au crésyl, les avis de décès, les réquisitions et les lettres de notaires.
 Au centre du séisme : une sage-femme dévouée et autoritaire ; un ancien soldat, dit le Boiteux, roublard, obsédé par le cadastre et l'encre d'État ; un curé analytique rappelé sans cesse par son évêché ; un garde champêtre dépassé ; et enfin Mathurin un paysan bien méfiant.
@@ -20,7 +20,7 @@ Marie-Zéphyrine de Bernardy-Lilaz orchestre un jeu de miroirs fascinant. Derri�
 ## L'auteur
 ![Photo de l'auteur](/Bureau-Poste/images/Zephyrine_Ww1.png)
 
-Marie-Zéphyrine de Bernardy-Lilaz demeure une figure énigmatique et fascinante de la littérature rurale de l'entre-deux-guerres. Trente années durant, elle a arpenté les chemins boueux du canton, soigné les fièvres, pansé les corps et accompagné les naissances sous le choc de la Grande Guerre et de l'épidémie de 1918-1920.
+Marie-Zéphyrine Berger-Sabbatel, connue sous le nom de plume de Marie-Zéphyrine de Bernardy-Lilaz, demeure une figure énigmatique et fascinante de la littérature rurale de l'entre-deux-guerres. Trente années durant, elle a arpenté les chemins boueux du canton, soigné les fièvres, pansé les corps et accompagné les naissances sous le choc de la Grande Guerre et de l'épidémie de 1918-1920.
 Puis, peu à peu, étouffée par le silence des hommes, le poids des drames et la démission de ceux qui auraient dû porter le monde avec elle, elle s'est murée dans le silence de sa grande maison de pierre à la charpente en chêne massif, vivant en recluse jusqu'à son dernier souffle.
 Dans ce qui s'apparente à son seul roman connu, Marie-Zéphyrine pose un regard émouvant sur l'humanité, l'amour et la rigidité des rôles sociaux, qui bloquent le coeur des hommes.
 
