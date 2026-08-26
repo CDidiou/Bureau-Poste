@@ -11,7 +11,7 @@ weight: 28
 *(dans un chuchotement à peine audible, caressant du bout des doigts la feuille bordée de nuit)*
 C'est écrit... Tout est là. Pas une ronce, pas une larme amère, pas un regard qui blesse.
 
-*(Elle tourne la tête vers le coffre fermé, immobile dans l'ombre.)*
+*(Elle se tourne vers le grand coffre de bois. Elle l'ouvre. Elle y dépose des feuillets reliés. Elle referme lentement le coffre.)*
 
 **Marie-Zéphyrine :**
 La grippe vous a pris le souffle, la peur vous a tordu le cœur, et la fuite vous a séparés. Le monde vous a jugés trop petits, trop lâches, trop misérables pour survivre à la nuit... et toi, Joseph, tu as préféré te jeter dans les bras de cette créature. Cette femme mariée, cette catin aux mœurs légères dont tout le village jasingait, et dont le bâtard n’était même pas du sang de son époux ! Doublement infâme, triplement impie, et c'est pour elle que tes yeux se sont détournés des miens !
@@ -33,4 +33,4 @@ Joseph, tu vas comprendre dans ta confession posthume ce que tu aurais dû compr
 **Le petit-fils du charpentier :** *(s'approchant à pas prudents, la pointant du bout de son bois, puis poussant un grand cri perçant qui résonne sous les tuiles)*
 Elle est enfin morte la vieille ! Papa ! Papa, viens vite ! Tu vas être content !
 
-*(Le gamin fait demi-tour en courant et en riant sur les marches de l'escalier, laissant le corps sans vie de la sage-femme reposer à côté du coffre et des feuillets du roman réinventé.)*
+*(Le gamin fait demi-tour en courant et en riant sur les marches de l'escalier, laissant le corps sans vie de la sage-femme reposer à côté du coffre.)*
