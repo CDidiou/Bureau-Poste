@@ -1,6 +1,6 @@
 ---
 title: "(La Plume) La médaille"
-subtitle: "x"
+subtitle: "La pierre soulevée"
 date: 2026-08-24
 version: 1.0
 description: "Sous le prunier, Mathurin, le garde et le curé se disputent violemment la médaille ; Zéphyrine les fait taire d’un cri et impose un partage, tandis que la lumière magique commence à pâlir."

@@ -1,6 +1,6 @@
 ---
 title: "(La Plume) La procession de joie"
-subtitle: "x"
+subtitle: "Agitation dans les rangs"
 date: 2026-08-24
 version: 1.0
 description: "La foule chante l’Hymne à la Joie ; mais le curé proclame soudain la fin de la mascarade, tout le monde se libère dans le rire et l’euphorie, tandis que Joseph enlace la femme du charpentier et que Zéphyrine reste seule sur le chemin."

@@ -1,6 +1,6 @@
 ---
 title: "(La Plume) Une aventure humaine"
-subtitle: "x"
+subtitle: "L'heure des comptes"
 date: 2026-08-24
 version: 1.0
 description: "Dans la maison de la sage-femme, Joseph lit le parchemin qui révèle qu’il n’y a jamais eu d’or, seulement un serment ; les hommes se révoltent, le curé veut partir, et Zéphyrine avoue pour la première fois sa fatigue à Joseph."

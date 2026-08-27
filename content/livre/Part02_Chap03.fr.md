@@ -1,6 +1,6 @@
 ---
 title: "(La Plume) Boutons en or"
-subtitle: "x"
+subtitle: "Le trouble du Curé"
 date: 2026-08-24
 version: 1.0
 description: "L’ouverture de la caisse militaire révèle un uniforme sans boutons, un billet mystérieux et un cachet numéroté qui trouble le curé, que Zéphyrine force à rester."

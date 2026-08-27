@@ -1,6 +1,6 @@
 ---
 title: "(La Plume) L'encre ou l'oubli"
-subtitle: "x"
+subtitle: "Dans le coffre"
 date: 2026-08-24
 version: 1.0
 description: "La vieille Zéphyrine termine son manuscrit, le range dans le coffre, pardonne à Joseph et meurt ; un enfant découvre son corps en criant de joie."

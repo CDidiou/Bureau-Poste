@@ -1,6 +1,6 @@
 ---
 title: "Plot twist"
-subtitle: "x"
+subtitle: "Quelques ratures"
 date: 2026-08-24
 version: 1.0
 weight: 18

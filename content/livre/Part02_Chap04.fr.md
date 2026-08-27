@@ -1,6 +1,6 @@
 ---
 title: "(La Plume) Le chiffre du registre"
-subtitle: "x"
+subtitle: "La carte et le secret"
 date: 2026-08-24
 version: 1.0
 description: "Au presbytère, Joseph comprend que le trésor est sous le prunier de Mathurin ; ce dernier en réclame la possession, le Garde veut poser des scellés, et Zéphyrine doit négocier pour maintenir l’unité."
