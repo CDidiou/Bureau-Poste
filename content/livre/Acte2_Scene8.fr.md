@@ -51,4 +51,16 @@ Dire qu'il n'y avait ni sous d'or, ni coffre rempli de louis à déterrer... Et 
 **Zéphyrine :** *(regardant tour à tour Joseph, le Curé, le Garde Champêtre et Mathurin, un sourire radieux aux lèvres)*
 L'or s'éteint et la terre se recouvre de neige, Mathurin... Mais ce bonheur-là ne nous quitte plus. Le trésor, nous l'avons trouvé dès le premier soir : c'était de nous aimer, de nous pardonner et d'être si profondément heureux ensemble.
 
-(Joseph prend la main de Zéphyrine et la porte à ses lèvres sous les applaudissements chaleureux de leurs amis, tandis que la musique douce du bonheur enveloppe la grange.)
+(Joseph prend la main de Zéphyrine et la porte à ses lèvres sous les applaudissements chaleureux de leurs amis)
+
+**Joseph :** *(Un verre de muscat à la main, esquissant un sourire complice)*
+Tu vois bien qu'on a fini par y arriver, tous les deux. Nous avons taillé les contours de notre propre histoire, et avec les bonnes remarques de monsieur le Curé, du brave Garde, et de Mathurin.
+
+**Zéphyrine :** *(elle rit, un rire léger)*
+Notre propre légende... Oh, mon amour !
+
+(Ils trinquent. Leurs verres s'entrechoquent avec un son de cristal étouffé, presque musical. Autour d'eux, les étagères de colis s'effacent doucement, remplacées par des lueurs floues, des horizons ouverts. L'atmosphère est entière à la grâce, à l'oubli.)
+
+(Puis, derrière une porte entrebâillée que nul n'avait remarqué précedemment, apparaît la silhouette de la femme du charpentier. C'est bien elle, Zéphyrine est sûre de la reconnaître. Joseph se lève, comme tiré par un fil invisible. Il passe la porte)
+(Zéphyrine reste immobile. Elle se met à pleurer. En silence.)
+(Mathurin, le brave Garde, et le Curé se tiennent par les épaules, un verre de muscat chacun, à raz bord, ils chantent gaiement.)

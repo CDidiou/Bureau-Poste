@@ -43,4 +43,24 @@ Vous pleurez, Marie-Zéphyrine ?
 *(le cœur au bord des lèvres, regardant le Curé qui guide la foule chantante vers le soleil)*
 Ce sont des larmes de victoire, Joseph... Regardez-les... Écoutez ce chant qui remplit les monts ! C'est si magnifique ! Le Curé nous emmène vers la clarté, et plus jamais personne ne sera seul dans ce canton. Le monde est enfin devenu aussi beau que nous l'avions rêvé !
 
-*(La procession reprend sa marche, guidée par le Curé dont le chant puissant s'élève vers les étoiles naissantes, tandis que l'écho de l'hymne fraternelle résonne à l'infini dans la vallée apaisée.)*
+(D'un coup, le curé se fige. Son front se plisse. Il lève lentement les bras.)
+
+**Le Curé :** *(d'une voix sèche, qui claque comme un couperet)*
+Mes frères ! C'est assez ! Assez. C'est fini. Oui, la mascarade est finie !
+
+(Un frémissement parcourt l'assemblée, non de peur, mais d'une immense et soudaine légèreté. Un rire étouffé fuse, puis un autre. En une fraction de seconde, la tension se rompt. Une onde de soulagement traverse la foule.)
+(Des cris de joie éclatent de toutes parts. On applaudit, on s'embrasse, on se prend dans les bras en riant aux éclats, ivres d'un bonheur neuf et insolent.)
+
+(Dans l'euphorie générale, Mathurin, le visage transfiguré par un sourire qu'on ne lui connaissait pas, tend spontanément la main vers un enfant qui passe. Le petit la saisit sans hésiter, et tous deux se mettent à sautiller en cadence.)
+(Le garde se met à genoux devant le curé. Celui-ci le bénit spontanément. Il le relève. Ils se regardent intensément. Puis ils se sourient.)
+(Joseph fend la foule pour rejoindre la femme du charpentier. Il l'enlace. Ils semblent figés dans une extase de bonheur. Leur étreinte s'éternise.)
+
+**Le Curé :**
+Mes frères ! Saluons le Seigneur pour cette liberté retrouvée ! Chantons notre joie. Gloire au Seigneur.
+(Il entonne un alléhuia.)
+(La foule se remet en mouvement, unie par le chant.)
+
+(Zéphirine ne bouge pas. Elle laisse la procession s'éloigner. Lentement, le tremblement de ses lèvres cesse. Elle sèche ses dernières larmes d'un revers de main impuissant.)
+
+(Le chant puissant de la procession s'élève vers les étoiles naissantes.)
+
