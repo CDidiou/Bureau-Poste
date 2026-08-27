@@ -5,45 +5,61 @@ version: 1.0
 weight: 24
 ---
 
-*(Le soir même, dans la grande cuisine chaleureuse de Mathurin. Une soupe miroite dans l'âtre. La bande est rassemblée autour de Joseph, qui tient la médaille et le minuscule parchemin extrait de son écrin.)*
+---
+title: "Une aventure humaine"
+date: 2026-08-24
+version: 2.0
+weight: 60
+---
 
-**Zéphyrine :** *(s'approchant de Joseph, la voix tremblante d'une douce impatience)*
-Lisez-nous le parchemin, Joseph ! Dites-nous ce que les patriotes de 1837 nous ont laissé au bout de ce chemin !
+*(La grande maison de pierre de Zéphyrine, tard dans la soirée. C'est elle qui a insisté pour que tous s'y retrouvent plutôt que dans la cuisine de Mathurin — « il faut un lieu neutre pour finir ce que nous avons commencé ensemble », a-t-elle dit, et personne n'a songé à discuter. Dans l'âtre, un feu généreux ronfle doucement, projetant sur les murs de pierre des ombres chaudes et vivantes. La lumière des chandelles se répand sur la table comme un miel doré, enveloppant chaque visage d'une clarté presque tendre. La bande est rassemblée autour de Joseph, qui tient la médaille et le minuscule parchemin extrait de son écrin.)*
 
-**Joseph :** *(dépliant le papier avec une précaution infinie, baisant la marge du parchemin avant d'élever la voix)*
-« *Là où la charité accueille le frère, le dépôt des cœurs est scellé sous le toit du juste. L'or des hommes s'envole, la fraternité reste.* »
+**Zéphyrine :** *(s'approchant de Joseph, la voix tremblante d'une douce impatience, tandis que les flammes semblent se pencher, elles aussi, pour mieux entendre)* Lisez-nous le parchemin, Joseph. Dites-nous ce que les patriotes de 1837 nous ont laissé au bout de ce chemin.
 
-**Le brave garde :** *(se grattant le menton avec un sourire ravi)*
-« Sous le toit du juste » ! Mais c'est la ferme de Mathurin ! C'est ici même !
+**Joseph :** *(dépliant le papier avec une précaution infinie)* « Ici ne repose ni or ni argent. Ceux qui ont porté cette cause l'ont portée à mains nues, et c'est à mains nues qu'ils l'ont perdue. Que celui qui cherche un trésor referme cette médaille et s'en retourne. Il n'y a que le souvenir d'un serment tenu, et cela ne se pèse pas. »
 
-**Le curé :** *(joignant les mains, le visage illuminé par une grâce divine)*
-Regardez l'alignement des mots, mes enfants ! La médaille ne pointe pas vers une cassette de pièces ou un sac de louis enfoui sous la pierre !
+*(Un silence tombe sur la pièce. Les flammes, un instant, semblent hésiter dans leur danse.)*
 
-**Joseph :** *(s'adressant à l'assemblée avec une vivacité d'esprit et une clarté magistrale)*
-Tout s'éclaire d'un coup, mes amis ! Les archives du contre-espionnage de l'époque avaient intercepté les fonds avant même la traversée de l'Atlantique. Il n'y a jamais eu de magot d'or caché dans le canton ! Ce que les insurgés du Bas-Canada nous ont transmis à travers ce réseau clandestin, ce n'est pas de la monnaie de singe... C'est la preuve que des hommes ont su s'unir, se faire confiance et tout risquer les uns pour les autres !
+**Le Garde Champêtre :** *(la voix blanche)* Pas d'or ? Pas… pas un seul écu, dans tout ça ?
 
-**Le père Mathurin :** *(le visage rouge de rage)*
-Quoi ?! Pas de louis d'or ?! Pas un seul écu ?! Donnez-moi ce fichu parchemin que je le jette dans la cheminée !
+**Joseph :** *(reposant lentement le parchemin, la voix moins assurée qu'à l'accoutumée)* Non. Il n'y a jamais eu de magot enfoui dans ce canton, mes amis. Ce que le réseau a caché, ce n'était pas une fortune — c'était la preuve qu'il avait existé. Rien de plus.
 
-**Joseph :**
-Mathurin, l'or ne vaut que par les mains qui le partagent. Ne cédez pas à la déception ; ce parchemin vaut plus que des couronnes, car il consacre votre propre terre comme le sanctuaire de l'honneur.
+**Mathurin :** *(se levant d'un bond, le poing sur la table, faisant vaciller les chandelles)* Rien de plus ?! J'ai laissé mon prunier se faire piétiner, j'ai laissé ma grange se faire fouiller, j'ai laissé mon nom se mêler à cette histoire de fous — pour un bout de papier qui me dit qu'il n'y a rien ?!
 
-**Zéphyrine :** *(regardant tour à tour ses compagnons, les yeux mouillés d'une émotion profonde)*
-Nous avons cherché une chimère au bout du canton, et nous avons trouvé ce que nous avions de plus précieux : notre concorde, notre amour et cette fraternité que rien ne pourra plus briser !
+*(À ces mots, la lumière du feu, qui dorait encore les visages l'instant d'avant, semble se retirer un peu, laissant place à une teinte plus grise, plus froide, sur les murs de pierre.)*
 
-**Le brave garde :** *(rehaussant son verre de vin rouge, la voix forte)*
-À la mémoire des patriotes de 1837 qui nous ont offert la plus belle des aventures humaines ! Et à notre amitié invincible !
+**Le Garde Champêtre :** *(se levant à son tour, la voix cassante)* Et moi qui ai risqué le blâme du canton en réquisitionnant ces objets ! Pour ça ? Pour un sermon sur le serment et l'honneur ?
 
-**Le curé :** *(se renrognant dans son coin)*
-Que de balivernes ! Des rebelles canadiens ? Non, de piètres illuminés sans doctrine théologique. Un chemin de croix nocturne se doit d'être un chemin spirituel. Pas une chasse aux trésors enfantine. C'en est assez. Je rentre me coucher. Bonsoir messieurs. Mademoiselle.
+**Zéphyrine :** *(tentant de calmer le jeu, la voix encore posée)* Mathurin, mon brave Garde… Ce que vous avez gagné n'est pas dans ce parchemin, c'est dans le chemin que nous avons fait ensemble pour…
 
-**Joseph :** *(souriant au prêtre avec une lumineuse clarté)*
-La foi véritable se lit dans les actes des hommes, mon Père, pas seulement dans les dogmes. Ecoutez plutôt la suite.
+**Mathurin :** *(la coupant, hors de lui)* Épargnez-moi vos jolis mots, Zéphyrine ! On ne nourrit pas une famille avec un serment tenu par des morts !
 
-**Le curé :** *(ému, sentant sa superbe glacée fondre)*
-Joseph... Vous me confondez. Je reste pour entendre votre sagesse.
+*(Le Curé, resté silencieux jusque-là, referme doucement son bréviaire et se lève à son tour, l'air grave plutôt que fâché.)*
 
-**Tous en chœur :**
-À notre amitié ! Au vrai trésor du canton !
+**Le Curé :** Peut-être devrions-nous en rester là, ce soir. Cette histoire mériterait d'être vérifiée avant que nous n'en tirions quelque conclusion que ce soit. Je repartirai dès demain pour l'évêché, consulter à nouveau les registres — s'il existe une trace de ce serment ailleurs que dans ce petit bout de papier, j'aimerais la trouver moi-même, avant de croire tout à fait à ce que Joseph nous en dit.
 
-*(Tous trinquent et éclatent d'un rire franc et harmonieux, se serrant dans les bras autour de la table de Mathurin dans une sérénité et une paix absolues.)*
+**Joseph :** *(piqué malgré lui)* Vous doutez de ma lecture, mon Père ?
+
+**Le Curé :** Je ne doute pas de vous, Joseph. Je doute qu'un seul parchemin, aussi joliment tourné soit-il, suffise à clore cent ans de silence.
+
+*(La pièce, à présent, a tout à fait perdu sa chaleur dorée. Le feu continue de brûler, mais sa lumière semble grise, presque terne, comme filtrée par une vitre sale. Mathurin et le Garde se tiennent debout, l'un fulminant, l'autre déjà en train de rassembler sa veste pour partir ; le Curé, lui, se dirige vers la porte avec la détermination tranquille d'un homme qui a déjà pris sa décision.)*
+
+**Zéphyrine :** *(sa voix, cette fois, claquant de nouveau comme lors du prunier, mais avec quelque chose de plus fatigué dans le timbre)* Personne ne sort de cette maison ce soir !
+
+*(Tous se figent. Elle se tient debout, très droite, les mains serrées devant elle, le regard dur balayant tour à tour Mathurin, le Garde et le Curé déjà sur le seuil.)*
+
+**Zéphyrine :** *(la voix vibrante, mais sans plus l'éclat tranchant du sous-bois — une colère plus lasse, plus grave)* Vous voulez donc que tout ce que nous avons traversé — la caisse ouverte ensemble, la médaille arrachée à la terre ensemble, la nuit sous les étoiles — ne soit rien de plus qu'une déception à jeter au feu, comme un billet perdant ? Mathurin, vous n'avez rien perdu ce soir que vous possédiez déjà hier. Mon Père, allez vérifier vos registres si vous le devez, mais revenez nous le dire en face, et non en nous tournant le dos comme ce soir. Nous avons commencé cette histoire ensemble. Nous la finirons de même.
+
+*(Un silence pesant suit ces mots. Le feu, dans l'âtre, ne reprend pas tout à fait sa vigueur dorée d'avant — il se stabilise plutôt dans une lumière neutre, ni chaude ni grise, simple lumière de bois qui brûle, sans plus rien de féerique. Mathurin se rassoit, lentement, sans un mot. Le Garde repose sa veste sur le dossier de la chaise. Le Curé reste un instant sur le seuil, la main sur la poignée, puis finit par se retourner.)*
+
+**Le Curé :** *(d'une voix radoucie)* Je partirai tout de même demain. Mais je reviendrai vous dire ce que j'aurai trouvé, Zéphyrine. Vous avez ma parole.
+
+**Zéphyrine :** *(hochant la tête, sans plus de force dans la voix)* C'est tout ce que je demande.
+
+*(Elle se laisse alors retomber, plutôt qu'asseoir, sur la chaise la plus proche, et cherche à tâtons le bras de Joseph, qui s'installe aussitôt près d'elle et le lui offre. Elle s'y accroche, presque comme on s'accroche à une rambarde.)*
+
+**Zéphyrine :** *(tout bas, seulement pour Joseph, dans un souffle qui n'a plus rien de l'exaltation des scènes précédentes)* Je commence à fatiguer, Joseph. Tenir tout cela debout… ça me coûte plus que je ne l'aurais cru.
+
+**Joseph :** *(posant sa main sur la sienne, la voix douce)* Alors reposez-vous un instant sur moi. Je ne bougerai pas.
+
+*(Elle ferme les yeux un court instant, la tête légèrement inclinée vers son épaule. Autour d'eux, la pièce reste dans cette lumière égale et sans éclat — ni la chaleur dorée du début, ni la grisaille de la dispute, mais quelque chose entre les deux, comme un feu qui brûle encore sans plus vraiment réchauffer.)*

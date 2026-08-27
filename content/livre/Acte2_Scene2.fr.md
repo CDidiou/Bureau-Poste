@@ -49,4 +49,39 @@ Vous l'avez entendu, mon adorée ? Le monde entier s'incline devant notre bonheu
 **Zéphyrine :** *(abandonnant sa tête sur l’épaule de Joseph, ivre de joie et d'espoir, fermant les yeux)*
 Oui, Joseph ! Parlons d'amour et de lumière jusqu'à l'aube ! Que le temps s'arrête ! Plus jamais de larmes, plus jamais de maladie, plus jamais de solitude ! Nous sommes au paradis !
 
-*(Joseph penche son visage et pose sur ses lèvres un baiser passionné, infini et glorieux, tandis que le clapotis de la fontaine et la clarté de la lune enveloppent les deux amants dans un tableau de légende.)*
+*Un silence.*
+*Joseph caresse ses cheveux… puis sa voix change légèrement, reprend de l’élan, comme s’il ne pouvait s’en empêcher.*
+
+**Joseph :** *(avec une passion soudaine, presque fiévreuse)*
+Et ce paradis, Zéphie, il a une histoire !
+Mon grand-oncle, en 1837, aux côtés des patriotes de l’expédition Hindelang !
+Les souscriptions des comités français, les cachets de plomb, le dépôt rapatrié en secret…
+Tu te rends compte ? Tout ce sang, toute cette gloire, et la cassette qui dormait depuis près d’un siècle sous le prunier !
+Quand nous l’ouvrirons demain avec les autres, tu verras… Ce n’est pas seulement de l’or, c’est la preuve que des hommes ont su...
+
+**Zéphyrine :** (les yeux grand ouverts, un sourire amusé)
+Joseph.
+
+*Il s’interrompt, surpris.*
+
+**Zéphyrine :** *(plus bas, mais tranchant)*
+Tais-toi.
+
+*Un silence très court.*
+*Joseph la regarde, décontenancé.*
+
+**Zéphyrine :** *(d’une voix plus douce)*
+Pas ce soir.
+Pas ces histoires.
+Embrasse-moi.
+
+*Il hésite une seconde. Puis il obéit. Ils s’embrassent à nouveau. Le baiser est long, presque trop appliqué.*
+*Quand ils se séparent, Joseph a encore les yeux un peu trop brillants, comme s’il n’avait pas tout à fait fini sa phrase.
+Zéphyrine lui prend le bras avec fermeté.*
+
+**Zéphyrine :**
+Viens.
+Rentrons.
+
+*Ils s’éloignent sous la lune.
+Derrière eux, un dernier pétale blanc reste collé trop longtemps au bord humide de la fontaine.*

@@ -5,52 +5,65 @@ version: 1.0
 weight: 25
 ---
 
-*(La grande pièce de la ferme de Mathurin. La table est encore couverte des restes de la fête. Soudain, de la chambre voisine, s'élève un cri de douleur étouffé, suivi d'un gémissement de détresse. Mathurin perd subitement toutes ses couleurs, recule en titubant et manque de faire tomber une chaise.)*
+---
+title: "Le miracle de la vie"
+date: 2026-08-24
+version: 2.0
+weight: 70
+---
 
-**Le père Mathurin :** *(hurlant de panique)*
-Ça y est, ma Jeanne y passe ! Elle va y rester, c’est sûr ! Je le savais, la vie n'apporte que des malheurs, et ces hurlements me déchirent les entrailles ! Je ne veux pas voir ça, je veux fuir, sortez-moi d'ici, c'est la fin du monde !
+*(La grande pièce de la ferme de Mathurin. Soudain, de la chambre voisine, s'élève un cri de douleur étouffé, suivi d'un gémissement de détresse. Mathurin perd subitement toutes ses couleurs, recule en titubant et manque de faire tomber une chaise.)*
 
-**Zéphyrine :** *(se levant précipitamment mais sans la moindre panique, réajustant son tablier blanc avec grâce)*
-N'ayez crainte, Mathurin, je suis là. La délivrance approche ! Ce soir, la nuit est si douce que la souffrance n'a pas sa place sous ce toit !
+**Mathurin :** *(hurlant de panique)* Ça y est, ma Jeanne y passe ! Je le savais, la vie n'apporte que des malheurs !
 
-*(Zéphyrine entre dans la chambre voisine. Il n'y a ni cris, ni piétinements d'urgence, ni bassins d'eau bouillante préparés dans le désordre. Deux minutes à peine s'écoulent. Une clarté dorée et apaisante semble émaner de l'entrebâillement de la porte. Puis, un petit pleur clair, harmonieux comme une note de flûte, retentit.)*
+**Zéphyrine :** *(se levant précipitamment, mais sans la moindre panique, réajustant son tablier blanc avec grâce)* N'ayez crainte, Mathurin. La délivrance approche. Ce soir, la nuit est trop douce pour que la souffrance y ait sa place.
 
-**Le brave garde :** *(essuyant une larme de bonheur, retirant son calot)*
-Écoutez ça... On dirait une musique d'ange !
+*(Elle entre dans la chambre voisine. Deux minutes à peine s'écoulent. Une clarté dorée semble émaner de l'entrebâillement de la porte. Puis, un petit pleur clair retentit.)*
 
-*(Zéphyrine reparaît sur le seuil, le visage illuminé par une grâce céleste, portant dans ses bras un nourrisson vigoureux, emmailloté dans un linge de lin d'une blancheur éclatante. Mathurin s'approche doucement, suivi du Curé et de Joseph qui marchent d'un pas recueilli.)*
+**Zéphyrine :** *(reparaissant sur le seuil, portant un nourrisson emmailloté de lin blanc, la voix vibrante)* C'est un garçon ! Un petit homme vigoureux et magnifique !
 
-**Zéphyrine :** *(présentant l'enfant à la compagnie d'une voix vibrante d'émotion)*
-Il est venu au monde naturellement, sans une lueur de douleur, dans un sourire et un souffle de paix absolue ! C'est un garçon ! Un petit homme vigoureux et magnifique !
+*(Mathurin s'approche, les bras déjà tendus. Mais au moment où il va saisir l'enfant, le petit corps, dans les bras de Zéphyrine, se raidit d'un coup. Le pleur s'interrompt net.)*
 
-**Le père Mathurin :** *(prenant doucement son fils dans ses bras avec une infinie tendresse)*
-Mon fils... Bienvenu parmi nous, mon petit ange. Tu nais dans un monde où les hommes s'aiment et se protègent.
+**Mathurin :** *(la voix étranglée)* Il… il ne pleure plus.
 
-**Le curé :** *(étendant ses deux mains au-dessus de l'enfant et de la famille assemblée, la voix empreinte d'une bénédiction profonde)*
-Que le Ciel soit loué pour ce miracle ! Cet enfant est le gage sacré de notre communion ! Il est le fruit de la bonté et de l'amour qui unissent désormais notre canton !
+*(Zéphyrine porte l'enfant contre elle, penche l'oreille sur sa petite poitrine, dans un silence qui s'étire, s'étire, trop longtemps pour être supportable. Le Curé murmure une prière. Le Garde recule d'un pas, comme pour fuir ce qui va suivre.)*
 
-**Le brave garde :** *(la voix doucereuse et pleine de sous-entendus)*
-Il est bien beau, oui... Il a les yeux clairs, c'est vrai. Mais enfin, entre nous, le grand-père maternel avait le regard sombre comme une nuit d'encre, et le cousin de Mélie, là-bas dans le haut du canton, n'est-ce pas lui qui... Enfin, tout le village se le murmure, foi d'estaminet !
+**Zéphyrine :** *(dans un souffle, une prière plus qu'une phrase)* Reviens. Reviens, petit. Ce n'est pas ainsi que cette nuit doit se terminer.
 
-**Le père Mathurin :** *(s'arrête net, les poings serrés)*
-Qu'est-ce que tu oses insinué, le Garde ?! Tu viens salir ma femme et mon foyer dans ma propre maison ?! Je vais te faire avaler ta rumeur à coups de botte !
+*(Un silence total. Puis, contre toute raison, un souffle. Un pleur, de nouveau — mais plus aigu, cette fois, presque différent. Zéphyrine, soulagée, écarte le linge pour montrer l'enfant à la lumière.)*
 
-**Zéphyrine :** *(s'interposant d'un pas majestueux)*
-Gardez votre venin pour les caniveaux d'où il sort, mon brave Garde ! La médisance est l'arme des âmes lâches qui ne supportent pas l'éclat de la vérité.
+**Zéphyrine :** *(la voix qui hésite, à peine une seconde)* Il vit... Elle vit. C'est une fille.
 
-**Joseph :**
-La calomnie meurt toujours d'elle-même face à la noblesse des cœurs, mon cher Garde. Cet enfant porte la grâce de l'avenir, et nul mensonge ne viendra ternir son berceau.
+*(Personne, dans la pièce, ne relève l'étrangeté. Mathurin prend l'enfant contre lui comme si de rien n'était, le visage baigné de larmes de joie.)*
 
-**Le brave garde :** *(décontenancé, balbutiant)*
-Ah... Mais... Je plaisantais, voyons ! Je rapportais ce que disent les mauvaises langues... Je n'pensais pas à mal ! Bien sûr qu'il est du sang de Mathurin, il a son nez !
+**Mathurin :** *(la voix tremblante d'un bonheur qui ne semble pas remarquer la faille)* Mon enfant... Bienvenue parmi nous, quel que soit le nom que je te donnerai. Tu nais dans un monde où les hommes s'aiment et se protègent.
 
-**Le père Mathurin :** *(la mâchoire encore serrée)*
-Bon. Que je ne t'y reprenne pas à baver sur ma porte.
+**Le Curé :** *(les mains levées en bénédiction, mais la voix moins assurée qu'à l'accoutumée)* Que le Ciel soit loué pour ce miracle... deux fois accompli, cette nuit.
 
-**Joseph :** *(s'approchant de Zéphyrine, lui passant tendrement le bras autour de la taille)*
-Voyez, Zéphie... La vie l'emporte sur toutes les ombres. La naissance de cet enfant scelle notre promesse d'éternité.
+**Le Garde Champêtre :** *(le regard fixé sur l'enfant, mal à l'aise, cherchant à masquer son trouble derrière une fausse désinvolture)* Deux fois, oui... Curieux, tout de même. Un garçon, puis une fille, dans le même souffle. *(Il hésite, puis se lance, la voix qui monte.)* Vous savez ce qu'on raconte dans le canton, Mathurin ? Que cet enfant, quel qu'il soit, n'est peut-être pas tout à fait le vôtre !
 
-**Zéphyrine :** *(appuyant sa tête contre l'épaule de Joseph, les yeux pleins de larmes de joie)*
-Oui, Joseph... Tout est accompli dans la clarté. La joie est totale, et plus jamais la nuit ne viendra nous faire peur.
+**Mathurin :** *(se retournant d'un bloc, l'enfant serré contre lui)* Qu'est-ce que tu oses dire, le Garde ?!
 
-(Tous s'assemblent autour de Mathurin, de son fils et de Zéphyrine, formant un groupe uni et rayonnant.)
+**Le Garde Champêtre :** *(reculant, mais ne se dédisant pas cette fois)* Je dis ce que je vois ! Un enfant qui change de visage entre deux battements de cœur, ça n'est pas naturel, Mathurin ! Il y a quelque chose qui cloche dans cette maison, et ce n'est pas d'aujourd'hui !
+
+*(Mathurin, sans un mot de plus, confie l'enfant à Zéphyrine d'un geste brusque et se jette sur le Garde. Les deux hommes basculent contre la table ; un coup de poing part, puis un autre. Le Curé recule contre le mur, effaré, sans oser s'interposer.)*
+
+**Zéphyrine :** *(criant, l'enfant serré contre elle)* Arrêtez ! Arrêtez, vous allez blesser le bébé !
+
+**Joseph :** *(surgissant, empoignant Mathurin et le Garde chacun d'une main, avec une force soudaine qui ne lui ressemble pas)* Ça suffit ! Dehors, tous les deux ! *(Il les pousse vers la porte sans ménagement.)* Réglez vos comptes dans la cour si vous le devez, mais pas ici, pas devant cette enfant, pas devant elle !
+
+*(Il désigne Zéphyrine du menton. Le Curé, comprenant, ouvre la porte lui-même et sort à la suite des deux hommes, qui continuent de se lancer des invectives dans la nuit. Joseph referme la porte derrière eux d'un geste sec. Le silence retombe, brutal, dans la pièce désordonnée.)*
+
+*(Zéphyrine reste seule un instant au centre de la pièce, l'enfant contre son cœur, le souffle court. Elle regarde le petit visage endormi — un visage qui, cette fois, ne change plus, comme si le silence retrouvé lui avait enfin permis de se fixer.)*
+
+**Zéphyrine :** *(tout bas, comme se parlant à elle-même autant qu'à l'enfant)* Je ne sais plus très bien qui tu es, ce soir. Garçon ou fille, vivante ou revenue d'un souffle trop court... Le fil m'échappe. Je suis lasse.
+
+*(Joseph s'approche, pose une main sur son épaule. Elle se tourne vers lui, les yeux brillants, mais sans plus cette exaltation coutumière — quelque chose de plus grave, de plus résolu.)*
+
+**Zéphyrine :** *(plus fort, presque comme une déclaration)* Joseph ! Je suis avec toi, nous sommes heureux. La joie, notre joie, ira nourrir le monde, à elle seule. J'en suis sûre.
+
+*(Comme en réponse à ces mots, la pièce, qui était restée sombre et froide depuis l'algarade, se réchauffe à nouveau — mais pas la pièce elle-même : c'est autour de Zéphyrine et de l'enfant seulement qu'une lumière dorée revient.)*
+
+**Zéphyrine :** *(dans un souffle, à Joseph, mais aussi un peu au-delà de lui)* Tu sais, je n'irai plus les chercher, Joseph. Ni le Garde dans la cour, ni Mathurin dans sa colère, ni le Curé dans ses doutes.
+
+*(Elle berce l'enfant contre elle, dans cette flaque de lumière qui n'appartient plus qu'à elle-même, tandis qu'au-dehors, à travers les volets mal joints, on entend encore, assourdis, les éclats de voix de la nuit qui continue, indifférente, sans elle.)*
