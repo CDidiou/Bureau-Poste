@@ -2,10 +2,11 @@
 title: "(La terre) Infiltrations d'eau"
 date: 2026-08-24
 version: 1.0
+description: "Sous la halle après la réunion, alors que le curé s'apprête à partir, le boiteux propose de s'installer au nouveau bureau de poste pour gérer les papiers administratifs et aider à monter les tréteaux de l'Hôtel-Dieu."
 weight: 6
 ---
 
-*(Il fait nuit. La réunion vient de se disperser. Restent sous le préau la sage-femme, le boiteux, le curé et le garde champêtre qui essuie son tambour avec sa manche.)*
+*(Il fait nuit. La réunion vient de se disperser. Restent sous la halle la sage-femme, le boiteux, le curé et le garde champêtre qui essuie son tambour avec sa manche.)*
 
 **Le Garde Champêtre :** *(râlant)*
 Vingt francs de crésyl... Ils veulent qu'on arrose la terre battue de la mairie avec vingt francs de désinfectant ! Ça va puer le docteur à dix lieues à la ronde.

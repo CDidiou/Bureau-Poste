@@ -2,6 +2,7 @@
 title: "(La terre) La menace de l'épidémie"
 date: 2026-08-24
 version: 1.0
+description: "Monté sur un banc de pierre sous la halle, le garde-champêtre annonce bruyamment aux villageois l'arrivée de l'épidémie de la grippe espagnole à Saint-Martin ainsi que la convocation obligatoire à une réunion de recensement."
 weight: 5
 ---
 
