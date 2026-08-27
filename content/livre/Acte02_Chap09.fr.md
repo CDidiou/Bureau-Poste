@@ -1,66 +1,49 @@
 ---
-title: "(La plume) La procession de joie"
+title: "(La Plume) La procession de joie"
 date: 2026-08-24
 version: 1.0
+description: "La foule chante l’Hymne à la Joie ; mais le curé proclame soudain la fin de la mascarade, tout le monde se libère dans le rire et l’euphorie, tandis que Joseph enlace la femme du charpentier et que Zéphyrine reste seule sur le chemin."
 weight: 27
 ---
 
-*(Le chemin de crête qui surplombe tout le canton. C'est une fin d'après-midi baignée par une lumière d'or pur. Ce n'est plus un petit groupe, mais la foule entière du village qui s'avance dans une marche triomphale et recueillie. En tête, le Curé s'avance, la croix en main, sa soutane portée haut, le visage illuminé d'une sérénité céleste. Derrière lui, le Garde Champêtre ouvre la marche avec fierté, flanqué de Joseph qui donne tendrement le bras à Zéphyrine, et de Mathurin qui porte son jeune fils sur ses épaules. Tout le village les suit, chantant d'une seule voix.)*
+*(Le chemin de crête qui surplombe tout le canton. Fin d'après-midi, lumière d'or pur. Ce n'est plus un petit groupe mais la foule entière du village qui s'avance dans une marche recueillie. En tête, le Curé, la croix en main, la soutane portée haut. Derrière lui, le Garde Champêtre ouvre la marche avec fierté, flanqué de Joseph qui donne le bras à Zéphyrine, et de Mathurin qui porte son enfant sur ses épaules. Tout le village suit, chantant d'une seule voix.)*
 
-**Le brave garde :** *(s'arrêtant un instant au bord du talus, désignant la vallée d'une canne enthousiaste à l'intention des villageois)*
-Regardez-moi cette terre, mes braves ! Nous laissons derrière nous le vallon des *Cinq-Souches* et nous voici au sommet de la *Combe-aux-Belles-Filles* ! Deux siècles que nos anciens y font paître les bêtes ! Mon oncle me disait toujours qu'on y entend l'écho du canton chanter plus fort qu'ailleurs !
+**Le Garde Champêtre :** *(s'arrêtant au bord du talus, désignant la vallée d'une canne enthousiaste)* Regardez-moi cette terre, mes braves ! Voici la Combe-aux-Belles-Filles ! Deux siècles que nos anciens y font paître les bêtes. Mon oncle disait qu'on y entend l'écho du canton chanter plus fort qu'ailleurs.
 
-**Le curé :** *(se retournant vers la foule assemblée, levant sa croix d'argent vers le ciel couchant)*
-Votre oncle disait vrai, mon cher Garde ! Car aujourd'hui, ce ne sont pas seulement les hommes qui marchent, c'est l'âme même de notre pays qui s'élève ! Regardez-vous : il n'y a plus ici de pauvres ou de riches, plus de rancœurs, plus de peurs ! Nous sommes les enfants d'une même grâce, les gardiens d'un même amour !
+**Le Curé :** *(se retournant vers la foule, la croix levée vers le ciel couchant)* Il disait vrai, mon brave Garde ! Car aujourd'hui, ce n'est pas seulement le canton qui chante — c'est son âme tout entière qui s'élève. Regardez-vous : plus de pauvres ni de riches ici, plus de rancœurs, plus de peurs. Nous sommes les enfants d'une même grâce.
 
-*(Le curé s'arrête au sommet du tertre, face à la vallée déployée. Il inspire profondément et, d'une voix puissante, d'une noblesse et d'une clarté souveraines, il entonne le premier couplet de l'Hymne à la Joie.)*
+*(Le Curé s'arrête au sommet du tertre, face à la vallée déployée, et entonne d'une voix pleine un chant que la foule reprend aussitôt — un vieux cantique du canton, que chacun semble connaître depuis le berceau, sur la fraternité retrouvée et la lumière qui efface les vieilles querelles.)*
 
-**Le curé :**
-*(chantant)*
+*(Les voix, en un instant, s'unissent en un chœur qui enfle et fait vibrer les flancs de la combe. Zéphyrine s'arrête au milieu du chemin, submergée par la beauté du spectacle. Les larmes coulent silencieusement sur ses joues. Joseph se penche vers elle et en essuie une du bout du doigt.)*
 
-*« Joie, étincelle divine,
-Fille de l'Élysée !
-Nous entrons, ivres de feu,
-Dans ton sanctuaire sacré ! »*
+**Joseph :** *(murmurant)* Vous pleurez, ma Zéphie ?
 
-*(Le Garde Champêtre reprend le chant à pleine voix, bientôt suivi par Mathurin, puis par Joseph. En un instant, les voix de centaines de villageois s'unissent en un chœur grandiose qui enfle, résonne et fait vibrer les flancs de la Combe-aux-Belles-Filles et les bois des Cinq-Souches.)*
+**Zéphyrine :** *(le cœur au bord des lèvres)* Des larmes de victoire, Joseph. Regardez-les. Écoutez ce chant qui remplit les monts. Plus jamais personne ne sera seul dans ce canton. Le monde est enfin devenu aussi beau que nous l'avions rêvé.
 
-**Tout le village :**
-*(en chœur, la voix portant à travers toute la vallée)*
+*(D'un coup, le Curé se fige au milieu d'une note. Son front se plisse. Il lève lentement les bras, et le chant, autour de lui, s'éteint peu à peu, comme une vague qui se retire.)*
 
-*« Tes charmes réunissent
-Ce que les préjugés ont séparé !
-Tous les hommes deviennent frères
-Là où ton aile douce se pose ! »*
+**Le Curé :** *(d'une voix sèche, qui claque comme un couperet)* Mes frères. C'est assez. C'est fini. La mascarade est finie.
 
-*(Zéphyrine s'arrête au milieu du chemin, submergée par la beauté du spectacle. Les larmes coulent silencieusement sur ses joues. Joseph se penche vers elle et essuie doucement une larme du bout du doigt.)*
+*(Un silence. Puis un frémissement parcourt l'assemblée — non de peur, mais d'une légèreté immense et soudaine, comme un poids qu'on aurait porté sans le savoir et qu'on laisse enfin tomber. Un rire étouffé fuse, puis un autre.)*
 
-**Joseph :**
-*(d'une voix murmuree et tendre)*
-Vous pleurez, Marie-Zéphyrine ?
+**Une voix, dans la foule :** On n'a plus besoin qu'on nous dise d'être heureux !
 
-**Zéphyrine :**
-*(le cœur au bord des lèvres, regardant le Curé qui guide la foule chantante vers le soleil)*
-Ce sont des larmes de victoire, Joseph... Regardez-les... Écoutez ce chant qui remplit les monts ! C'est si magnifique ! Le Curé nous emmène vers la clarté, et plus jamais personne ne sera seul dans ce canton. Le monde est enfin devenu aussi beau que nous l'avions rêvé !
+**Une autre :** On l'est déjà, tiens ! On l'a toujours été, sans qu'elle ait besoin de nous l'écrire !
 
-(D'un coup, le curé se fige. Son front se plisse. Il lève lentement les bras.)
+*(Des cris de joie éclatent de toutes parts. On applaudit, on s'embrasse, on se prend dans les bras en riant aux éclats — un bonheur neuf, insolent, qui ne semble plus rien devoir à personne. Zéphyrine, encore au bras de Joseph, sent la foule se défaire d'elle comme une marée qui se retire sans bruit.)*
 
-**Le Curé :** *(d'une voix sèche, qui claque comme un couperet)*
-Mes frères ! C'est assez ! Assez. C'est fini. Oui, la mascarade est finie !
+*(Mathurin, le visage transfiguré par un sourire qu'on ne lui connaissait pas, tend la main à un enfant qui passe en riant ; le petit la saisit sans hésiter, et tous deux se mettent à sautiller en cadence, loin d'elle, loin de Joseph, loin de tout ce qu'elle avait voulu écrire pour eux.)*
 
-(Un frémissement parcourt l'assemblée, non de peur, mais d'une immense et soudaine légèreté. Un rire étouffé fuse, puis un autre. En une fraction de seconde, la tension se rompt. Une onde de soulagement traverse la foule.)
-(Des cris de joie éclatent de toutes parts. On applaudit, on s'embrasse, on se prend dans les bras en riant aux éclats, ivres d'un bonheur neuf et insolent.)
+*(Le Garde Champêtre se met à genoux devant le Curé. Celui-ci le bénit d'un geste simple, sans emphase — un geste d'homme, pas de personnage. Il le relève. Ils se sourient, et s'éloignent ensemble sur le chemin.)*
 
-(Dans l'euphorie générale, Mathurin, le visage transfiguré par un sourire qu'on ne lui connaissait pas, tend spontanément la main vers un enfant qui passe. Le petit la saisit sans hésiter, et tous deux se mettent à sautiller en cadence.)
-(Le garde se met à genoux devant le curé. Celui-ci le bénit spontanément. Il le relève. Ils se regardent intensément. Puis ils se sourient.)
-(Joseph fend la foule pour rejoindre la femme du charpentier. Il l'enlace. Ils semblent figés dans une extase de bonheur. Leur étreinte s'éternise.)
+*(Joseph, alors, fend la foule et rejoint la femme du charpentier, apparue au bord du chemin comme si elle avait toujours fait partie de la procession. Il l'enlace. Ils restent ainsi, figés dans une étreinte qui s'éternise, indifférents à tout le reste — indifférents, surtout, au bras que Zéphyrine vient de perdre.)*
 
-**Le Curé :**
-Mes frères ! Saluons le Seigneur pour cette liberté retrouvée ! Chantons notre joie. Gloire au Seigneur.
-(Il entonne un alléhuia.)
-(La foule se remet en mouvement, unie par le chant.)
+**Le Curé :** *(se retournant une dernière fois vers la vallée, la voix rayonnante)* Mes frères ! Saluons cette liberté retrouvée !
 
-(Zéphirine ne bouge pas. Elle laisse la procession s'éloigner. Lentement, le tremblement de ses lèvres cesse. Elle sèche ses dernières larmes d'un revers de main impuissant.)
+*(La foule se remet en marche, unie par un nouveau chant, plus simple, presque enfantin — un chant que personne, cette fois, n'a écrit pour eux. Elle s'éloigne, s'éloigne encore, emportant avec elle toute la lumière dorée du chemin.)*
 
-(Le chant puissant de la procession s'élève vers les étoiles naissantes.)
+*(Zéphyrine ne bouge pas. Elle laisse la procession s'éloigner sans elle. Elle regarde Mathurin rire avec cet enfant qui n'est plus le sien à raconter, le Garde et le Curé marcher côte à côte sans plus la chercher du regard, Joseph enlacer une autre à la lisière du chemin — tout ce bonheur qui continue, intact, et qui n'a soudain plus besoin d'elle pour exister.)*
 
+*(Lentement, le tremblement de ses lèvres cesse. Elle sèche ses dernières larmes d'un revers de main. Mais ce n'est plus seulement les larmes qui se tarissent : quelque chose, en elle, s'assèche avec elles — comme si la joie elle-même, à force d'avoir été versée pour les autres, n'avait plus laissé assez de source pour elle.)*
+
+*(Le chant de la procession s'élève encore vers les étoiles naissantes, de plus en plus loin, de plus en plus léger — et Zéphyrine reste seule sur le chemin de crête, dans la lumière qui, autour d'elle seule, a cessé d'être dorée.)*

@@ -1,8 +1,9 @@
 ---
-title: "(La terre) La Saint-Martin"
+title: "(La Fièvre) La Saint-Martin"
 date: 2026-08-24
 version: 1.0
-weight: 15
+description: "Par une nuit d’orage, on frappe violemment à la porte du presbytère : l’accouchement de la femme de Mathurin commence dans le chaos."
+weight: 16
 ---
 
 *(La nuit. Un orage d'automne d'une violence extrême s'abat sur le canton. Le vent fait claquer les volets et la pluie fouette rageusement le porche du presbytère. À l'intérieur, la Sage-Femme et le Curé trient des bandes de lin à la lumière d'une lanterne. Soudain, de lourds coups retentissent contre la porte, accompagnés d'un cri étouffé par la tempête.)*

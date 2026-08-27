@@ -1,7 +1,8 @@
 ---
-title: "(La terre) Le chantage"
+title: "(La Fièvre) Le chantage"
 date: 2026-08-24
 version: 1.0
+description: "La sage-femme rencontre secrètement la femme du charpentier et son enfant près du lavoir, dans une scène de pression et de non-dits."
 weight: 15
 ---
 

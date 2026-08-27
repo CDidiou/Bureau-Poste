@@ -1,8 +1,8 @@
 ---
-title: "(La terre) Le trésor du prunier"
+title: "(La Fièvre) Le trésor du prunier"
 date: 2026-08-24
 version: 1.0
-description: "Dans cette scène au presbytère, le boiteux rend visite au curé et à la sage-femme pour discuter des comptes et des anciens registres du cadastre, sous le regard soupçonneux du prêtre quant à l'interprétation des actes écrits."
+description: "Au presbytère, le Boiteux rend visite au curé et à la sage-femme, laissant entrevoir ses manœuvres autour du cadastre et du vieux prunier."
 weight: 4
 ---
 

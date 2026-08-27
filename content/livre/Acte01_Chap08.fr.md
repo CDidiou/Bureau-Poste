@@ -1,7 +1,8 @@
 ---
-title: "(La terre) L'ambulance au presbytère"
+title: "(La Fièvre) L'ambulance au presbytère"
 date: 2026-08-24
 version: 1.0
+description: "La sage-femme et le garde transforment le presbytère en poste de secours improvisé, sous le regard résigné du curé."
 weight: 10
 ---
 

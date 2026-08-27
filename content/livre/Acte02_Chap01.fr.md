@@ -1,7 +1,8 @@
 ---
-title: "(La plume) Le temple de la charité"
+title: "(La Plume) Le temple de la charité"
 date: 2026-08-24
 version: 1.0
+description: "Zéphyrine et Joseph convertissent le garde, le curé et Mathurin, transformant le bureau de poste en temple de fraternité et d’amour collectif."
 weight: 19
 ---
 

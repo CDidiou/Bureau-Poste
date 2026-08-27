@@ -1,7 +1,8 @@
 ---
-title: "(La terre) Sous la paille"
+title: "(La Fièvre) Sous la paille"
 date: 2026-08-24
 version: 1.0
+description: "Le Boiteux confronte Mathurin à sa ferme et découvre que le paysan cache quelque chose de lourd sous la paille de sa grange."
 weight: 8
 ---
 

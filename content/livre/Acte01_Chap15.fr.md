@@ -1,7 +1,8 @@
 ---
-title: "(La terre) Prêche de nuit"
+title: "(La Fièvre) Prêche de nuit"
 date: 2026-08-24
 version: 1.0
+description: "Dans l’étable de Mathurin, l’enfant naît mort ; le Boiteux crache du sang, le curé prononce un sermon exalté sur la fraternité céleste, et la sage-femme réalise que les hommes d’ici sont incapables de vivre cet idéal."
 weight: 17
 ---
 

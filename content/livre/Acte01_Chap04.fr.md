@@ -1,8 +1,8 @@
 ---
-title: "(La terre) Infiltrations d'eau"
+title: "(La Fièvre) Infiltrations d'eau"
 date: 2026-08-24
 version: 1.0
-description: "Sous la halle après la réunion, alors que le curé s'apprête à partir, le boiteux propose de s'installer au nouveau bureau de poste pour gérer les papiers administratifs et aider à monter les tréteaux de l'Hôtel-Dieu."
+description: "Après la réunion, la sage-femme, le Boiteux, le curé et le garde discutent des difficultés pratiques de la quarantaine et des accouchements à venir."
 weight: 6
 ---
 
