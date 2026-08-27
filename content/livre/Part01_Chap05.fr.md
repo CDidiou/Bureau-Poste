@@ -1,5 +1,6 @@
 ---
 title: "(La Fièvre) La nuit près de la fontaine"
+subtitle: "À voix basse"
 date: 2026-08-24
 version: 1.0
 description: "Dans la nuit, alors que le village dort, la sage-femme et le boiteux se retrouvent secrètement près de la fontaine, mais leur moment d'intimité est interrompu par le jeune fils du charpentier venu chercher de l'eau."

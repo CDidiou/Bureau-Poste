@@ -1,5 +1,6 @@
 ---
 title: "(La Plume) Ou se taisent à jamais"
+subtitle: "x"
 date: 2026-08-24
 version: 1.0
 description: "Tous écrivent joyeusement la légende idéale et trinquent au muscat, jusqu’à ce que Joseph quitte la table pour rejoindre la femme du charpentier, laissant Zéphyrine pleurer en silence."

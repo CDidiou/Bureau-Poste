@@ -1,5 +1,6 @@
 ---
 title: "(La Plume) Le miracle de la vie"
+subtitle: "x"
 date: 2026-08-24
 version: 1.0
 description: "A la ferme de Mathurin, l’enfant naît miraculeusement, s’arrête de respirer, revient en changeant de sexe ; une bagarre éclate et Zéphyrine, lasse, décide de ne plus aller chercher les hommes."

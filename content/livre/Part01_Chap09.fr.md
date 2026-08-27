@@ -1,5 +1,6 @@
 ---
 title: "(La Fièvre) Avec des pincettes"
+subtitle: "Le courrier en quarantaine"
 date: 2026-08-24
 version: 1.0
 description: "À la limite du canton, le garde et Mathurin empêchent un coursier de passer le cordon sanitaire, exigeant qu’il jette le courrier par-dessus les ronces."

@@ -1,5 +1,6 @@
 ---
-title: "(La Fièvre) Infiltrations d'eau"
+title: "(La Fièvre) La poste réquisitionnée"
+subtitle: "La République s'installe"
 date: 2026-08-24
 version: 1.0
 description: "Après la réunion, la sage-femme, le Boiteux, le curé et le garde discutent des difficultés pratiques de la quarantaine et des accouchements à venir."

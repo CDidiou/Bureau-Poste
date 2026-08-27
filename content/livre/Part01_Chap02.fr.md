@@ -1,5 +1,6 @@
 ---
-title: "(La Fièvre) Le trésor du prunier"
+title: "(La Fièvre) Le trésor"
+subtitle: "Les archives parlent"
 date: 2026-08-24
 version: 1.0
 description: "Au presbytère, le Boiteux rend visite au curé et à la sage-femme, laissant entrevoir ses manœuvres autour du cadastre et du vieux prunier."

@@ -1,5 +1,6 @@
 ---
 title: "(La Fièvre) Les patriotes"
+subtitle: "Une affaire de famille"
 date: 2026-08-24
 version: 1.0
 description: "Souffrant de son moignon, le Boiteux révèle à la sage-femme l’histoire de son grand-oncle et du trésor lié à l’expédition de 1837 au Bas-Canada."

@@ -1,5 +1,6 @@
 ---
 title: "(La Plume) Une poignée de pétales"
+subtitle: "x"
 date: 2026-08-24
 version: 1.0
 description: "Sous la lune, Joseph déclare enfin son amour à Zéphyrine, mais elle doit le faire taire quand il reparle du trésor, avant de l’embrasser et de le ramener."

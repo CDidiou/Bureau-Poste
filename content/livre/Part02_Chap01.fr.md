@@ -1,5 +1,6 @@
 ---
 title: "(La Plume) Le temple de la charité"
+subtitle: "Là où les peurs s’agenouillent"
 date: 2026-08-24
 version: 1.0
 description: "Zéphyrine et Joseph convertissent le garde, le curé et Mathurin, transformant le bureau de poste en temple de fraternité et d’amour collectif."

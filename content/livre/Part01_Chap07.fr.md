@@ -1,5 +1,6 @@
 ---
 title: "(La Fièvre) Eau de vie"
+subtitle: "Petits arrangements"
 date: 2026-08-24
 version: 1.0
 description: "Le garde surprend Mathurin en train de barricader sa grange et tente de l’interroger, dans un échange mêlé de méfiance et d’alcool."

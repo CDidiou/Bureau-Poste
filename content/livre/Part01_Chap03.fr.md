@@ -1,5 +1,6 @@
 ---
 title: "(La Fièvre) La menace de l'épidémie"
+subtitle: "Roulements de tambour"
 date: 2026-08-24
 version: 1.0
 description: "Le garde champêtre annonce officiellement l’arrivée de la grippe espagnole et impose une réunion obligatoire, provoquant la panique du village."

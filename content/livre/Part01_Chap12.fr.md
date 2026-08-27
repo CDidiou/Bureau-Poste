@@ -1,5 +1,6 @@
 ---
-title: "(La Fièvre) La confirmation"
+title: "(La Fièvre) La malle"
+subtitle: "Le trésor a un visage"
 date: 2026-08-24
 version: 1.0
 description: "Au bureau de poste, le Boiteux apprend que Mathurin cache bien des malles sous la paille et croit enfin toucher son trésor, au grand désarroi de la sage-femme."

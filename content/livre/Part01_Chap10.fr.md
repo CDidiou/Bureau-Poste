@@ -1,5 +1,6 @@
 ---
 title: "(La Fièvre) Premiers crachats"
+subtitle: "Un devoir de pasteur"
 date: 2026-08-24
 version: 1.0
 description: "Le curé prépare ses bagages pour fuir vers l’évêché, tandis que la sage-femme tente de le retenir face à l’aggravation de l’épidémie."
