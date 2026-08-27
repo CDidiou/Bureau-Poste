@@ -1,5 +1,6 @@
 ---
-title: "(La Fièvre) La rumeur du bistrot"
+title: "(La Fièvre) La rumeur du prunier"
+subtitle: "ici"
 date: 2026-08-24
 version: 1.0
 description: "Le garde champêtre se fait soigner l’épaule par la sage-femme tout en colportant des rumeurs sur le Boiteux qui fouillerait la terre autour du prunier la nuit."

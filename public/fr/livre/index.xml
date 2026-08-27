@@ -25,132 +25,117 @@ Marie-Zéphyrine de Bernardy-Lilaz orchestre un jeu de miroirs fascinant. Derri�
     </item>
     <item>
       <title>Les villageois</title>
-      <link>http://localhost:1313/fr/livre/lespersonnages/</link>
+      <link>http://localhost:1313/fr/livre/personnages/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/lespersonnages/</guid>
+      <guid>http://localhost:1313/fr/livre/personnages/</guid>
       <description>&lt;h2 id=&#34;le-boiteux&#34;&gt;Le Boiteux&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Portrait.&lt;/strong&gt; La quarantaine burinée par les tranchées. Une jambe de bois qui claque sur les dalles du bureau de poste — un bruit que tout le village reconnaît avant même de le voir entrer. Il a gardé de l&amp;rsquo;armée une raideur du dos et une manière de se tenir toujours un peu trop droit, comme pour compenser.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Force apparente.&lt;/strong&gt; Une gouaille irrésistible, une énergie d&amp;rsquo;action brute, et une aisance inattendue avec les décrets et la paperasse administrative — lui, l&amp;rsquo;ancien major, sait faire plier les règlements à son avantage.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>(La terre) La rumeur du bistrot</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap01/</link>
+      <title>(La Fièvre) La rumeur du prunier</title>
+      <link>http://localhost:1313/fr/livre/part01_chap01/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap01/</guid>
-      <description>Le garde-champêtre se fait soigner l&amp;#39;épaule par la sage-femme tout en l&amp;#39;informant avec méfiance qu&amp;#39;il a surpris un ancien combattant boiteux en train de creuser de mystérieux trous nocturnes près d&amp;#39;un arbre de la commune.</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap01/</guid>
+      <description>Le garde champêtre se fait soigner l’épaule par la sage-femme tout en colportant des rumeurs sur le Boiteux qui fouillerait la terre autour du prunier la nuit.</description>
     </item>
     <item>
-      <title>(La terre) Le trésor du prunier</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap02/</link>
+      <title>(La Fièvre) Le trésor du prunier</title>
+      <link>http://localhost:1313/fr/livre/part01_chap02/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap02/</guid>
-      <description>Dans cette scène au presbytère, le boiteux rend visite au curé et à la sage-femme pour discuter des comptes et des anciens registres du cadastre, sous le regard soupçonneux du prêtre quant à l&amp;#39;interprétation des actes écrits.</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap02/</guid>
+      <description>Au presbytère, le Boiteux rend visite au curé et à la sage-femme, laissant entrevoir ses manœuvres autour du cadastre et du vieux prunier.</description>
     </item>
     <item>
-      <title>(La terre) La menace de l&#39;épidémie</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap03/</link>
+      <title>(La Fièvre) La menace de l&#39;épidémie</title>
+      <link>http://localhost:1313/fr/livre/part01_chap03/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap03/</guid>
-      <description>Monté sur un banc de pierre sous la halle, le garde-champêtre annonce bruyamment aux villageois l&amp;#39;arrivée de l&amp;#39;épidémie de la grippe espagnole à Saint-Martin ainsi que la convocation obligatoire à une réunion de recensement.</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap03/</guid>
+      <description>Le garde champêtre annonce officiellement l’arrivée de la grippe espagnole et impose une réunion obligatoire, provoquant la panique du village.</description>
     </item>
     <item>
-      <title>(La terre) Infiltrations d&#39;eau</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap04/</link>
+      <title>(La Fièvre) Infiltrations d&#39;eau</title>
+      <link>http://localhost:1313/fr/livre/part01_chap04/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap04/</guid>
-      <description>Sous la halle après la réunion, alors que le curé s&amp;#39;apprête à partir, le boiteux propose de s&amp;#39;installer au nouveau bureau de poste pour gérer les papiers administratifs et aider à monter les tréteaux de l&amp;#39;Hôtel-Dieu.</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap04/</guid>
+      <description>Après la réunion, la sage-femme, le Boiteux, le curé et le garde discutent des difficultés pratiques de la quarantaine et des accouchements à venir.</description>
     </item>
     <item>
-      <title>(La terre) La nuit près de la fontaine</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap05/</link>
+      <title>(La Fièvre) La nuit près de la fontaine</title>
+      <link>http://localhost:1313/fr/livre/part01_chap05/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap05/</guid>
+      <guid>http://localhost:1313/fr/livre/part01_chap05/</guid>
       <description>Dans la nuit, alors que le village dort, la sage-femme et le boiteux se retrouvent secrètement près de la fontaine, mais leur moment d&amp;#39;intimité est interrompu par le jeune fils du charpentier venu chercher de l&amp;#39;eau.</description>
     </item>
     <item>
-      <title>(La terre) Sous la paille</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap06/</link>
+      <title>(La Fièvre) Sous la paille</title>
+      <link>http://localhost:1313/fr/livre/part01_chap06/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap06/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(En bordure du hameau voisin. Le jour baisse. Mathurin charrie une charge lourde près de sa grange. Le boiteux arrive à la ferme du paysan à son rythme, appuyé sur son bâton.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Le Boiteux :&lt;/strong&gt;
-Tu travailles tard, Mathurin. On dirait que tu mets le grain à l&amp;rsquo;abri avant la pluie. Ou avant les gendarmes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mathurin :&lt;/strong&gt; &lt;em&gt;(sans s&amp;rsquo;arrêter)&lt;/em&gt;
-La pluie ou les gendarmes, ça me regarde. Qu&amp;rsquo;est-ce que tu viens traîner par ici ?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap06/</guid>
+      <description>Le Boiteux confronte Mathurin à sa ferme et découvre que le paysan cache quelque chose de lourd sous la paille de sa grange.</description>
     </item>
     <item>
-      <title>(La terre) Eau de vie</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap07/</link>
+      <title>(La Fièvre) Eau de vie</title>
+      <link>http://localhost:1313/fr/livre/part01_chap07/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap07/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Le soir tombe. La bordure de la parcelle de Mathurin, devant sa grange. Mathurin s&amp;rsquo;échine à clouer de lourdes planches de réemploi et des morceaux de volige en travers des battants de la porte pour en boucher tous les interstices. Le Garde Champêtre arrive par le chemin du bas, le bras en écharpe, la marche un peu lourde mais l&amp;rsquo;œil aux aguets.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Le Garde Champêtre :&lt;/strong&gt;
-Tu t&amp;rsquo;échines à cette heure, Mathurin ? On dirait un blaireau qui rebouche son trou avant la nuit.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap07/</guid>
+      <description>Le garde surprend Mathurin en train de barricader sa grange et tente de l’interroger, dans un échange mêlé de méfiance et d’alcool.</description>
     </item>
     <item>
-      <title>(La terre) L&#39;ambulance au presbytère</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap08/</link>
+      <title>(La Fièvre) L&#39;ambulance au presbytère</title>
+      <link>http://localhost:1313/fr/livre/part01_chap08/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap08/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La grande salle paroissiale du presbytère. Une grande table de bois sombre est encombrée d&amp;rsquo;images pieuses, de cierges et de registres de fabrique. Le Curé plie soigneusement des chasubles et range ses missels. La porte s&amp;rsquo;ouvre à la volée. La Sage-Femme entre, un grand panier d&amp;rsquo;osier sous le bras, débordant de draps de lin et d&amp;rsquo;herbes séchées, suivie du Garde Champêtre qui porte à bout de bras deux grands baquets de bois et des rouleaux de bandes d&amp;rsquo;étoupe.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap08/</guid>
+      <description>La sage-femme et le garde transforment le presbytère en poste de secours improvisé, sous le regard résigné du curé.</description>
     </item>
     <item>
-      <title>(La terre) Avec des pincettes</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap09/</link>
+      <title>(La Fièvre) Avec des pincettes</title>
+      <link>http://localhost:1313/fr/livre/part01_chap09/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap09/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La limite du canton, matérialisée par un fagot de ronces en travers du chemin et un écriteau à la peinture fraîche : « HALTE SANITAIRE - DEFENSE DE PASSER ». Le Garde Champêtre, le visage rouge de sueur et de fermeté, tient à bout de bras un long fusil sans bretelle qu&amp;rsquo;il réajuste à chaque instant sous l&amp;rsquo;aisselle. Assus sur une borne en pierre, un couteau à la main, Mathurin épluche calmement un navet en le regardant faire.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap09/</guid>
+      <description>À la limite du canton, le garde et Mathurin empêchent un coursier de passer le cordon sanitaire, exigeant qu’il jette le courrier par-dessus les ronces.</description>
     </item>
     <item>
-      <title>(La terre) Premiers crachats</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap10/</link>
+      <title>(La Fièvre) Premiers crachats</title>
+      <link>http://localhost:1313/fr/livre/part01_chap10/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap10/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Le porche du presbytère. Le Curé, le visage tendu et fatigué, pose au sol une valise en cuir usée et un grand sac de toile ficelé. Il vérifie une dernière fois le verrou de la lourde porte en chêne. La Sage-Femme arrive du bas de la rue, une couverture de laine sous le bras et du désinfectant sur ses habits.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;La Sage-Femme :&lt;/strong&gt; &lt;em&gt;(s&amp;rsquo;arrêtant net en voyant les valises)&lt;/em&gt;
-Vous bouclez vos bagages, monsieur le Curé ? Le train de midi n&amp;rsquo;est pourtant pas encore annoncé.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap10/</guid>
+      <description>Le curé prépare ses bagages pour fuir vers l’évêché, tandis que la sage-femme tente de le retenir face à l’aggravation de l’épidémie.</description>
     </item>
     <item>
-      <title>(La terre) Les patriotes</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap11/</link>
+      <title>(La Fièvre) Les patriotes</title>
+      <link>http://localhost:1313/fr/livre/part01_chap11/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap11/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Au presbytère. Le soir tombe. La tempête se profile au loin. Le Boiteux est assis sur un banc, la jambe tendue, râlant de douleur. La Sage-Femme applique un cataplasme d&amp;rsquo;eau-de-vie et de moutarde sur son moignon tremblant. Joseph, irrité par la douleur et le mépris ambiant du village, tape du poing sur la table.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;La Sage-Femme :&lt;/strong&gt;
-&lt;em&gt;(resserrant la bande)&lt;/em&gt;
-Ne bougez pas tant, Major ! Si vous n&amp;rsquo;alliez pas faire le zouave au milieu des ronces de Roche-Fontaine avec votre prothèse, vous n&amp;rsquo;auriez pas la chair à vif !&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap11/</guid>
+      <description>Souffrant de son moignon, le Boiteux révèle à la sage-femme l’histoire de son grand-oncle et du trésor lié à l’expédition de 1837 au Bas-Canada.</description>
     </item>
     <item>
-      <title>(La terre) La confirmation</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap12/</link>
+      <title>(La Fièvre) La confirmation</title>
+      <link>http://localhost:1313/fr/livre/part01_chap12/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap12/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Le bureau de poste provisoire. L&amp;rsquo;endroit est saturé de tampons, de registres municipaux et de télégrammes officiels. Le Major est installé derrière le grand comptoir de bois, l&amp;rsquo;air souverain, triant les laissez-passer et les bordereaux de réquisition. Le Garde Champêtre se tient debout face à lui, le képi à la main. La Sage-Femme entre, son châle sur les épaules, l&amp;rsquo;œil étincelant.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;La Sage-Femme&lt;/strong&gt; (s&amp;rsquo;approchant du bureau, la voix plus basse)
-Mon major&amp;hellip; j&amp;rsquo;ai besoin d&amp;rsquo;un laissez-passer pour la ferme de Mathurin. Je dois une visite de contrôle avant la naissance. Je suis inquiète.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap12/</guid>
+      <description>Au bureau de poste, le Boiteux apprend que Mathurin cache bien des malles sous la paille et croit enfin toucher son trésor, au grand désarroi de la sage-femme.</description>
     </item>
     <item>
-      <title>(La terre) La Saint-Martin</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap14/</link>
+      <title>(La Fièvre) Le chantage</title>
+      <link>http://localhost:1313/fr/livre/part01_chap13/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap14/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La nuit. Un orage d&amp;rsquo;automne d&amp;rsquo;une violence extrême s&amp;rsquo;abat sur le canton. Le vent fait claquer les volets et la pluie fouette rageusement le porche du presbytère. À l&amp;rsquo;intérieur, la Sage-Femme et le Curé trient des bandes de lin à la lumière d&amp;rsquo;une lanterne. Soudain, de lourds coups retentissent contre la porte, accompagnés d&amp;rsquo;un cri étouffé par la tempête.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;La Sage-Femme :&lt;/strong&gt; &lt;em&gt;(sursautant, posant ses ciseaux)&lt;/em&gt;
-Qui peut bien traîner par un temps pareil ?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap13/</guid>
+      <description>La sage-femme rencontre secrètement la femme du charpentier et son enfant près du lavoir, dans une scène de pression et de non-dits.</description>
     </item>
     <item>
-      <title>(La terre) Le chantage</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap13/</link>
+      <title>(La Fièvre) La Saint-Martin</title>
+      <link>http://localhost:1313/fr/livre/part01_chap14/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap13/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Le lendemain après-midi au bord de la rivière, à une dizaine de mètres du lavoir où le battement régulier des battoirs et le jaser des lavandières font un fond sonore continu. La sage-femme s&amp;rsquo;est retirée à l&amp;rsquo;écart avec la femme du charpentier, sous prétexte de lui donner des herbes sèches pour sa grande qui tousse rouge. La femme du charpentier tient fermement la main de son gamin — le petit du charpentier —, terrifié.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap14/</guid>
+      <description>Par une nuit d’orage, on frappe violemment à la porte du presbytère : l’accouchement de la femme de Mathurin commence dans le chaos.</description>
     </item>
     <item>
-      <title>(La terre) Prêche de nuit</title>
-      <link>http://localhost:1313/fr/livre/acte01_chap15/</link>
+      <title>(La Fièvre) Prêche de nuit</title>
+      <link>http://localhost:1313/fr/livre/part01_chap15/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte01_chap15/</guid>
-      <description>&lt;p&gt;(L&amp;rsquo;étable de Mathurin. Une chaleur suffocante et poisseuse règne dans la pièce éclairée par la seule lumière blafarde d&amp;rsquo;une lanterne à pétrole. Dehors, la tempête fait rage et la pluie fouette rageusement les fenêtres. La femme de Mathurin est allongée sur la paille, blême, s&amp;rsquo;accrochant de toutes ses forces aux ridelles d&amp;rsquo;une charrette. Mathurin est immobile contre le mur, la fourche serrée contre lui, le regard hagard. Le Garde Champêtre, terrifié, retient son souffle près du battant de la porte. Le Boiteux est assis sur un baquet, pris de spasmes de toux qu&amp;rsquo;il tente d&amp;rsquo;étouffer dans sa veste. La Sage-Femme, les bras trempés jusqu&amp;rsquo;aux coudes, s&amp;rsquo;écarte lentement du corps de la mère. Dans ses mains, enroulée dans un linge blanc de lin, repose une petite forme inerte.)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part01_chap15/</guid>
+      <description>Dans l’étable de Mathurin, l’enfant naît mort ; le Boiteux crache du sang, le curé prononce un sermon exalté sur la fraternité céleste, et la sage-femme réalise que les hommes d’ici sont incapables de vivre cet idéal.</description>
     </item>
     <item>
       <title>Plot twist</title>
@@ -163,85 +148,74 @@ Quittez donc ce livre si vous cherchiez la consolation des sermons ! Posez-le su
 &lt;p&gt;Vous croyiez quoi ? Que le prêche du curé allait transformer ces âmes de boue en saints de vitrail ? Qu’ils allaient se tomber dans les bras en pleurant de fraternité ? La réalité n’a rien d&amp;rsquo;un chant d&amp;rsquo;église. Elle retombe à plat, vilaine et sèche comme une pelletée de terre sur un sapin.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>(La plume) Le temple de la charité</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap01/</link>
+      <title>(La Plume) Le temple de la charité</title>
+      <link>http://localhost:1313/fr/livre/part02_chap01/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap01/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La grande salle du bureau de poste réquisitionné, baignée d&amp;rsquo;une clarté dorée. Au centre, une vaste table de bois rassemble les cinq protagonistes.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Le brave garde :&lt;/strong&gt; &lt;em&gt;(agitant un papier d&amp;rsquo;un air paniqué, les moustaches tremblantes)&lt;/em&gt;
-Vingt francs de désinfectant ! Et le sous-préfet exige que chaque litre soit consigné par écrit, tamponné, vérifié ! Si on oublie un seul cachet, on va tous être traduits en conseil de discipline par l’Administration ! C’est le règlement, il faut obéir sans discuter, plier l&amp;rsquo;échine avant que la hiérarchie ne nous tombe dessus !&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap01/</guid>
+      <description>Zéphyrine et Joseph convertissent le garde, le curé et Mathurin, transformant le bureau de poste en temple de fraternité et d’amour collectif.</description>
     </item>
     <item>
-      <title>(La plume) Une poignée de pétales</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap02/</link>
+      <title>(La Plume) Une poignée de pétales</title>
+      <link>http://localhost:1313/fr/livre/part02_chap02/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap02/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La place du village en pleine nuit. Une lune argentée et radieuse baigne les pavés d’une clarté féerique. Depuis la fontaine en pierre, des jets clairs chantent comme les cordes d’une harpe. Joseph se tient debout devant la vasque. Il ne porte ni bâton ni béquille. Sa démarche est haute, noble et souple. Il porte une veste ajustée au drap bleu de roi et ses yeux sombres brillent d’un éclat tendre et passionné. Marie-Zéphyrine s&amp;rsquo;avance le long du bassin, enveloppée dans un grand châle de soie sombre qui frôle les dalles.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap02/</guid>
+      <description>Sous la lune, Joseph déclare enfin son amour à Zéphyrine, mais elle doit le faire taire quand il reparle du trésor, avant de l’embrasser et de le ramener.</description>
     </item>
     <item>
-      <title>(La plume) Boutons en or</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap03/</link>
+      <title>(La Plume) Boutons en or</title>
+      <link>http://localhost:1313/fr/livre/part02_chap03/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap03/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La grange de Mathurin, aux toutes premières lueurs de l&amp;rsquo;aube. La nuit n&amp;rsquo;a pas encore tout à fait cédé : par les fentes des planches, une lumière laiteuse et douce s&amp;rsquo;infiltre, comme si l&amp;rsquo;aube elle-même hésitait à entrer. Des grains de poussière dorée flottent dans l&amp;rsquo;air, suspendus, presque immobiles, telle une poudre d&amp;rsquo;étoiles qui aurait glissé de la nuit précédente jusqu&amp;rsquo;ici. Quelque part au-dehors, un premier chant d&amp;rsquo;oiseau s&amp;rsquo;élève, pur et cristallin, comme un écho tardif de la fontaine et des pétales de la veille. La vieille caisse militaire, transmise dans la famille depuis le grand-père de Mathurin, trône au centre. Autour d&amp;rsquo;elle : Joseph, la démarche toujours haute et souple, le Curé serrant son bréviaire contre lui, Mathurin les bras croisés, le Garde Champêtre qui n&amp;rsquo;arrive pas à tenir en place, et Zéphyrine, enveloppée encore dans son grand châle de soie sombre, un pétale blanc oublié dans les plis, en retrait, qui observe la scène avec un mélange de fierté et de vigilance.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap03/</guid>
+      <description>L’ouverture de la caisse militaire révèle un uniforme sans boutons, un billet mystérieux et un cachet numéroté qui trouble le curé, que Zéphyrine force à rester.</description>
     </item>
     <item>
-      <title>(La plume) Le chiffre du registre</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap04/</link>
+      <title>(La Plume) Le chiffre du registre</title>
+      <link>http://localhost:1313/fr/livre/part02_chap04/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap04/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Le presbytère, à la nuit tombée. Une pièce basse, aux murs couverts d&amp;rsquo;étagères de registres reliés, dont le cuir sombre boit presque toute la lumière des lanternes — sauf par instants, où une reliure dorée s&amp;rsquo;allume d&amp;rsquo;un bref éclat, comme un œil qui cligne dans l&amp;rsquo;ombre. Sur la grande table de chêne, les lanternes dessinent un cercle chaud et vivant, un îlot de clarté ambrée au milieu de la pièce, et la fumée légère des mèches monte en volutes qui semblent danser plus qu&amp;rsquo;elles ne s&amp;rsquo;élèvent. La lettre exhumée des archives diocésaines, le petit carnet de comptes, la boîte de cachets et la vieille carte cadastrale sont étalés sur ce cercle de lumière, comme une constellation posée sur la table. Joseph est penché dessus, un compas à la main, ses gestes précis et lents comme ceux d&amp;rsquo;un enchanteur traçant un cercle. Zéphyrine est à son bras, comme toujours, son châle captant les reflets dorés des flammes. Le Curé se tient en retrait près de ses étagères, comme rassuré d&amp;rsquo;être chez lui. Mathurin et le Garde Champêtre attendent, debout, à la lisière de ce halo de lumière — l&amp;rsquo;un les bras croisés, l&amp;rsquo;autre trépignant.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap04/</guid>
+      <description>Au presbytère, Joseph comprend que le trésor est sous le prunier de Mathurin ; ce dernier en réclame la possession, le Garde veut poser des scellés, et Zéphyrine doit négocier pour maintenir l’unité.</description>
     </item>
     <item>
-      <title>(La plume) La médaille</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap05/</link>
+      <title>(La Plume) La médaille</title>
+      <link>http://localhost:1313/fr/livre/part02_chap05/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap05/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;weight-50&#34;&gt;title: &amp;ldquo;La médaille&amp;rdquo;
-date: 2026-08-24
-version: 2.0
-weight: 50&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;(Un sous-bois en lisière du canton. La nuit est limpide, piquée d&amp;rsquo;étoiles qui scintillent comme des diamants sous une lune radieuse. Une brise douce fait chanter les feuilles des vieux chênes, et cette musique légère semble accompagner chaque pas du petit cortège. Le Garde Champêtre marche en tête, tenant une lanterne de cuivre dont la clarté dorée illumine le chemin. Derrière lui s&amp;rsquo;avancent Joseph — d&amp;rsquo;un pas prompt et alerte — tenant Zéphyrine par la main, suivis du Curé et de Mathurin, qui portent chacun, non sans une certaine fierté contenue, les outils d&amp;rsquo;arpentage.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap05/</guid>
+      <description>Sous le prunier, Mathurin, le garde et le curé se disputent violemment la médaille ; Zéphyrine les fait taire d’un cri et impose un partage, tandis que la lumière magique commence à pâlir.</description>
     </item>
     <item>
-      <title>(La plume) Une aventure humaine</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap06/</link>
+      <title>(La Plume) Une aventure humaine</title>
+      <link>http://localhost:1313/fr/livre/part02_chap06/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap06/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La grande maison de pierre de Zéphyrine, tard dans la soirée. C&amp;rsquo;est elle qui a insisté pour que tous s&amp;rsquo;y retrouvent plutôt que dans la cuisine de Mathurin — « il faut un lieu neutre pour finir ce que nous avons commencé ensemble », a-t-elle dit, et personne n&amp;rsquo;a songé à discuter. Dans l&amp;rsquo;âtre, un feu généreux ronfle doucement, projetant sur les murs de pierre des ombres chaudes et vivantes. La lumière des chandelles se répand sur la table comme un miel doré, enveloppant chaque visage d&amp;rsquo;une clarté presque tendre. La bande est rassemblée autour de Joseph, qui tient la médaille et le minuscule parchemin extrait de son écrin.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap06/</guid>
+      <description>Dans la maison de la sage-femme, Joseph lit le parchemin qui révèle qu’il n’y a jamais eu d’or, seulement un serment ; les hommes se révoltent, le curé veut partir, et Zéphyrine avoue pour la première fois sa fatigue à Joseph.</description>
     </item>
     <item>
-      <title>(La plume) Le miracle de la vie</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap07/</link>
+      <title>(La Plume) Le miracle de la vie</title>
+      <link>http://localhost:1313/fr/livre/part02_chap07/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap07/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La grande pièce de la ferme de Mathurin. Soudain, de la chambre voisine, s&amp;rsquo;élève un cri de douleur étouffé, suivi d&amp;rsquo;un gémissement de détresse. Mathurin perd subitement toutes ses couleurs, recule en titubant et manque de faire tomber une chaise.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mathurin :&lt;/strong&gt; &lt;em&gt;(hurlant de panique)&lt;/em&gt; Ça y est, ma Jeanne y passe ! Je le savais, la vie n&amp;rsquo;apporte que des malheurs !&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Zéphyrine :&lt;/strong&gt; &lt;em&gt;(se levant précipitamment, mais sans la moindre panique, réajustant son tablier blanc avec grâce)&lt;/em&gt; N&amp;rsquo;ayez crainte, Mathurin. La délivrance approche. Ce soir, la nuit est trop douce pour que la souffrance y ait sa place.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap07/</guid>
+      <description>A la ferme de Mathurin, l’enfant naît miraculeusement, s’arrête de respirer, revient en changeant de sexe ; une bagarre éclate et Zéphyrine, lasse, décide de ne plus aller chercher les hommes.</description>
     </item>
     <item>
-      <title>(La plume) Ou se taisent à jamais</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap08/</link>
+      <title>(La Plume) Ou se taisent à jamais</title>
+      <link>http://localhost:1313/fr/livre/part02_chap08/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap08/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La grande cuisine de Mathurin, baignée d&amp;rsquo;une lumière de fête. La table est encombrée de verres et de bouteilles. Le Curé, la soutane déboutonnée, retrousse ses manches. Le Garde Champêtre recharge un encrier. Joseph tient la plume d&amp;rsquo;oie, tandis que Zéphyrine verse une larmichette de gnôle dans le café de Mathurin.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Le père Mathurin :&lt;/strong&gt; &lt;em&gt;(rechargeant la pipe du Garde Champêtre avec un large sourire)&lt;/em&gt;
-Rajoute une ligne sur le prunier, Joseph ! Dis que sous les racines, le capitaine canadien avait gravé la devise du canton avec la pointe de son sabre, et que ça m&amp;rsquo;appartient en propre, corps et âme, sans que la commune n&amp;rsquo;ait à y fourrer son nez !&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap08/</guid>
+      <description>Tous écrivent joyeusement la légende idéale et trinquent au muscat, jusqu’à ce que Joseph quitte la table pour rejoindre la femme du charpentier, laissant Zéphyrine pleurer en silence.</description>
     </item>
     <item>
-      <title>(La plume) La procession de joie</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap09/</link>
+      <title>(La Plume) La procession de joie</title>
+      <link>http://localhost:1313/fr/livre/part02_chap09/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap09/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Le chemin de crête qui surplombe tout le canton. C&amp;rsquo;est une fin d&amp;rsquo;après-midi baignée par une lumière d&amp;rsquo;or pur. Ce n&amp;rsquo;est plus un petit groupe, mais la foule entière du village qui s&amp;rsquo;avance dans une marche triomphale et recueillie. En tête, le Curé s&amp;rsquo;avance, la croix en main, sa soutane portée haut, le visage illuminé d&amp;rsquo;une sérénité céleste. Derrière lui, le Garde Champêtre ouvre la marche avec fierté, flanqué de Joseph qui donne tendrement le bras à Zéphyrine, et de Mathurin qui porte son jeune fils sur ses épaules. Tout le village les suit, chantant d&amp;rsquo;une seule voix.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap09/</guid>
+      <description>La foule chante l’Hymne à la Joie ; mais le curé proclame soudain la fin de la mascarade, tout le monde se libère dans le rire et l’euphorie, tandis que Joseph enlace la femme du charpentier et que Zéphyrine reste seule sur le chemin.</description>
     </item>
     <item>
-      <title>(La plume) L&#39;encre ou l&#39;oubli</title>
-      <link>http://localhost:1313/fr/livre/acte02_chap10/</link>
+      <title>(La Plume) L&#39;encre ou l&#39;oubli</title>
+      <link>http://localhost:1313/fr/livre/part02_chap10/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/livre/acte02_chap10/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(La pénombre d&amp;rsquo;une petite chambre de grenier sous les tuiles. Le silence y est lourd, épais, interrompu seulement par le crissement d&amp;rsquo;une plume d&amp;rsquo;oie sur le papier usé. Sur la table de bois brut, la bougie achève de se consumer dans une flaque de cire. Dans un angle de la pièce repose le grand coffre de bois, fermé, couvert d&amp;rsquo;une fine couche de poussière. Marie-Zéphyrine, voûtée, le visage creusé par les rides et la solitude, trace une dernière boucle. Elle souffle doucement sur l&amp;rsquo;encre encore fraîche du manuscrit, puis pose délicatement sa plume à côté de l&amp;rsquo;encrier.)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fr/livre/part02_chap10/</guid>
+      <description>La vieille Zéphyrine termine son manuscrit, le range dans le coffre, pardonne à Joseph et meurt ; un enfant découvre son corps en criant de joie.</description>
     </item>
   </channel>
 </rss>
