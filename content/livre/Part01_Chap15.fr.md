@@ -7,7 +7,7 @@ description: "Dans l’étable de Mathurin, l’enfant naît mort ; le Boiteux c
 weight: 17
 ---
 
-(L'étable de Mathurin. Une chaleur suffocante et poisseuse règne dans la pièce éclairée par la seule lumière blafarde d'une lanterne à pétrole. Dehors, la tempête fait rage et la pluie fouette rageusement les fenêtres. La femme de Mathurin est allongée sur la paille, blême, s'accrochant de toutes ses forces aux ridelles d'une charrette. Mathurin est immobile contre le mur, la fourche serrée contre lui, le regard hagard. Le Garde Champêtre, terrifié, retient son souffle près du battant de la porte. Le Boiteux est assis sur un baquet, pris de spasmes de toux qu'il tente d'étouffer dans sa veste. La Sage-Femme, les bras trempés jusqu'aux coudes, s'écarte lentement du corps de la mère. Dans ses mains, enroulée dans un linge blanc de lin, repose une petite forme inerte.)
+*(L'étable de Mathurin. Une chaleur suffocante et poisseuse règne dans la pièce éclairée par la seule lumière blafarde d'une lanterne à pétrole. Dehors, la tempête fait rage et la pluie fouette rageusement les fenêtres. La femme de Mathurin est allongée sur la paille, blême, s'accrochant de toutes ses forces aux ridelles d'une charrette. Mathurin est immobile contre le mur, la fourche serrée contre lui, le regard hagard. Le Garde Champêtre, terrifié, retient son souffle près du battant de la porte. Le Boiteux est assis sur un baquet, pris de spasmes de toux qu'il tente d'étouffer dans sa veste. La Sage-Femme, les bras trempés jusqu'aux coudes, s'écarte lentement du corps de la mère. Dans ses mains, enroulée dans un linge blanc de lin, repose une petite forme inerte.)*
 
 **Le Boiteux :** *(entre deux toux, écumant de rage)*
 Misérable imbécile ! Tu faisais tout ce mystère pour une timbale et un coquetier ? Des objets de pillage, par-dessus le marché ! Tu n'as donc aucune honte ?
@@ -24,7 +24,7 @@ Qu'est-ce que tu dis ? Une fille ? Et... et elle ne crie pas ? Pourquoi elle ne 
 **La Sage-Femme :** *(fondant en larmes, épuisée, le corps pliant sous la fatigue et le désespoir)*
 Parce qu'elle est partie avant de venir, Mathurin ! Parce que le monde est trop pourri pour qu'un ange y respire ! Je n'ai rien pu faire... Rien !
 
-(Mathurin laisse tomber sa fourche dans la paille avec un bruit sourd.)
+*(Mathurin laisse tomber sa fourche dans la paille avec un bruit sourd.)*
 
 **La Sage-Femme :** *(dans un souffle, épuisée)*
 De toute façon c'était une fille, ta deuxième Mathurin. Elle n'avait qu'un chemin d'ombre devant elle.
@@ -50,6 +50,4 @@ Regardez-vous ! Regardez ce que vous êtes devenus ! Des bêtes apeurées qui co
 **Le curé :**
 Cette petite fille ne connaîtra jamais la peur, ni la cupidité, ni la haine. Elle dort déjà dans ce jardin d'harmonie où nous devrions tous vivre si nous savions nous aimer ! Pourquoi attendre le ciel pour être frères ? Pourquoi ne pas unir nos mains, ici, maintenant, pour faire de cette terre le reflet de sa lumière ? Unissez vos forces ! Pardonnez-vous ! Soyez bons les uns pour les autres, car il n'y a d'autre trésor sous la voûte des cieux que l'amour et la fraternité !
 
-*(Le Curé continue de prier à demi-voix, sa silhouette immobile illuminée par la lanterne. Mathurin s'effondre à genoux dans la paille aux côtés de sa femme, le Garde Champêtre baisse la tête, et le Boiteux essuie la sueur de son front, le regard perdu.)*
-
-*(La Sage-Femme, immobile, serre le nourrisson contre sa poitrine. Le sermon du Curé résonne dans son esprit comme une révélation brûlante. Ses yeux se remplissent de larmes, non plus de désespoir, mais d'une certitude douloureuse : ce monde parfait, cette harmonie que le Curé vient de dépeindre, les hommes d'ici sont incapables de la vivre.)*
+*(Le Curé continue de prier à demi-voix, sa silhouette immobile illuminée par la lanterne. Mathurin s'effondre à genoux dans la paille aux côtés de sa femme, le Garde Champêtre baisse la tête, et le Boiteux essuie la sueur de son front, le regard perdu. La Sage-Femme, immobile, serre le nourrisson contre sa poitrine. Le sermon du Curé résonne dans son esprit comme une révélation brûlante. Ses yeux se remplissent de larmes, non plus de désespoir, mais d'une certitude douloureuse : ce monde parfait, cette harmonie que le Curé vient de dépeindre, les hommes d'ici sont incapables de la vivre.)*

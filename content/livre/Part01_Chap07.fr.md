@@ -45,6 +45,5 @@ Mais je m'en fous, moi, de ton bric-à-brac ! C'est pas comme la gniole, ça oui
 **Mathurin :** *(relâchant lentement la veste du garde, esquissant un début de rictus)*
 Ouh, toi, tu les aimes, les prunes ! Ça, je le comprends !
 
-**Le Garde Champêtre :**
-*Ajustant sa veste de son bras valide avec fierté*
+**Le Garde Champêtre :** *(ajustant sa veste de son bras valide avec fierté)*
 Faut bien que tout le monde s'arrrange. Allez, tu vas voir, on va te l'organiser dans les règles, ce confinement.

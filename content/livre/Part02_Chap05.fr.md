@@ -7,13 +7,6 @@ description: "Sous le prunier, Mathurin, le garde et le curé se disputent viole
 weight: 23
 ---
 
----
-title: "La médaille"
-date: 2026-08-24
-version: 2.0
-weight: 50
----
-
 *(Un sous-bois en lisière du canton. La nuit est limpide, piquée d'étoiles qui scintillent comme des diamants sous une lune radieuse. Une brise douce fait chanter les feuilles des vieux chênes, et cette musique légère semble accompagner chaque pas du petit cortège. Le Garde Champêtre marche en tête, tenant une lanterne de cuivre dont la clarté dorée illumine le chemin. Derrière lui s'avancent Joseph — d'un pas prompt et alerte — tenant Zéphyrine par la main, suivis du Curé et de Mathurin, qui portent chacun, non sans une certaine fierté contenue, les outils d'arpentage.)*
 
 **Le Garde Champêtre :** *(s'arrêtant devant le vieux prunier, dont l'ombre semble presque respirer sous la lune)* Nous y voilà, mes braves amis ! Ici même, à l'aplomb des racines. Je connais chaque motte de ce vallon depuis mes sept ans — si le carnet du capitaine dit vrai, c'est là que le fermoir de la mémoire s'ouvrira.
@@ -74,6 +67,4 @@ weight: 50
 
 **Zéphyrine :** *(retrouvant, peu à peu, sa douceur coutumière, tendant la médaille à la lumière de la lanterne pour que tous la voient à la fois)* Voilà. Voilà qui nous ressemble davantage.
 
-*(Elle prend à nouveau le bras de Joseph, et cette fois, c'est elle qui, du regard, invite aussi le Curé, Mathurin et le Garde à se rapprocher, jusqu'à former un cercle resserré autour de la médaille. Un moment de calme, presque solennel, referme la scène.)*
-
-*(Mais tandis que le petit groupe se tient ainsi, uni, la lune, qui brillait tout à l'heure d'un éclat si radieux, semble avoir perdu un peu de sa force — sa lumière, sur les visages, est soudain plus pâle, plus grise, comme lessivée par l'orage qui vient de passer entre eux. Sans qu'ils le remarquent, les étoiles, elles aussi, sont un peu moins nombreuses, un peu moins vives qu'au début de la scène.)*
+*(Elle prend à nouveau le bras de Joseph, et cette fois, c'est elle qui, du regard, invite aussi le Curé, Mathurin et le Garde à se rapprocher, jusqu'à former un cercle resserré autour de la médaille. Un moment de calme, presque solennel. Mais tandis que le petit groupe se tient ainsi, uni, la lune, qui brillait tout à l'heure d'un éclat si radieux, semble avoir perdu un peu de sa force — sa lumière, sur les visages, est soudain plus pâle, plus grise, comme lessivée par l'orage qui vient de passer entre eux. Sans qu'ils le remarquent, les étoiles, elles aussi, sont un peu moins nombreuses, un peu moins vives.)*

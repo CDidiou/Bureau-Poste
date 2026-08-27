@@ -47,4 +47,4 @@ Le Mathurin ? Mais il est armé, Mademoiselle ! Et avec le Boiteux qui est mont�
 **La Sage-Femme :**
 Monsieur le Major est là-bas ? Avec sa toux ? Alors on n'a plus une minute à perdre ! En route !
 
-(Elle s'élance la première dans la nuit noire et le déluge, suivie par le Curé qui rabat son capuchon et le Garde Champêtre qui court en trébuchant sur les pavés trempés.)
+*(Elle s'élance la première dans la nuit noire et le déluge, suivie par le Curé qui rabat son capuchon et le Garde Champêtre qui court en trébuchant sur les pavés trempés.)*

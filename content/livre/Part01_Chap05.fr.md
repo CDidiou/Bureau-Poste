@@ -7,9 +7,7 @@ description: "Dans la nuit, alors que le village dort, la sage-femme et le boite
 weight: 7
 ---
 
-*(Nuit noire. Le village est calfeutré, portes verrouillées et contrevents clos par crainte du mauvais air et de la contagion. La place est déserte. Seul le clapotis régulier de la fontaine rompt le silence.)*
-
-*(Le Boiteux est appuyé contre la vasque en pierre, son bâton posé entre les jambes. Un bruit de pas légers sur le pavé le fait se redresser. La Sage-Femme surgit de l'ombre d'une ruelle, un châle sombre serré sur ses épaules.)*
+*(Nuit noire. Le village est calfeutré, portes verrouillées et contrevents clos par crainte du mauvais air et de la contagion. La place est déserte. Seul le clapotis régulier de la fontaine rompt le silence. Le Boiteux est appuyé contre la vasque en pierre, son bâton posé entre les jambes. Un bruit de pas légers sur le pavé le fait se redresser. La Sage-Femme surgit de l'ombre d'une ruelle, un châle sombre serré sur ses épaules.)*
 
 **La Sage-Femme :** *(s'arrêtant, le souffle court)*
 Vous êtes fou, Major... Le garde fait encore des rondes malgré l'heure, et les gens guettent derrière les volets. S'ils voient du mouvement, ils vont crier au loup.
@@ -30,9 +28,7 @@ Taisez-vous, voyons... Tout le monde dit déjà que vous creusez la nuit sous le
 
 **Le Boiteux :**
 Qu'ils jasent ! Ils n'ont que cela à faire en attendant que la sueur les prenne. Mais vous...
-*(Il fait un pas vers elle. Le bout de sa béquille dérape d'un centimètre sur la pierre humide. Elle tend les mains pour le retenir par le devant de sa veste. Leurs visages se retrouvent à quelques pouces l'un de l'autre. Dans le noir, le silence s'alourdit. Le Boiteux pose doucement ses lèvres sur les siennes — un baiser bref, fiévreux, retenu.)*
-*(Au même instant, un léger choc métallique retentit de l'autre côté du bassin. Un seau en tôle vient de heurter le bord de pierre.)*
-*(Un gamin — le petit du charpentier, haut comme trois pommes, tenant son pot à eau à deux mains — reste pétrifié dans l'ombre du lavoir, les yeux grands ouverts.)*
+*(Il fait un pas vers elle. Le bout de sa béquille dérape d'un centimètre sur la pierre humide. Elle tend les mains pour le retenir par le devant de sa veste. Leurs visages se retrouvent à quelques pouces l'un de l'autre. Dans le noir, le silence s'alourdit. Le Boiteux pose doucement ses lèvres sur les siennes — un baiser bref, fiévreux, retenu. Au même instant, un léger choc métallique retentit de l'autre côté du bassin. Un seau en tôle vient de heurter le bord de pierre. Un gamin — le petit du charpentier, haut comme trois pommes, tenant son pot à eau à deux mains — reste pétrifié dans l'ombre du lavoir, les yeux grands ouverts.)*
 
 **La Sage-Femme :** *(se redressant d'un coup sec, la voix étouffée)*
 Jésus, Marie... Joseph !

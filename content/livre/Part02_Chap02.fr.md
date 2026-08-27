@@ -51,8 +51,7 @@ Vous l'avez entendu, mon adorée ? Le monde entier s'incline devant notre bonheu
 **Zéphyrine :** *(abandonnant sa tête sur l’épaule de Joseph, ivre de joie et d'espoir, fermant les yeux)*
 Oui, Joseph ! Parlons d'amour et de lumière jusqu'à l'aube ! Que le temps s'arrête ! Plus jamais de larmes, plus jamais de maladie, plus jamais de solitude ! Nous sommes au paradis !
 
-*Un silence.*
-*Joseph caresse ses cheveux… puis sa voix change légèrement, reprend de l’élan, comme s’il ne pouvait s’en empêcher.*
+*(Un silence. Joseph caresse ses cheveux… puis sa voix change légèrement, reprend de l’élan, comme s’il ne pouvait s’en empêcher.)*
 
 **Joseph :** *(avec une passion soudaine, presque fiévreuse)*
 Et ce paradis, Zéphie, il a une histoire !
@@ -61,7 +60,7 @@ Les souscriptions des comités français, les cachets de plomb, le dépôt rapat
 Tu te rends compte ? Tout ce sang, toute cette gloire, et la cassette qui dormait depuis près d’un siècle sous le prunier !
 Quand nous l’ouvrirons demain avec les autres, tu verras… Ce n’est pas seulement de l’or, c’est la preuve que des hommes ont su...
 
-**Zéphyrine :** (les yeux grand ouverts, un sourire amusé)
+**Zéphyrine :** *(les yeux grand ouverts, un sourire amusé)*
 Joseph.
 
 *Il s’interrompt, surpris.*

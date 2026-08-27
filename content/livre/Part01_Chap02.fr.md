@@ -7,7 +7,7 @@ description: "Au presbytère, le Boiteux rend visite au curé et à la sage-femm
 weight: 4
 ---
 
-*Au presbytère. Le Curé est assis près de la fenêtre, repassant au chiffon un petit registre de fabrique. La Sage-Femme essuie la table de la cuisine. On frappe deux coups secs contre le montant de la porte.*
+*(Au presbytère. Le Curé est assis près de la fenêtre, repassant au chiffon un petit registre de fabrique. La Sage-Femme essuie la table de la cuisine. On frappe deux coups secs contre le montant de la porte.)*
 
 **Le Boiteux :**
 C'est ouvert pour les invalides ou faut-il repasser le jour du marché ?
@@ -17,13 +17,13 @@ Asseyez-vous, Major, au lieu de rester là à vous user la bonne jambe.
 
 **Le Boiteux :**
 Merci bien
-*Il s'assoit, pose son chapeau sur ses genoux. Ses yeux s'attardent un instant sur les mains de la Sage-Femme qui rangent les fioles.*
+*(Il s'assoit, pose son chapeau sur ses genoux. Ses yeux s'attardent un instant sur les mains de la Sage-Femme qui rangent les fioles.)*
 Je ne vous avais pas vue, Madame. Enfin... Mademoiselle. Tous mes hommages. Vous prenez bien soin de notre brave curé.
 
 **La Sage-Femme :**
 Bonjour, Monsieur le Major. Le soin des âmes et des corps ne prend pas de vacances.
 
-**Le Curé :** *(Sans lever les yeux de son registre, d'une voix posée)*
+**Le Curé :** *(sans lever les yeux de son registre, d'une voix posée)*
 Je lisais en vous attendant. Le silence d'ici aide à la réflexion.
 
 **Le Boiteux :**
@@ -47,7 +47,7 @@ Vos ancêtres avaient de la mémoire, Major. Mais les archives du diocèse ont l
 **La Sage-Femme :** *(posant une tasse d'infusion fumante devant le Major)*
 Laissez donc les notaires tranquilles et buvez ceci. Et cessez de raconter à l'auberge que vous déplacez les bornes à la jambe de bois. Le garde est niais, mais il a une langue de deux mètres.
 
-**Le Boiteux :** *(Il prend la tasse. Leurs doigts se frôlent un instant ; il immobilise son geste, un brin incertain)*
+**Le Boiteux :** *(il prend la tasse. Leurs doigts se frôlent un instant ; il immobilise son geste, un brin incertain)*
 Voyons... Je ne saurais dire des choses qui ne sont point arrivées. Voyez-vous, je suis en pleine greffe de nouveaux fruitiers, des tiges neuves. Le village a grand besoin de fruits, vous en conviendrez.
 
 **Le Curé :** *(d'une voix détachée, continuant de repasser son chiffon)*
@@ -75,4 +75,4 @@ Ce serait grand dommage. La commune perdrait son unique œil nocturne. Bonne jou
 **Le Boiteux :**
 Monsieur le Curé... Mademoiselle.
 
-(Il s'incline légèrement vers la Sage-Femme, pose son chapeau sur sa tête et sort, faisant résonner le choc régulier de sa jambe de bois sur le ciment de l'entrée.)
+*(Il s'incline légèrement vers la Sage-Femme, pose son chapeau sur sa tête et sort, faisant résonner le choc régulier de sa jambe de bois sur le ciment de l'entrée.)*

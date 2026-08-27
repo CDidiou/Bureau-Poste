@@ -47,9 +47,7 @@ weight: 25
 
 **Joseph :** *(surgissant, empoignant Mathurin et le Garde chacun d'une main, avec une force soudaine qui ne lui ressemble pas)* Ça suffit ! Dehors, tous les deux ! *(Il les pousse vers la porte sans ménagement.)* Réglez vos comptes dans la cour si vous le devez, mais pas ici, pas devant cette enfant, pas devant elle !
 
-*(Il désigne Zéphyrine du menton. Le Curé, comprenant, ouvre la porte lui-même et sort à la suite des deux hommes, qui continuent de se lancer des invectives dans la nuit. Joseph referme la porte derrière eux d'un geste sec. Le silence retombe, brutal, dans la pièce désordonnée.)*
-
-*(Zéphyrine reste seule un instant au centre de la pièce, l'enfant contre son cœur, le souffle court. Elle regarde le petit visage endormi — un visage qui, cette fois, ne change plus, comme si le silence retrouvé lui avait enfin permis de se fixer.)*
+*(Il désigne Zéphyrine du menton. Le Curé, comprenant, ouvre la porte lui-même et sort à la suite des deux hommes, qui continuent de se lancer des invectives dans la nuit. Joseph referme la porte derrière eux d'un geste sec. Le silence retombe, brutal, dans la pièce désordonnée. Zéphyrine reste seule un instant au centre de la pièce, l'enfant contre son cœur, le souffle court. Elle regarde le petit visage endormi — un visage qui, cette fois, ne change plus, comme si le silence retrouvé lui avait enfin permis de se fixer.)*
 
 **Zéphyrine :** *(tout bas, comme se parlant à elle-même autant qu'à l'enfant)* Je ne sais plus très bien qui tu es, ce soir. Garçon ou fille, vivante ou revenue d'un souffle trop court... Le fil m'échappe. Je suis lasse.
 

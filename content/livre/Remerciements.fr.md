@@ -34,4 +34,4 @@ Au curé de ce canton, moins à lui qu'à ses paroles, celles qui ont su entendr
 
 Et à tous les enfants, qui n'ont pas la chance qu'on leur fasse écouter le chant des oiseaux.
 
-Marie-Zéphyrine de Bernardy-Lilaz, En sa demeure, canton du bas.
+Marie-Zéphyrine de Bernardy-Lilaz, en sa demeure, canton du Bas.
