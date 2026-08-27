@@ -12,7 +12,7 @@
   {{ range (where .Site.RegularPages "Section" "livre").ByWeight }}
     {{ if eq .Section "livre" }}
       <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}" title="{{ .Description }}">{{ .Title }}</a>
       </li>
     {{ end }}
   {{ end }}

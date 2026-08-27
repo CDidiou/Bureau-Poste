@@ -1,11 +1,9 @@
 ---
-title: "Le temple de la charité"
+title: "(La plume) Le temple de la charité"
 date: 2026-08-24
 version: 1.0
 weight: 19
 ---
-
-# Partie 2: La plume
 
 *(La grande salle du bureau de poste réquisitionné, baignée d'une clarté dorée. Au centre, une vaste table de bois rassemble les cinq protagonistes.)*
 

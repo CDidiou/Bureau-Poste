@@ -1,5 +1,5 @@
 ---
-title: "Boutons en or"
+title: "(La plume) Boutons en or"
 date: 2026-08-24
 version: 1.0
 weight: 21

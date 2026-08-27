@@ -1,15 +1,8 @@
 ---
-title: "Le miracle de la vie"
+title: "(La plume) Le miracle de la vie"
 date: 2026-08-24
 version: 1.0
 weight: 25
----
-
----
-title: "Le miracle de la vie"
-date: 2026-08-24
-version: 2.0
-weight: 70
 ---
 
 *(La grande pièce de la ferme de Mathurin. Soudain, de la chambre voisine, s'élève un cri de douleur étouffé, suivi d'un gémissement de détresse. Mathurin perd subitement toutes ses couleurs, recule en titubant et manque de faire tomber une chaise.)*

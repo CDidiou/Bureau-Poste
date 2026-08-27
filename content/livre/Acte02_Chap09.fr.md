@@ -1,5 +1,5 @@
 ---
-title: "La procession de joie"
+title: "(La plume) La procession de joie"
 date: 2026-08-24
 version: 1.0
 weight: 27

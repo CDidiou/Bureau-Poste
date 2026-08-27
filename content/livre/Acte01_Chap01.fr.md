@@ -1,11 +1,10 @@
 ---
-title: "La rumeur du bistrot"
+title: "(La terre) La rumeur du bistrot"
 date: 2026-08-24
 version: 1.0
+description: "Le Garde diffuse des racontars sur le Boitier qui piocherait de nuit autour du prunier. La Sage-Femme lui soigne son épaule douloureuse."
 weight: 3
 ---
-
-# Partie 1: La terre
 
 **Le Garde Champêtre :**
 Doucement, bon sang ! Doucement, Sage-Femme ! Ça me rentre dans la chair comme des aiguilles à tricoter !

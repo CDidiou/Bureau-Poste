@@ -1,15 +1,8 @@
 ---
-title: "Une aventure humaine"
+title: "(La plume) Une aventure humaine"
 date: 2026-08-24
 version: 1.0
 weight: 24
----
-
----
-title: "Une aventure humaine"
-date: 2026-08-24
-version: 2.0
-weight: 60
 ---
 
 *(La grande maison de pierre de Zéphyrine, tard dans la soirée. C'est elle qui a insisté pour que tous s'y retrouvent plutôt que dans la cuisine de Mathurin — « il faut un lieu neutre pour finir ce que nous avons commencé ensemble », a-t-elle dit, et personne n'a songé à discuter. Dans l'âtre, un feu généreux ronfle doucement, projetant sur les murs de pierre des ombres chaudes et vivantes. La lumière des chandelles se répand sur la table comme un miel doré, enveloppant chaque visage d'une clarté presque tendre. La bande est rassemblée autour de Joseph, qui tient la médaille et le minuscule parchemin extrait de son écrin.)*

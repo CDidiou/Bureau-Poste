@@ -1,5 +1,5 @@
 ---
-title: "Le chiffre du registre"
+title: "(La plume) Le chiffre du registre"
 date: 2026-08-24
 version: 1.0
 weight: 22

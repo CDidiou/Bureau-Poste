@@ -1,5 +1,5 @@
 ---
-title: "Ou se taisent à jamais"
+title: "(La plume) Ou se taisent à jamais"
 date: 2026-08-24
 version: 1.0
 weight: 26

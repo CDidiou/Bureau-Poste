@@ -1,5 +1,5 @@
 ---
-title: "L'encre ou l'oubli"
+title: "(La plume) L'encre ou l'oubli"
 date: 2026-08-24
 version: 1.0
 weight: 28

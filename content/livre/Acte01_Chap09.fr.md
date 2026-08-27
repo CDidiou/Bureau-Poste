@@ -1,5 +1,5 @@
 ---
-title: "Avec des pincettes"
+title: "(La terre) Avec des pincettes"
 date: 2026-08-24
 version: 1.0
 weight: 11

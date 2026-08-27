@@ -1,5 +1,5 @@
 ---
-title: "Une poignée de pétales"
+title: "(La plume) Une poignée de pétales"
 date: 2026-08-24
 version: 1.0
 weight: 20

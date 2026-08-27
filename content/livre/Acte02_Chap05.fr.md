@@ -1,5 +1,5 @@
 ---
-title: "La médaille"
+title: "(La plume) La médaille"
 date: 2026-08-24
 version: 1.0
 weight: 23

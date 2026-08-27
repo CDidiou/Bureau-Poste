@@ -1,5 +1,5 @@
 ---
-title: "Les patriotes"
+title: "(La terre) Les patriotes"
 date: 2026-08-24
 version: 1.0
 weight: 13
