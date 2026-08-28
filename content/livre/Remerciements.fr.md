@@ -5,7 +5,7 @@ version: 1.0
 weight: 1
 ---
 
-# Le bureau de poste
+# Le bureau de poste (Roman du cycle de Bernardy-Lilaz)
 
 ## L'ouvrage
 
