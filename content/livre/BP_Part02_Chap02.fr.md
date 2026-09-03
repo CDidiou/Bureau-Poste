@@ -31,7 +31,7 @@ C'était la peur, mon ange ! La peur de la pauvreté et de la petitesse de ce mo
 Que voulez-vous dire ?
 
 **Joseph :** *(sa voix se fait mystérieuse, empreinte d'un grand souffle romanesque)*
-Ma famille gardait un secret brûlant, un trésor lié à la grande cause de la liberté ! En 1837, lors de la rébellion des patriotes du Bas-Canada et de la glorieuse expédition Hindelang, des hommes de courage ont confié à mes ancêtres la clef d’un dépôt sacré ! Une mémoire d’honneur, d’or et de sang venue de Montréal et de Québec, traversant l'océan jusqu'à nos terres ! J’ai enfin assemblé les dernières pièces du puzzle ! Mais tout l'or des insurgés du Canada ne vaut pas le moindre de vos sourires ! Ce trésor, si je le cherche, c’est pour vous l'offrir à mains ouvertes !
+Ma famille gardait un secret brûlant, un trésor lié à la grande cause de la liberté ! En 1837, lors de la rébellion des patriotes du Bas-Canada et de la glorieuse expédition Hindenlang, des hommes de courage ont confié à mes ancêtres la clef d’un dépôt sacré ! Une mémoire d’honneur, d’or et de sang venue de Montréal et de Québec, traversant l'océan jusqu'à nos terres ! J’ai enfin assemblé les dernières pièces du puzzle ! Mais tout l'or des insurgés du Canada ne vaut pas le moindre de vos sourires ! Ce trésor, si je le cherche, c’est pour vous l'offrir à mains ouvertes !
 
 *(Au même instant, glissant sans le moindre bruit de l'ombre du lavoir, apparaît un jeune garçon d’une beauté irréelle. C’est l’enfant du charpentier. Vêtu d’une tunique de lin blanc, les cheveux ceints d'une lueur dorée, il ressemble à un ange descendu tout droit des fresques du dôme de Rome. Il s'approche sans crainte, tenant entre ses petites mains une corbeille d’osier remplie de pétales de roses blanches et de fleurs d'oranger.)*
 
@@ -55,7 +55,7 @@ Oui, Joseph ! Parlons d'amour et de lumière jusqu'à l'aube ! Que le temps s'ar
 
 **Joseph :** *(avec une passion soudaine, presque fiévreuse)*
 Et ce paradis, Zéphie, il a une histoire !
-Mon grand-oncle, en 1837, aux côtés des patriotes de l’expédition Hindelang !
+Mon grand-oncle, en 1837, aux côtés des patriotes de l’expédition Hindenlang !
 Les souscriptions des comités français, les cachets de plomb, le dépôt rapatrié en secret…
 Tu te rends compte ? Tout ce sang, toute cette gloire, et la cassette qui dormait depuis près d’un siècle sous le prunier !
 Quand nous l’ouvrirons demain avec les autres, tu verras… Ce n’est pas seulement de l’or, c’est la preuve que des hommes ont su...
