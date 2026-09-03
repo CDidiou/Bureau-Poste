@@ -16,7 +16,7 @@ weight: 102
 
 **Lo cual molesta.** Su arrogancia como un pequeño notable degradado, su arte tortuoso de atrapar a sus vecinos en una cláusula de contrato.
 
-**Relaciones clave.** Un vínculo tenso y nunca hablado con la Comadrona: desde una desconfianza mostrada hasta una intimidad que nunca encuentra las palabras para declararse. Un informe de rivalidad latente con Mathurin en torno a los límites del viejo ciruelo.
+**Relaciones clave.** Un vínculo tenso y nunca hablado con la Comadrona: desde una desconfianza mostrada hasta una intimidad que nunca encuentra las palabras para declararse. Un informe de rivalidad latente con Matarrubia en torno a los límites del viejo ciruelo.
 
 **Objeto-símbolo.** La pata de palo, que cava agujeros en la tierra empapada, la herida de guerra que se ha convertido, a su pesar, en el instrumento de su búsqueda.
 
@@ -52,7 +52,7 @@ weight: 102
 
 **Lo cual molesta.** Este altivo desapego, esta tendencia a ver a los residentes no como almas que salvar sino como nombres en un registro catastral, piezas en un tablero de ajedrez administrativo.
 
-**Relaciones clave.** Una relación de estima lejana con la Matrona, a quien trae remedios y noticias de la diócesis. El único aldeano que parece escuchar, sin responder nunca, lo que Marie-Zéphyrine no dice.
+**Relaciones clave.** Una relación de estima lejana con la Matrona, a quien trae remedios y noticias de la diócesis. El único aldeano que parece escuchar, sin responder nunca, lo que María Zeferina no dice.
 
 **Objeto-símbolo.** El registro de fábrica: la fe como contabilidad más que como presencia.
 

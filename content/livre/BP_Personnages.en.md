@@ -16,7 +16,7 @@ weight: 102
 
 **Which annoys.** His arrogance as a demoted little notable, his devious art of trapping his neighbors in a contract clause.
 
-**Key relationships.** A tense, never-spoken bond with the Midwife — from displayed distrust to an intimacy that never finds the words to declare itself. A report of latent rivalry with Mathurin around the boundary of the old plum tree.
+**Key relationships.** A tense, never-spoken bond with the Midwife — from displayed distrust to an intimacy that never finds the words to declare itself. A report of latent rivalry with Mathers around the boundary of the old plum tree.
 
 **Object-symbol.** The wooden leg, which digs holes in the soaked earth — the war wound that has become, despite himself, the instrument of his quest.
 
@@ -52,7 +52,7 @@ weight: 102
 
 **Which annoys.** This haughty detachment, this tendency to see residents not as souls to be saved but as names on a cadastral register, pieces on an administrative chessboard.
 
-**Key relationships.** A relationship of distant esteem with the Midwife, to whom he brings remedies and news from the diocese. The only villager who seems to hear, without ever really responding, what Marie-Zéphyrine does not say.
+**Key relationships.** A relationship of distant esteem with the Midwife, to whom he brings remedies and news from the diocese. The only villager who seems to hear, without ever really responding, what Zephyrine Pearl does not say.
 
 **Object-symbol.** The factory register — faith as accounting more than as presence.
 

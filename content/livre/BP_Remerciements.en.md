@@ -12,16 +12,16 @@ History does not knock at the door: it enters through the dispatch desk and the 
 1919. The First World War has just ended. But the canton holds its breath again. While men return from the front with wounded flesh and closed souls, an invisible threat crosses the river: the Spanish flu.
 To orchestrate the quarantine and disinfect the mail, the Administration takes over the village.
 A requisitioned post office becomes the throbbing and cruel heart of the world - where cresyl circulars, death notices, requisitions and notary letters accumulate.
-At the center of the earthquake: a devoted and authoritarian midwife; a former soldier, known as the Lame, a crafty man, obsessed with the land register and state ink; an analytical priest constantly recalled by his bishopric; an overwhelmed rural guard; and finally Mathurin, a very suspicious peasant.
+At the center of the earthquake: a devoted and authoritarian midwife; a former soldier, known as the Lame, a crafty man, obsessed with the land register and state ink; an analytical priest constantly recalled by his bishopric; an overwhelmed rural guard; and finally Mathers, a very suspicious peasant.
 But when a tragic night of childbirth takes away the illusions and seals the fate of the men, the story changes.
-Marie-Zéphyrine de Bernardy-Lilaz orchestrates a fascinating play of mirrors. Behind the major action plot – a treasure hunt linked to the French expedition to Lower Canada in 1837 and an old military crate – lies the intimate indictment of a reclusive woman, fighting against the decomposition of the world and the straitjacket of social roles through the absolute power of fiction.
+Zephyrine Pearl de Bernard-Lilaz orchestrates a fascinating play of mirrors. Behind the major action plot – a treasure hunt linked to the French expedition to Lower Canada in 1837 and an old military crate – lies the intimate indictment of a reclusive woman, fighting against the decomposition of the world and the straitjacket of social roles through the absolute power of fiction.
 
 ## The author
 ![Photo by the author](/Bureau-Poste/images/Zephyrine_Ww1.png)
 
 Rosalind Cucurrou, known under the pen name of Zephyrine Pearl de Bernard-Lilaz, remains an enigmatic and fascinating figure in rural literature between the wars. For thirty years, she walked the muddy paths of the canton, treated fevers, dressed bodies and accompanied births under the shock of the Great War and the epidemic of 1918-1920.
 Then, little by little, suffocated by the silence of men, the weight of tragedies and the resignation of those who should have carried the world with her, she walled herself in the silence of her large stone house with its solid oak frame, living as a recluse until her last breath.
-In what is similar to her only known novel, Rosine takes a moving look at humanity, love and the rigidity of social roles, which block the hearts of men.
+In what is similar to her only known novel, Rosalind takes a moving look at humanity, love and the rigidity of social roles, which block the hearts of men.
 
 ## Acknowledgments
 

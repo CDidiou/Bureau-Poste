@@ -3,52 +3,52 @@ title: "(La Plume) The temple of charity"
 subtitle: "Where fears kneel"
 date: 2026-08-24
 version: 1.0
-description: "Zéphyrine and Joseph convert the guard, the priest and Mathurin, transforming the post office into a temple of fraternity and collective love."
+description: "Zephyrine and Philip convert the guard, the priest and Mathers, transforming the post office into a temple of fraternity and collective love."
 weight: 119
 ---
-*(La grande salle du bureau de poste réquisitionné, baignée d'une clarté dorée. Au centre, une vaste table de bois rassemble les cinq protagonistes.)*
+*(The large room of the requisitioned post office, bathed in golden light. In the center, a large wooden table brings together the five protagonists.)*
 
 
-**Le brave garde :** *(agitant un papier d'un air paniqué, les moustaches tremblantes)*
-Vingt francs de désinfectant ! Et le sous-préfet exige que chaque litre soit consigné par écrit, tamponné, vérifié ! Si on oublie un seul cachet, on va tous être traduits en conseil de discipline par l’Administration ! C’est le règlement, il faut obéir sans discuter, plier l'échine avant que la hiérarchie ne nous tombe dessus !
+**The brave guard :** *(waving a paper with a panicked look, mustaches trembling)*
+Twenty francs worth of disinfectant! And the sub-prefect requires that each liter be recorded in writing, stamped, verified! If we forget a single stamp, we will all be referred to a disciplinary council by the Administration! This is the rule, we must obey without question, bend our backs before the hierarchy falls on us!
 
-**Zéphyrine :** *(souriant avec une patience infinie, posant sa main apaisante sur le poignet tremblant du garde)*
-Calmez vos peurs, mon brave Garde. L'administration n'a de prise que sur le papier ; nous, nous avons la vie à sauver. Joseph a déjà paraphé les registres avec tant d'éclat que le sous-préfet lui-même n'y verra que du zèle. Reprenez votre souffle, l'uniforme ne pèse rien quand l'amour guide vos pas.
+**Zephyrine :** *(smiling with infinite patience, placing her soothing hand on the guard's trembling wrist)*
+Calm your fears, my brave Guard. The administration only has control over paper; we have our lives to save. Joseph has already initialed the registers with such brilliance that the sub-prefect himself will only see zeal in it. Take a breath, the uniform weighs nothing when love guides your steps.
 
-**Le brave garde :** *(les yeux soudain brillants d’une dévotion aveugle)*
-Ah... Mademoiselle Zéphyrine... Vous avez raison. Avec vous et Joseph, on ne craint plus ni la loi ni la mort !
+**The brave guard :** *(eyes suddenly shining with blind devotion)*
+Ah... Miss Zéphyrine... You are right. With you and Joseph, we no longer fear the law or death!
 
-**Le curé :** *(se tenant à l'écart, les mains croisées dans ses manches)*
-C’est bien beau de s'ébaudir, mais la foule est ignorante et versatile. L’évêque me somme de regagner la ville pour présider des synodes théologiques de haut vol, car que pèsent quelques tousseurs de campagne face aux grands débats de l'intelligence ecclésiastique ? La plèbe est si peu instruite des mystères de la foi.
+**The priest :** *(standing aside, hands crossed in his sleeves)*
+It's all well and good to be amazed, but the crowd is ignorant and fickle. The bishop orders me to return to the city to preside over high-level theological synods, because what weight do a few country coughers have in the face of the great debates of ecclesiastical intelligence? The plebs are so little instructed in the mysteries of the faith.
 
-**Zéphyrine :** *(s'avançant, le regard incandescent et fier)*
-Des mystères, Monsieur le Curé ? Le seul mystère ici, c'est celui d'un cœur qui bat pour les siens. Ne fuyez pas dans vos livres ! Joseph veille sur vos écrits comme sur nos âmes, et ensemble, nous élevons ce village bien plus haut que les hautes sphères de l'évêché. Restez pour voir le miracle d'une communauté qui s'aime.
+**Zephyrine :** *(stepping forward, her gaze incandescent and proud)*
+Mysteries, Father? The only mystery here is that of a heart that beats for its own. Don't run away from your books! Joseph watches over your writings as well as our souls, and together, we raise this village much higher than the upper echelons of the bishopric. Stay to see the miracle of a community that loves each other.
 
-**Joseph :** *(s'avançant d'un pas noble)*
-Le savoir sans la charité n'est qu'encre sèche, mon Père. Demeurez parmi nous, je financerai vos bibliothèques et vos paroisses de ma propre poche. Ici, votre intelligence trouvera enfin un sol vivant.
+**Philip :** *(advancing with a noble step)*
+Knowledge without charity is dry ink, Father. Stay among us, I will finance your libraries and your parishes from my own pocket. Here your intelligence will finally find living ground.
 
-**Le curé :** *(ému, sentant sa superbe glacée fondre sous l’ardeur du couple)*
-Joseph... Zéphyrine... Vous avez raison. Mes livres ne valent pas un seul de vos regards. Je reste.
+**The priest :** *(moved, feeling his superb ice cream melt under the ardor of the couple)*
+Joseph... Zéphyrine... You are right. My books are not worth a single glance from you. I stay.
 
-**Le père Mathurin :** *(grognant)*
-Et qu'on arrête de me parler de l'État et de ces foutus impôts de la ville ! S'ils approchent de mes granges avec leurs ordres, je leur lâche les chiens et je prends ma fourche ! Si un seul citadin met les pieds ici, je les attends !
+**Father Mathers :** *(groaning)*
+And stop talking to me about the state and these damn city taxes! If they approach my barns with their orders, I'll release the dogs and take my pitchfork! If even one city dweller sets foot here, I'll wait for them!
 
-**Zéphyrine :** *(ne reculant pas d'un pouce, le visage radieux d'une force invincible)*
-Mathurin, rangez cette colère, elle ne fait que nourrir la peste. Vos terres valent mieux que votre haine. Avec Joseph, nous avons ouvert vos silos au grand jour, non par la force, mais par la grâce de notre union. Vous n'êtes pas seul à défendre les vôtres ; nous les protégeons tous ensemble.
+**Zephyrine :** *(not retreating an inch, her face radiant with invincible strength)*
+Mathers, put away this anger, it only feeds the plague. Your lands are worth more than your hatred. With Joseph, we opened your silos to broad daylight, not by force, but by the grace of our union. You are not alone in defending yours; we protect them all together.
 
-**Joseph :** *(souriant avec une aisance solaire, tendant une main franche au paysan)*
-Et vos récoltes, Mathurin, nourriront le canton entier sous votre propre nom, bénies par le respect de tous. Nul n'osera toucher à un seul de vos épis, car nous veillons.
+**Philip :** *(smiling with sunny ease, extending a frank hand to the peasant)*
+And your harvests, Mathers, will feed the entire canton under your own name, blessed by the respect of all. No one will dare touch a single one of your ears, because we are watching.
 
-**Le père Mathurin :** *(la main sur son cœur)*
-Et moi qui croyais autrefois devoir garder mes récoltes et verrouiller mes granges par peur du lendemain... Quelle aveuglement était le mien ! Aujourd'hui, je vous l'affirme devant le Ciel : mes silos sont ouverts à tous ! Le blé est à vous, et à personne d'autre.
+**Father Mathers :** *(hand on his heart)*
+And I who once believed I had to guard my crops and lock my barns for fear of tomorrow... What blindness was mine! Today, I affirm to you before Heaven: my silos are open to all! The wheat is yours, and no one else's.
 
-**Zéphyrine :** *(dans une ivresse de bonheur, joignant les mains)*
-Voyez comme tout devient simple et lumineux quand les cœurs s'ouvrent ! La maladie n'a plus prise sur nous, car elle trouve face à elle l'amitié invincible de tout un village ! Regardez ce bureau de poste : ce n'est plus un bureau d'administration, c'est le temple de la charité et du secours !
+**Zephyrine :** *(in a frenzy of happiness, clasping her hands)*
+See how simple and bright everything becomes when hearts open! The illness no longer has a hold on us, because it finds in its face the invincible friendship of an entire village! Look at this post office: it is no longer an administration office, it is the temple of charity and relief!
 
-**Le brave garde :** *(levant son verre de tisane en poussant un joyeux hussard)*
-À notre canton ! À la santé de Zéphyrine et à la fraternité retrouvée !
+**The brave guard :** *(raising his glass of herbal tea while pushing a happy hussar)*
+To our canton! To the health of Zéphyrine and to the rediscovered fraternity!
 
-**Tous en chœur :**
-À la fraternité ! À la vie !
+**All in chorus :**
+To the fraternity! To life!
 
-*(Tous s'embrassent et se serrent les mains dans une effusion de joie pure, tandis qu'une musique douce et céleste semble s'élever du poêle, baignant la scène dans une harmonie parfaite.)*
+*(Everyone embraces and shakes hands in an outpouring of pure joy, while soft, heavenly music seems to rise from the stove, bathing the scene in perfect harmony.)*

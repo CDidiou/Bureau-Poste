@@ -1,87 +1,83 @@
 ---
-title: "(La Plume) Une poignée de pétales"
+title: "(La Plume) A handful of petals"
 subtitle: "Under the gaze of the moon"
 date: 2026-08-24
 version: 1.0
-description: "Sous la lune, Joseph déclare enfin son amour à Zéphyrine, mais elle doit le faire taire quand il reparle du trésor, avant de l’embrasser et de le ramener."
+description: "Under the moon, Philip finally declares his love to Zephyrine, but she has to silence him when he talks about the treasure again, before kissing him and bringing him back."
 weight: 120
 ---
-*(La place du village en pleine nuit. Une lune argentée et radieuse baigne les pavés d’une clarté féerique. Depuis la fontaine en pierre, des jets clairs chantent comme les cordes d’une harpe. Joseph se tient debout devant la vasque. Il ne porte ni bâton ni béquille. Sa démarche est haute, noble et souple. Il porte une veste ajustée au drap bleu de roi et ses yeux sombres brillent d’un éclat tendre et passionné. Marie-Zéphyrine s'avance le long du bassin, enveloppée dans un grand châle de soie sombre qui frôle les dalles.)*
+*(The village square in the middle of the night. A silvery, radiant moon bathes the cobblestones in a magical light. From the stone fountain, clear jets sing like the strings of a harp. Philip stands in front of the basin. He carries neither stick nor crutch. His gait is tall, noble and supple. He wears a jacket fitted with royal blue cloth and his dark eyes shine with a tender and passionate radiance. Marie-Zephyrine advances along the basin, wrapped in a large dark silk shawl that brushes against the flagstones.)*
 
-**Zéphyrine :** *(s’arrêtant à deux pas de lui, le cœur battant, portant la main à sa gorge)*
-Joseph… Vous m'avez fait mander à cette heure ? Les contrevents du canton sont clos et les gens dormiraient d'un sommeil de plomb que mon âme tremblerait encore de vous trouver ici…
+**Zephyrine :** *(stopping two steps from him, her heart beating, putting her hand to her throat)*
+Philip… Did you send for me at this hour? The shutters of the canton are closed and the people would sleep so soundly that my soul would still tremble to find you here...
 
-**Joseph :** *(faisant un pas vers elle d'une grâce souveraine, lui prenant doucement les deux mains qu'il pose sur son cœur)*
-Ne tremblez plus, ma Zéphie. Les ombres de la nuit ne sont là que pour nous servir d'écrin. Si je vous ai appelée au bord de cette eau qui chante, ce n'est ni pour une ordonnance, ni pour un arrêté de la préfecture, ni pour un bout de cadastre maudit !
+**Philip :** *(taking a step towards her with sovereign grace, gently taking both of her hands which he places on his heart)*
+Don't tremble any more, my Zéphie. The shadows of the night are only there to serve as a backdrop. If I called you to the edge of this singing water, it is neither for an ordinance, nor for a decree from the prefecture, nor for a piece of cursed land register!
 
-**Zéphyrine :** *(chuchotant, prise par un vertige de douceur)*
-Pour quoi alors, Joseph ?
+**Zephyrine :** *(whispering, overcome by a dizziness of sweetness)*
+For what then, Philip?
 
-**Joseph :** *(la regardant avec une dévotion et une intensité qui la bouleversent)*
-Pour vous dire ce que mon âme ravalait depuis tant d'années ! Je vous aime, Zéphyrine ! Je vous aime d’un amour si pur et si vaste qu’il ferait plier les plus hauts chênes de nos forêts ! Tout ce que j’ai entrepris, chaque arpent arpenté, chaque ligne d'archive déchiffrée sous la chandelle… Ce n’était pas pour l'or ni pour la gloriole. C’était pour être digne, un jour, de poser mon regard dans le vôtre !
+**Philip :** *(looking at her with a devotion and intensity that overwhelmed her)*
+To tell you what my soul has been swallowing for so many years! I love you, Zephyrine! I love you with a love so pure and so vast that it would bend the tallest oaks of our forests! Everything I undertook, every acre surveyed, every line of archives deciphered by candlelight... It was not for gold or glory. It was to be worthy, one day, of looking into yours!
 
-**Zéphyrine :** *(exaltée, les larmes aux yeux, sentant son cœur de jeune fille s'ouvrir comme une fleur au soleil)*
-Ah, Joseph ! Si vous saviez combien de fois j'ai rêvé d'entendre ce souffle sur mes joues ! Mais vos registres, vos fausses audaces, votre fierté têtue... Vous me teniez si loin !
+**Zephyrine :** *(exhilarated, with tears in her eyes, feeling her young girl's heart open like a flower in the sun)*
+Ah, Philip! If you knew how many times I dreamed of hearing this breath on my cheeks! But your registers, your false audacity, your stubborn pride... You kept me so far away!
 
-**Joseph :**
-C'était la peur, mon ange ! La peur de la pauvreté et de la petitesse de ce monde ! Mais ce soir, la peur est morte ! Regardez-moi : je ne boite plus, je n'ai plus d'ombre sur la conscience ! Et ce n'est pas tout... Le destin nous tend ses bras dorés !
+**Philip :**
+It was fear, my angel! The fear of poverty and the smallness of this world! But tonight, fear is dead! Look at me: I no longer limp, I no longer have a shadow on my conscience! And that's not all... Destiny extends its golden arms to us!
 
-**Zéphyrine :** *(les yeux écarquillés d'émerveillement)*
-Que voulez-vous dire ?
+**Zephyrine :** *(eyes wide with wonder)*
+What do you mean?
 
-**Joseph :** *(sa voix se fait mystérieuse, empreinte d'un grand souffle romanesque)*
-Ma famille gardait un secret brûlant, un trésor lié à la grande cause de la liberté ! En 1837, lors de la rébellion des patriotes du Bas-Canada et de la glorieuse expédition Hindelang, des hommes de courage ont confié à mes ancêtres la clef d’un dépôt sacré ! Une mémoire d’honneur, d’or et de sang venue de Montréal et de Québec, traversant l'océan jusqu'à nos terres ! J’ai enfin assemblé les dernières pièces du puzzle ! Mais tout l'or des insurgés du Canada ne vaut pas le moindre de vos sourires ! Ce trésor, si je le cherche, c’est pour vous l'offrir à mains ouvertes !
+**Philip :** *(his voice becomes mysterious, imbued with a great romantic breath)*
+My family kept a burning secret, a treasure linked to the great cause of freedom! In 1837, during the rebellion of the patriots of Lower Canada and the glorious Hindelang expedition, men of courage entrusted my ancestors with the key to a sacred deposit! A memory of honor, gold and blood coming from Montreal and Quebec, crossing the ocean to our lands! I finally put the last pieces of the puzzle together! But all the gold of Canada's insurgents is not worth the least of your smiles! This treasure, if I am looking for it, it is to offer it to you with open hands!
 
-*(Au même instant, glissant sans le moindre bruit de l'ombre du lavoir, apparaît un jeune garçon d’une beauté irréelle. C’est l’enfant du charpentier. Vêtu d’une tunique de lin blanc, les cheveux ceints d'une lueur dorée, il ressemble à un ange descendu tout droit des fresques du dôme de Rome. Il s'approche sans crainte, tenant entre ses petites mains une corbeille d’osier remplie de pétales de roses blanches et de fleurs d'oranger.)*
+*(At the same moment, gliding without the slightest sound from the shadow of the washhouse, a young boy of unreal beauty appears. He is the carpenter's child. Dressed in a white linen tunic, his hair surrounded by a golden glow, he looks like an angel straight from the frescoes of the dome of Rome. He approaches without fear, holding in his little hands a wicker basket filled with white rose petals and flowers orange tree.)*
 
-**Zéphyrine :** *(portant la main à ses lèvres dans un souffle enchanté)*
-Mon Dieu... Voyez cet enfant, Joseph... C'est un messager du Ciel !
+**Zephyrine :** *(raising her hand to her lips in an enchanted breath)*
+My God... See this child, Philip... He is a messenger from Heaven!
 
-*(L'enfant sourit avec une tendresse infinie et, d'un geste poétique et gracieux, lance une poignée de pétales qui volent et tourbillonnent autour d'eux sous la lumière d'argent de la lune.)*
+*(The child smiles with infinite tenderness and, with a poetic and graceful gesture, throws a handful of petals which fly and swirl around them under the silver light of the moon.)*
 
-**L'enfant du charpentier :** *(d'une voix cristalline et suave)*
-Aimez-vous sans crainte. Les étoiles vous regardent et le Ciel bénit votre amour.
+**The carpenter's child :** *(in a crystal clear and smooth voice)*
+Love yourself without fear. The stars are watching you and Heaven blesses your love.
 
-*(L'enfant s'éloigne à pas feutrés et disparaît dans la clarté nocturne comme une apparition céleste.)*
+*(The child walks away with soft steps and disappears into the night light like a celestial apparition.)*
 
-**Joseph :** *(attrapant la sage-femme par la taille, l'attirant doucement contre lui sous la pluie de pétales)*
-Vous l'avez entendu, mon adorée ? Le monde entier s'incline devant notre bonheur. Pardonnez-moi mes retards, pardonnez-moi mes silences. Dès demain, nous ouvrirons ce coffre avec le Curé, Mathurin et le Garde. Mais ce soir, n'ayons d'autre maître que la passion !
+**Philip :** *(grabbing the midwife by the waist, gently pulling her against him under the shower of petals)*
+Did you hear it, my darling? The whole world bows to our happiness. Forgive me my delays, forgive me my silences. Starting tomorrow, we will open this chest with the Priest, Mathurin and the Guard. But tonight, let's have no other master than passion!
 
-**Zéphyrine :** *(abandonnant sa tête sur l’épaule de Joseph, ivre de joie et d'espoir, fermant les yeux)*
-Oui, Joseph ! Parlons d'amour et de lumière jusqu'à l'aube ! Que le temps s'arrête ! Plus jamais de larmes, plus jamais de maladie, plus jamais de solitude ! Nous sommes au paradis !
+**Zephyrine :** *(dropping her head on Philip's shoulder, drunk with joy and hope, closing her eyes)*
+Yes, Philip! Let's talk about love and light until dawn! Let time stop! No more tears, no more illness, no more loneliness! We are in paradise!*(A silence. Philip strokes her hair... then his voice changes slightly, regains momentum, as if he couldn't help it.)*
 
-*(Un silence. Joseph caresse ses cheveux… puis sa voix change légèrement, reprend de l’élan, comme s’il ne pouvait s’en empêcher.)*
+**Philip :** *(with a sudden, almost feverish passion)*
+And this paradise, Zéphie, has a history!
+My great-uncle, in 1837, alongside the patriots of the Hindelang expedition!
+The subscriptions of the French committees, the lead seals, the deposit repatriated in secret…
+Do you realize? All this blood, all this glory, and the cassette that had been sleeping for almost a century under the plum tree!
+When we open it tomorrow with the others, you will see... It's not just gold, it's proof that men knew...
 
-**Joseph :** *(avec une passion soudaine, presque fiévreuse)*
-Et ce paradis, Zéphie, il a une histoire !
-Mon grand-oncle, en 1837, aux côtés des patriotes de l’expédition Hindelang !
-Les souscriptions des comités français, les cachets de plomb, le dépôt rapatrié en secret…
-Tu te rends compte ? Tout ce sang, toute cette gloire, et la cassette qui dormait depuis près d’un siècle sous le prunier !
-Quand nous l’ouvrirons demain avec les autres, tu verras… Ce n’est pas seulement de l’or, c’est la preuve que des hommes ont su...
+**Zephyrine :** *(eyes wide open, amused smile)*
+Philip.
 
-**Zéphyrine :** *(les yeux grand ouverts, un sourire amusé)*
-Joseph.
+*He pauses, surprised.*
 
-*Il s’interrompt, surpris.*
+**Zephyrine :** *(lower, but sharp)*
+Shut up.
 
-**Zéphyrine :** *(plus bas, mais tranchant)*
-Tais-toi.
+*A very short silence.*
+*Philip looks at her, taken aback.*
 
-*Un silence très court.*
-*Joseph la regarde, décontenancé.*
+**Zephyrine :** *(in a softer voice)*
+Not tonight.
+Not these stories.
+Kiss me.
 
-**Zéphyrine :** *(d’une voix plus douce)*
-Pas ce soir.
-Pas ces histoires.
-Embrasse-moi.
+*He hesitates for a second. Then he obeys. They kiss again. The kiss is long, almost too intense.*
+*When they separate, Philip's eyes are still a little too bright, as if he hadn't quite finished his sentence. Zephyrine takes his arm firmly.*
 
-*Il hésite une seconde. Puis il obéit. Ils s’embrassent à nouveau. Le baiser est long, presque trop appliqué.*
-*Quand ils se séparent, Joseph a encore les yeux un peu trop brillants, comme s’il n’avait pas tout à fait fini sa phrase.
-Zéphyrine lui prend le bras avec fermeté.*
+**Zephyrine :**
+Come on.
+Let's go back.
 
-**Zéphyrine :**
-Viens.
-Rentrons.
-
-*Ils s’éloignent sous la lune.
-Derrière eux, un dernier pétale blanc reste collé trop longtemps au bord humide de la fontaine.*
+*They move away under the moon. Behind them, a last white petal remains stuck to the damp edge of the fountain for too long.*
