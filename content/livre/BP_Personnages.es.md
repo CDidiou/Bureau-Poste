@@ -16,13 +16,13 @@ weight: 102
 
 **Lo cual molesta.** Su arrogancia como un pequeño notable degradado, su arte tortuoso de atrapar a sus vecinos en una cláusula de contrato.
 
-**Relaciones clave.** Un vínculo tenso y nunca hablado con la partera: desde una desconfianza mostrada hasta una intimidad que nunca encuentra las palabras para declararse. Un informe de rivalidad latente con Mathurin en torno a los límites del viejo ciruelo.
+**Relaciones clave.** Un vínculo tenso y nunca hablado con la Comadrona: desde una desconfianza mostrada hasta una intimidad que nunca encuentra las palabras para declararse. Un informe de rivalidad latente con Mathurin en torno a los límites del viejo ciruelo.
 
 **Objeto-símbolo.** La pata de palo, que cava agujeros en la tierra empapada, la herida de guerra que se ha convertido, a su pesar, en el instrumento de su búsqueda.
 
 ---
 
-## La partera
+## La Comadrona
 
 **Retrato.** Una mujer de mediana edad, una voz que nunca tiembla, manos que han parido la mitad del cantón y han cerrado la otra mitad en un sudario. Se dice que no tiene debilidades; nunca la vemos llorar.
 
@@ -58,7 +58,7 @@ weight: 102
 
 ---
 
-## La Guardia Nacional
+## El Alguacil Rural
 
 **Retrato.** Un hombre envejecido, el rifle demasiado pesado para su hombro, el andar vacilante de un hombre más acostumbrado al mostrador que a las rondas nocturnas.
 

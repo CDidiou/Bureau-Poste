@@ -3,24 +3,24 @@ title: "(La fiebre) El tesoro"
 subtitle: "Los archivos hablan"
 date: 2026-08-24
 version: 1.0
-description: "En el presbiterio, el Boiteux visita al sacerdote y a la partera, dejando entrever sus maniobras en torno al catastro y al viejo ciruelo."
+description: "En el presbiterio, el Boiteux visita al sacerdote y a La Comadrona, dejando entrever sus maniobras en torno al catastro y al viejo ciruelo."
 weight: 104
 ---
-*(En la casa parroquial. El sacerdote está sentado cerca de la ventana, planchando con un paño un pequeño registro de fábrica. La partera limpia la mesa de la cocina. Se oyen dos golpes fuertes contra el marco de la puerta.)*
+*(En la casa parroquial. El sacerdote está sentado cerca de la ventana, planchando con un paño un pequeño registro de fábrica. La Comadrona limpia la mesa de la cocina. Se oyen dos golpes fuertes contra el marco de la puerta.)*
 
 **El hombre cojo:**
 ¿Está abierto para personas discapacitadas o hay que volver el día de mercado?
 
 **El Sacerdote:**
-Siéntese, mayor, en lugar de quedarse ahí, desgastando su pierna buena.
+Siéntese, Comandante, en lugar de quedarse ahí, desgastando su pierna buena.
 
 **El hombre cojo:**
 muchas gracias
-*(Se sienta, se pone el sombrero sobre las rodillas. Sus ojos se detienen un momento en las manos de la partera que guarda los viales.)*
+*(Se sienta, se pone el sombrero sobre las rodillas. Sus ojos se detienen un momento en las manos de La Comadrona que guarda los viales.)*
 No la había visto, señora. Finalmente... Señorita. Todos mis respetos. Cuida bien de nuestro valiente sacerdote.
 
-**La partera:**
-Hola, señor mayor. El cuidado de las almas y de los cuerpos no se toma vacaciones.
+**La Comadrona:**
+Hola, señor Comandante. El cuidado de las almas y de los cuerpos no se toma vacaciones.
 
 **El Sacerdote:***(sin levantar la vista de su registro, con voz tranquila)*
 Estaba leyendo mientras te esperaba. El silencio aquí ayuda a la reflexión.
@@ -41,10 +41,10 @@ Dicen que al menos desde 1837, el terreno de Roche-Fontaine no tiene derecho de 
 1837... Fue el año de los patriotas y las insurrecciones en el Bajo Canadá. Los notarios de la Monarquía de Julio escribían con pluma y confundían las pistolas y el Luis de Oro. Una coma mal colocada en un plano, señor cura, y el oro de mis antepasados ​​se desliza un metro hacia el norte.
 
 **El Sacerdote:***(divertido, sin levantar la vista)*
-Sus antepasados tenían recuerdos, mayor. Pero los archivos de la diócesis tienen una visión más amplia que vuestras palas.
+Sus antepasados tenían recuerdos, Comandante. Pero los archivos de la diócesis tienen una visión más amplia que vuestras palas.
 
-**La Partera:** *(colocando una taza de infusión humeante frente al Mayor)*
-Así que deja en paz a los notarios y bebe esto. Y deja de decirle a la posada que estás moviendo las terminales con una pata de madera. El guardia es estúpido, pero tiene una lengua de dos metros.
+**La Comadrona:** *(colocando una taza de infusión humeante frente al Comandante)*
+Así que deja en paz a los notarios y bebe esto. Y deja de decirle a la posada que estás moviendo las terminales con una pata de madera. El Alguacil es estúpido, pero tiene una lengua de dos metros.
 
 **El Cojo:** *(toma la taza. Sus dedos se rozan por un momento; él detiene su gesto, un poco inseguro)*
 A ver... No puedo decir cosas que no sucedieron. Verá, estoy en medio del trasplante de nuevos árboles frutales, nuevos tallos. El pueblo tiene una gran necesidad de fruta, como comprenderás.
@@ -58,20 +58,20 @@ Tienes toda la razón, padre. La educación debe hacer su trabajo, y mucho más 
 Esta es la lista de infusiones para mujeres en el cantón inferior. Grabé todo como querías. Todo está claro.
 
 **El Sacerdote:**
-Que así sea, mayor. El cielo llevará las cuentas.
+Que así sea, Comandante. El cielo llevará las cuentas.
 
-**La partera:**
-Nos faltan tantos ingredientes para cataplasmas... No te lo imaginas. Las necesidades son muy grandes en el cantón. Eres precioso para nosotros, mayor. A todos nosotros.
+**La Comadrona:**
+Nos faltan tantos ingredientes para cataplasmas... No te lo imaginas. Las necesidades son muy grandes en el cantón. Eres precioso para nosotros, Comandante. A todos nosotros.
 
 *(El Cojo la mira un momento. Se hace un silencio, cargado de implícitas, bajo la mirada vigilante del sacerdote.)*
 
 **El Cojo:** *(bajo, levantándose con dificultad)*
-Basta de gracias. Vi algo de sufrimiento. Más de lo que toda una existencia debería soportar. Y luego... si no hubiera nadie que descifrara las etiquetas de tus viales, terminarías envenenando al guardabosques para siempre.
+Basta de gracias. Vi algo de sufrimiento. Más de lo que toda una existencia debería soportar. Y luego... si no hubiera nadie que descifrara las etiquetas de tus viales, terminarías envenenando al alguacil para siempre.
 
 **El Sacerdote:** *(cerrando suavemente su registro)*
-Sería una gran lástima. La ciudad perdería su único ojo nocturno. Que tenga un buen día, mayor.
+Sería una gran lástima. La ciudad perdería su único ojo nocturno. Que tenga un buen día, Comandante.
 
 **El hombre cojo:**
 Sr. Priest... Señorita.
 
-*(Se inclina levemente hacia la Partera, se coloca el sombrero en la cabeza y se va, haciendo resonar el impacto regular de su pata de palo en el cemento de la entrada.)*
+*(Se inclina levemente hacia La Comadrona, se coloca el sombrero en la cabeza y se va, haciendo resonar el impacto regular de su pata de palo en el cemento de la entrada.)*

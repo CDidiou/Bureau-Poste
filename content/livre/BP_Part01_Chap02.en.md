@@ -44,7 +44,7 @@ They say that since at least 1837, the Roche-Fontaine plot has had no right of w
 Your ancestors had memories, Major. But the archives of the diocese have a longer view than your shovels.
 
 **The Midwife:** *(placing a cup of steaming infusion in front of the Major)*
-So leave the notaries alone and drink this. And stop telling the inn that you're moving the terminals with a wooden leg. The guard is stupid, but he has a two-meter tongue.
+So leave the notaries alone and drink this. And stop telling the inn that you're moving the terminals with a wooden leg. The constable is stupid, but he has a two-meter tongue.
 
 **The Lame Man:** *(he takes the cup. Their fingers brush against each other for a moment; he stills his gesture, a little uncertain)*
 Let's see... I can't say things that didn't happen. You see, I am in the middle of transplanting new fruit trees, new stems. The village is in great need of fruit, you will agree.
@@ -66,7 +66,7 @@ We're missing so many ingredients for poultices... You can't imagine. The needs 
 *(The Lame looks at her for a moment. A silence settles, heavy with implicitness, under the vigilant gaze of the priest.)*
 
 **The Lame Man:** *(low, getting up with difficulty)*
-Enough thanks. I saw some suffering. More than an entire existence should bear. And then... if there was no one to decipher the labels on your vials, you'd end up poisoning the ranger for good.
+Enough thanks. I saw some suffering. More than an entire existence should bear. And then... if there was no one to decipher the labels on your vials, you'd end up poisoning the constable for good.
 
 **The Priest:** *(gently closing his register)*
 That would be a great shame. The town would lose its only night eye. Have a nice day, Major.

@@ -58,7 +58,7 @@ weight: 102
 
 ---
 
-## The Country Guard
+## The Village Constable
 
 **Portrait.** An aging man, the rifle a little too heavy for his shoulder, the hesitant gait of a man who is more used to the counter than to the nocturnal rounds.
 
