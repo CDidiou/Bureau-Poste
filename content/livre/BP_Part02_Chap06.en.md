@@ -1,57 +1,82 @@
 ---
-title: "(La Plume) A human adventure"
-subtitle: "Time to take stock"
+title: "*(The Pen)* A Human Adventure"
+subtitle: "Time to Settle Accounts"
 date: 2026-08-24
 version: 1.0
 description: "In the midwife's house, Philip reads the parchment which reveals that there was never any gold, only an oath; the men revolt, the priest wants to leave, and Zephyrine admits her fatigue to Philip for the first time."
 weight: 124
 ---
-*(Zephyrine's big stone house, late in the evening. It was she who insisted that everyone meet there rather than in Mathers's kitchen — “we need a neutral place to finish what we started together,” she said, and no one thought of arguing. In the hearth, a generous fire roars gently, casting warm, living shadows on the stone walls. The light of the candles spreads over the table like honey golden, enveloping each face with an almost tender clarity. The gang is gathered around Philip, who holds the medal and the tiny parchment taken from its case.)*
+*(Zephyrine’s great stone house, late in the evening. She was the one who insisted they all meet here rather than in Mathurin’s kitchen — “We need neutral ground to finish what we started together,” she had said, and no one had thought to argue. In the hearth, a generous fire murmurs softly, casting warm, living shadows across the stone walls.)*
 
-**Zephyrine :** *(approaching Philip, her voice trembling with gentle impatience, while the flames also seem to lean in to hear better)* Read us the parchment, Philip. Tell us what the patriots of 1837 left us at the end of this road.
+*(Candlelight spreads across the table like golden honey, bathing every face in an almost tender glow. The whole group is gathered around Philip, who is holding the medal and the tiny parchment taken from its case.)*
 
-**Philip :** *(unfolding the paper with infinite caution)* “Here lies neither gold nor silver. Those who carried this cause carried it with their bare hands, and it was with their bare hands that they lost it. Let him who seeks treasure close this medal and return. There is only the memory of an oath kept, and that does not weigh. »
+***Zephyrine :** *(approaching Philip, her voice trembling with a gentle impatience, while the flames seem to lean in as well, eager to hear)*
+Read the parchment to us, Philip. Tell us what the Patriots of 1837 left us at the end of this road.
 
-*(A silence falls over the room. The flames, for a moment, seem to hesitate in their dance.)*
+**Philip :** *(unfolding the paper with infinite care)*
+“Here lies neither gold nor silver. Those who carried this cause carried it with their bare hands, and with their bare hands they lost it. Let whoever seeks a treasure close this medal and turn back. There is only the memory of a vow kept, and that cannot be weighed.”
 
-**The Brave Guard :** *(the white voice)* No gold? Not... not a single crown, in all this?
+*(Silence falls over the room. For a moment, the flames seem to hesitate in their dance.)*
 
-**Philip :** *(slowly putting down the parchment, his voice less confident than usual)* No. There has never been any money buried in this county, my friends. What the network hid wasn't a fortune — it was proof that it had existed. Nothing more.
+**The Brave Constable :** *(his voice gone pale)*
+No gold? Not… not a single coin in all this?
 
-**Mathers :** *(jumping up, fist on the table, making the candles flicker)* Nothing more?! I let my plum tree get trampled, I let my barn get searched, I let my name get mixed up in this crazy story — for a piece of paper that tells me there's nothing there?!
+**Philip :** *(slowly setting down the parchment, his voice less certain than usual)*
+No. There was never any buried hoard in this district, my friends. What the network hid was not a fortune — it was proof that the network had existed. Nothing more.
 
-*(At these words, the light of the fire, which was still gilding the faces a moment before, seems to recede a little, giving way to a grayer, colder tint on the stone walls.)*
+**Father Mathurin :** *(springing to his feet, fist striking the table and making the candles tremble)*
+Nothing more?! I let you trample my plum tree, I let you search my barn, I let my name get tangled up in this mad business — for a scrap of paper telling me there’s nothing there?!
 
-**The Brave Guard :** *(rising in turn, his voice cracking)* And I who risked the blame of the canton by requisitioning these objects! For that? For a sermon on oath and honor?
+*(At his words, the firelight, which had been gilding their faces only moments before, seems to withdraw slightly, leaving a greyer, colder cast upon the stone walls.)*
 
-**Zephyrine :** *(trying to calm things down, her voice still calm)* Mathers, my brave Guard... What you have won is not in this parchment, it is in the path that we have taken together to...
+**The Brave Constable :** *(rising too, his voice brittle)*
+And I risked the district’s censure by requisitioning these things! For this? For a sermon about vows and honour?
 
-**Mathers :** *(cutting her off, beside himself)* Spare me your pretty words, Zephyrine! You don't feed a family with an oath kept by the dead!
+***Zephyrine :** *(trying to calm them, her voice still measured)*
+Mathurin, my brave Constable… What you have gained isn’t in that parchment. It’s in the road we’ve travelled together, in—
 
-*(The priest, who had remained silent until then, gently closes his breviary and gets up in his turn, looking serious rather than angry.)*
+**Father Mathurin :** *(cutting her off, beside himself)*
+Spare me your pretty words, Zephyrine! You can’t feed a family with a vow kept by dead men!
 
-**The Priest :** Perhaps we should leave it there this evening. This story deserves to be verified before we draw any conclusions from it. I will leave tomorrow for the bishopric, to consult the registers again - if there is a trace of this oath elsewhere than in this little piece of paper, I would like to find it myself, before completely believing what Philip tells us about it.
+*(The Priest, silent until now, gently closes his breviary and rises. His expression is grave rather than angry.)*
 
-**Philip :** *(stung despite himself)* Do you doubt my reading, Father?
+**The Priest :**
+Perhaps we should leave it here for tonight. This business deserves to be checked before we draw any conclusions. I shall leave for the bishopric tomorrow and consult the records again — if there is a trace of this vow anywhere beyond that little scrap of paper, I should like to find it myself before I fully believe what Philip has told us.
 
-**The Priest :** I don't doubt you, Philip. I doubt that a single parchment, however beautifully turned, would be enough to end a hundred years of silence.
+**Philip :** *(stung despite himself)*
+You doubt my reading, Father?
 
-*(The room, now, has completely lost its golden warmth. The fire continues to burn, but its light seems gray, almost dull, as if filtered by a dirty window. Mathers and the Guard stand, one fuming, the other already gathering his jacket to leave; the Curé, himself, walks towards the door with the quiet determination of a man who has already made his decision.)*
+**The Priest :**
+I do not doubt you, Philip. I doubt that a single parchment, however beautifully worded, is enough to close a hundred years of silence.
 
-**Zephyrine :** *(her voice, this time, snapping again like during the plum tree, but with something more tired in the timbre)* No one is leaving this house tonight!
+*(The room has now lost all of its golden warmth. The fire still burns, but its light has turned grey, almost dull, as though filtered through dirty glass. Mathurin and the Constable remain standing, one fuming, the other already gathering his coat to leave. The Priest heads towards the door with the quiet determination of a man who has already made up his mind.)*
 
-*(Everyone freezes. She stands, very straight, her hands clenched in front of her, her hard gaze scanning Mathers, the Guard and the Priest already on the threshold in turn.)*
+***Zephyrine :** *(her voice cracking again, as it did beneath the plum tree, but with something more tired in it now)*
+No one leaves this house tonight!
 
-**Zephyrine :** *(the vibrant voice, but no longer the sharp shine of the undergrowth - a more weary, more serious anger)* So you want everything we have gone through - the crate opened together, the medal torn from the earth together, the night under the stars - to be nothing more than a disappointment to be thrown into the fire, like a losing ticket? Mathers, you have not lost anything this evening that you already had yesterday. Father, go check your records if you must, but come back and tell us face to face, and not with your back to us like this evening. We started this story together. We will finish it the same way.*(A heavy silence follows these words. The fire in the hearth does not quite regain its former golden vigor - it rather stabilizes in a neutral light, neither warm nor gray, a simple light of burning wood, with nothing magical anymore. Mathers sits down again, slowly, without a word. The Guard places his jacket on the back of the chair. The Curé remains for a moment on the threshold, his hand on the handle, then ends up turning around.)*
+*(Everyone freezes. She stands very straight, hands clenched before her, her hard gaze sweeping from Mathurin to the Constable to the Priest already at the threshold.)*
 
-**The Priest :** *(in a softened voice)* I will still leave tomorrow. But I will come back to tell you what I find, Zephyrine. You have my word.
+***Zephyrine :** *(her voice vibrating, but without the sharp brilliance it had in the woods — a wearier, deeper anger)*
+So you want everything we’ve been through — opening the trunk together, wrenching the medal from the earth together, that night beneath the stars — to be nothing more than a disappointment to throw into the fire like a losing lottery ticket?
 
-**Zephyrine :** *(nodding, no more strength in her voice)* That's all I ask.
+Mathurin, you have lost nothing tonight that you did not already possess yesterday.
 
-*(She then falls back, rather than sitting, on the nearest chair, and gropes for Philip's arm, who immediately settles down next to her and offers it to her. She clings to it, almost like one clings to a railing.)*
+Father, go and check your records if you must. But come back and tell us what you find to our faces, rather than turning your back on us as you do tonight. We began this story together. We shall finish it together.
 
-**Zephyrine :** *(quietly, only for Philip, in a breath that no longer has any of the exaltation of the previous scenes)* I'm starting to get tired, Philip. Holding it all together...it's costing me more than I thought it would.
+*(A heavy silence follows. The fire in the hearth does not quite recover its former golden vigour — instead it settles into a neutral light, neither warm nor grey, simply the light of burning wood, stripped of all enchantment. Mathurin slowly sits down without a word. The Constable lays his coat back over the chair. The Priest remains on the threshold for a moment, hand on the handle, then finally turns around.)*
 
-**Philip :** *(placing his hand on hers, voice soft)* So rest on me for a moment. I won't move.
+**The Priest :** *(his voice softened)*
+I shall leave tomorrow all the same. But I will come back and tell you what I find, Zephyrine. You have my word.
 
-*(She closes her eyes for a short moment, her head tilted slightly towards his shoulder. Around them, the room remains in this even, dull light - neither the golden warmth of the beginning, nor the grayness of the argument, but something in between, like a fire that still burns without really warming up.)*
+***Zephyrine :** *(nodding, her voice almost spent)*
+That is all I ask.
+
+*(She sinks, rather than sits, into the nearest chair and reaches blindly for Philip’s arm. He immediately settles beside her and offers it to her. She clings to it almost as though it were a handrail.)*
+
+***Zephyrine :** *(very quietly, only to Philip, in a breath that has none of the exhilaration of the earlier scenes)*
+I’m beginning to tire, Philip. Keeping all of this standing… it is costing me more than I thought it would.
+
+**Philip :** *(placing his hand over hers, his voice gentle)*
+Then rest on me for a while. I’m not going anywhere.
+
+*(She closes her eyes for a moment, her head tilting slightly towards his shoulder. Around them, the room remains bathed in that even, unremarkable light — neither the golden warmth of the beginning nor the grey pallor of the quarrel, but something in between, like a fire that still burns without quite giving off any heat.)*

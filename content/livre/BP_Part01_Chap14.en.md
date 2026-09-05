@@ -1,49 +1,49 @@
 ---
-title: "(Fever) Saint Martin's Day"
-subtitle: "The night of all dangers"
+title: "(The Fever) Saint Martin's Day"
+subtitle: "The Night of All Dangers"
 date: 2026-08-24
 version: 1.0
 description: "One stormy night, there is a violent knock at the presbytery door: Mathers's wife's delivery begins in chaos."
 weight: 116
 ---
-*(At night. An extremely violent autumn storm falls on the canton. The wind rattles the shutters and the rain whips furiously against the porch of the presbytery. Inside, the Midwife and the Priest sort strips of linen by the light of a lantern. Suddenly, heavy knocks sound against the door, accompanied by a cry muffled by the storm.)*
+*(Night. An autumn storm of extraordinary violence lashes the district. The wind rattles the shutters and the rain lashes furiously against the presbytery porch. Inside, the Midwife and the Priest sort strips of linen by lantern light. Suddenly, heavy blows thunder against the door, accompanied by a cry muffled by the storm.)*
 
-**The Midwife :** *(starting, putting down her scissors)*
-Who can hang around in such weather?
-
-**The Priest :**
-If it's the bicycle courier again, he'll end up drowned in the stream...
-
-*(The Priest pulls the bolt. The door opens suddenly, pushed back by the gust. The Garde Champêtre half collapses on the threshold, soaked to the skin, hiccuping with fatigue and his chest heaving. He holds his extinguished lantern in one hand and clings to the door frame with the other.)*
-
-**The Village Constable :** *(spitting water, out of breath)*
-The Midwife! Quickly... We need the midwife!
-
-**The Midwife :** *(approaching suddenly, grabbing the guard by the lapels of his jacket)*
-What's going on, Guard? Is it the flu? Who is affected in the lower part of the canton?
-
-**The Village Constable :**
-No! Well... I don't know! She’s Mathers’s wife! Joan! She collapsed in the stable! She screams like hell, her stomach as hard as stone!
+**The Midwife :** *(startled, setting down her scissors)*
+Who on earth would be out in weather like this?
 
 **The Priest :**
-Already? But its end was not planned before Saint Martin's Day!
+If it’s that bicycle courier again, he’ll end up drowned in the stream…
+
+*(The Priest draws the bolt. The door flies open, driven back by the gale. The Village Constable half-collapses onto the threshold, soaked to the skin, gasping with exhaustion, his chest heaving. He holds his extinguished lantern in one hand and clings to the doorframe with the other.)*
+
+**The Village Constable :** *(spitting out water, breathless)*
+Midwife! Quickly… We need the Midwife!
+
+**The Midwife :** *(striding towards him, grabbing him by the lapels)*
+What’s happened, Constable? Is it the fever? Who’s taken ill in the lower district?
 
 **The Village Constable :**
-She wanted to carry a soaking bag for the animals before the hail broke through the roof! The waters burst onto the ground! The Mathers is mad with rage, he goes around her with his pitchfork, he thinks it's bad luck!
+No! Well… I don’t know! It’s Mathurin’s wife! Jeanne! She’s collapsed in the cowshed! Screaming like a madwoman, her belly hard as stone!
 
-**The Midwife :** *(immediately grabbing her leather bag and her large wool coat)*
-The storm and the fear of illness... Nothing like it to trigger premature delivery.
+**The Priest :**
+Already? But she wasn’t due until St Martin’s Day!
 
-**The Priest :** *(grabbing his stole and his holy oil)*
-I'm coming with you. If the child comes prematurely, he must be baptized without delay.
+**The Village Constable :**
+She tried to carry a sack of feed for the animals before the hailstones smashed through the roof! The water’s pouring in! Mathurin’s beside himself, pacing round her with his pitchfork. He thinks it’s the evil eye!
+
+**The Midwife :** *(immediately snatching up her leather bag and heavy woollen coat)*
+The storm and the fear of the fever… Nothing like it for bringing on a premature labour.
+
+**The Priest :** *(grabbing his stole and holy oil)*
+I’m coming with you. If the child comes early, we’ll have to baptise it at once.
 
 **The Midwife :**
-Take your oils if that reassures you, father, but above all take a lantern that doesn't get wet! And you, Guard, lead the way with your rifle! If Mathers refuses to let me in because he's afraid of the sanitary cordon, you'll stick the master key under his nose!
+Take your oils if it sets your mind at rest, Father, but take a lantern that won’t fill with water! And you, Constable, lead the way with your rifle! If Mathurin refuses to let me in because he’s afraid of the quarantine cordon, stick that pass right under his nose!
 
-**The Village Constable :** *(frightened)*
-The Mathers? But he is armed, Mademoiselle! And with the Lame who came up to the farm an hour earlier to claim his dues, they are gutting each other in the middle of the straw!
+**The Village Constable :** *(alarmed)*
+Mathurin? But he’s armed, Mademoiselle! And with the Cripple having gone up to the farm an hour ago to claim what he’s owed, they’re tearing each other apart in the straw!
 
 **The Midwife :**
-Is the Major there? With his cough? So we don't have a minute to lose! On the way!
+Major is up there? With that cough of his? Then we haven’t a minute to lose! Come on!
 
-*(She rushes first into the dark night and the flood, followed by the Priest who pulls back his hood and the Country Guard who runs, stumbling on the soaked cobblestones.)*
+*(She charges first into the pitch-black night and the driving rain, followed by the Priest pulling his hood tight and the Village Constable stumbling along over the rain-soaked cobbles.)*

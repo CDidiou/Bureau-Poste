@@ -1,83 +1,78 @@
 ---
-title: "(La Plume) A handful of petals"
-subtitle: "Under the gaze of the moon"
+title: "*(The Pen)* A Handful of Petals"
+subtitle: "Under the Moon’s Gaze"
 date: 2026-08-24
 version: 1.0
 description: "Under the moon, Philip finally declares his love to Zephyrine, but she has to silence him when he talks about the treasure again, before kissing him and bringing him back."
 weight: 120
 ---
-*(The village square in the middle of the night. A silvery, radiant moon bathes the cobblestones in a magical light. From the stone fountain, clear jets sing like the strings of a harp. Philip stands in front of the basin. He carries neither stick nor crutch. His gait is tall, noble and supple. He wears a jacket fitted with royal blue cloth and his dark eyes shine with a tender and passionate radiance. Marie-Zephyrine advances along the basin, wrapped in a large dark silk shawl that brushes against the flagstones.)*
+*(The village square in the dead of night. A silver, radiant moon bathes the cobbles in an enchanted light. From the stone fountain, clear jets sing like the strings of a harp. Philip stands before the basin. He carries neither stick nor crutch. His bearing is upright, noble and graceful. He wears a well-cut jacket of royal-blue cloth, and his dark eyes shine with tender passion.)*
 
-**Zephyrine :** *(stopping two steps from him, her heart beating, putting her hand to her throat)*
-Philip… Did you send for me at this hour? The shutters of the canton are closed and the people would sleep so soundly that my soul would still tremble to find you here...
+*(Zephyrine walks along the edge of the basin, wrapped in a large dark silk shawl that brushes the paving stones.)*
 
-**Philip :** *(taking a step towards her with sovereign grace, gently taking both of her hands which he places on his heart)*
-Don't tremble any more, my Zéphie. The shadows of the night are only there to serve as a backdrop. If I called you to the edge of this singing water, it is neither for an ordinance, nor for a decree from the prefecture, nor for a piece of cursed land register!
+**Zephyrine :** *(stopping two paces from him, her heart pounding, one hand at her throat)*
+Philip… You sent for me at this hour? The shutters of the district are closed, and everyone must be sleeping like the dead, yet my soul still trembles at finding you here…
 
-**Zephyrine :** *(whispering, overcome by a dizziness of sweetness)*
-For what then, Philip?
+**Philip :** *(taking a step towards her with sovereign grace, gently taking both her hands and placing them against his heart)*
+No more trembling, my Zephyrine. The shadows of night are here only to frame us. If I called you to this singing water, it was not for an ordinance, nor a prefectural decree, nor some cursed scrap of land registry!
 
-**Philip :** *(looking at her with a devotion and intensity that overwhelmed her)*
-To tell you what my soul has been swallowing for so many years! I love you, Zephyrine! I love you with a love so pure and so vast that it would bend the tallest oaks of our forests! Everything I undertook, every acre surveyed, every line of archives deciphered by candlelight... It was not for gold or glory. It was to be worthy, one day, of looking into yours!
+**Zephyrine :** *(whispering, swept away by a dizzying tenderness)*
+Then why, Philip?
 
-**Zephyrine :** *(exhilarated, with tears in her eyes, feeling her young girl's heart open like a flower in the sun)*
-Ah, Philip! If you knew how many times I dreamed of hearing this breath on my cheeks! But your registers, your false audacity, your stubborn pride... You kept me so far away!
+**Philip :** *(looking at her with a devotion and intensity that leaves her trembling)*
+To tell you what my soul has been swallowing for so many years! I love you, Zephyrine! I love you with a love so pure and vast it could make the tallest oaks in our forests bow! Everything I have undertaken, every acre I have walked, every line of archive I have deciphered by candlelight… It was never for gold or glory. It was so that one day I might be worthy to look into your eyes!
+
+**Zephyrine :** *(exalted, tears in her eyes, feeling her girlish heart opening like a flower in the sun)*
+Oh, Philip! If only you knew how many times I dreamed of feeling those words upon my cheek! But your registers, your false bravado, your stubborn pride… You kept me so far away!
 
 **Philip :**
-It was fear, my angel! The fear of poverty and the smallness of this world! But tonight, fear is dead! Look at me: I no longer limp, I no longer have a shadow on my conscience! And that's not all... Destiny extends its golden arms to us!
+It was fear, my angel! Fear of poverty and of the smallness of this world! But tonight, fear is dead! Look at me: I no longer limp, and I have nothing weighing on my conscience! And that is not all… Fate is holding out its golden arms to us!
 
-**Zephyrine :** *(eyes wide with wonder)*
+**Zephyrine :** *(her eyes widening in wonder)*
 What do you mean?
 
-**Philip :** *(his voice becomes mysterious, imbued with a great romantic breath)*
-My family kept a burning secret, a treasure linked to the great cause of freedom! In 1837, during the rebellion of the patriots of Lower Canada and the glorious Hindelang expedition, men of courage entrusted my ancestors with the key to a sacred deposit! A memory of honor, gold and blood coming from Montreal and Quebec, crossing the ocean to our lands! I finally put the last pieces of the puzzle together! But all the gold of Canada's insurgents is not worth the least of your smiles! This treasure, if I am looking for it, it is to offer it to you with open hands!
+**Philip :** *(his voice turning mysterious, charged with a great romantic sweep)*
+My family guarded a burning secret, a treasure bound up with the great cause of freedom! In 1837, during the rebellion of the Patriots of Lower Canada and the glorious Hindenlang expedition, men of courage entrusted my ancestors with the key to a sacred deposit! A memory of honour, gold and blood, carried from Montreal and Quebec, across the ocean to our own lands! At last, I have pieced together the final pieces of the puzzle! But all the gold of the Canadian rebels would not be worth a single one of your smiles! If I seek this treasure, it is so that I can place it in your hands!
 
-*(At the same moment, gliding without the slightest sound from the shadow of the washhouse, a young boy of unreal beauty appears. He is the carpenter's child. Dressed in a white linen tunic, his hair surrounded by a golden glow, he looks like an angel straight from the frescoes of the dome of Rome. He approaches without fear, holding in his little hands a wicker basket filled with white rose petals and flowers orange tree.)*
+*(At that very moment, a young boy of unreal beauty slips silently from the shadow of the wash-house. He is the carpenter’s child. Dressed in a white linen tunic, his hair crowned with a golden glow, he looks like an angel stepped straight down from the frescoes of a Roman dome. He approaches without fear, carrying a wicker basket filled with white rose petals and orange blossom.)*
 
-**Zephyrine :** *(raising her hand to her lips in an enchanted breath)*
-My God... See this child, Philip... He is a messenger from Heaven!
+**Zephyrine :** *(putting a hand to her lips, enchanted)*
+My God… Look at that child, Philip… He is a messenger from Heaven!
 
-*(The child smiles with infinite tenderness and, with a poetic and graceful gesture, throws a handful of petals which fly and swirl around them under the silver light of the moon.)*
+*(The child smiles with infinite tenderness and, in a poetic, graceful gesture, scatters a handful of petals which whirl around them beneath the moon’s silver light.)*
 
-**The carpenter's child :** *(in a crystal clear and smooth voice)*
-Love yourself without fear. The stars are watching you and Heaven blesses your love.
+**The Carpenter’s Child :** *(in a crystalline, gentle voice)*
+Love one another without fear. The stars are watching you, and Heaven blesses your love.
 
-*(The child walks away with soft steps and disappears into the night light like a celestial apparition.)*
+*(The child walks away on silent feet and disappears into the nocturnal light like a heavenly apparition.)*
 
-**Philip :** *(grabbing the midwife by the waist, gently pulling her against him under the shower of petals)*
-Did you hear it, my darling? The whole world bows to our happiness. Forgive me my delays, forgive me my silences. Starting tomorrow, we will open this chest with the Priest, Mathurin and the Guard. But tonight, let's have no other master than passion!
+**Philip :** *(putting an arm around the Midwife’s waist and gently drawing her towards him beneath the shower of petals)*
+You heard him, my darling? The whole world bows before our happiness. Forgive me my delays, forgive me my silences. Tomorrow, we shall open that chest with the Priest, Mathurin and the Constable. But tonight, let passion be our only master!
 
-**Zephyrine :** *(dropping her head on Philip's shoulder, drunk with joy and hope, closing her eyes)*
-Yes, Philip! Let's talk about love and light until dawn! Let time stop! No more tears, no more illness, no more loneliness! We are in paradise!*(A silence. Philip strokes her hair... then his voice changes slightly, regains momentum, as if he couldn't help it.)*
+**Zephyrine :** *(resting her head against Philip’s shoulder, drunk with joy and hope, closing her eyes)*
+Yes, Philip! Let us speak of love and light until dawn! Let time stand still! No more tears, no more sickness, no more loneliness! We are in paradise!
+
+*(A silence. Philip strokes her hair… then his voice changes slightly, gathering momentum again, as though he cannot help himself.)*
 
 **Philip :** *(with a sudden, almost feverish passion)*
-And this paradise, Zéphie, has a history!
-My great-uncle, in 1837, alongside the patriots of the Hindelang expedition!
-The subscriptions of the French committees, the lead seals, the deposit repatriated in secret…
-Do you realize? All this blood, all this glory, and the cassette that had been sleeping for almost a century under the plum tree!
-When we open it tomorrow with the others, you will see... It's not just gold, it's proof that men knew...
+And this paradise, Zephyrine, has a history! My great-uncle, in 1837, alongside the Patriots of the Hindenlang expedition! The subscriptions from the French committees, the lead seals, the secret shipment brought home… Can you imagine? All that blood, all that glory, and the little casket sleeping for nearly a century beneath the plum tree! When we open it tomorrow with the others, you’ll see… It isn’t merely gold, it is proof that men once knew how to—
 
-**Zephyrine :** *(eyes wide open, amused smile)*
+**Zephyrine :** *(eyes wide, an amused smile on her lips)*
 Philip.
 
-*He pauses, surprised.*
+*(He stops, surprised.)*
 
-**Zephyrine :** *(lower, but sharp)*
-Shut up.
+**Zephyrine :** *(more softly, but sharply)*
+Be quiet.
 
-*A very short silence.*
-*Philip looks at her, taken aback.*
+*(A very brief silence. Philip looks at her, bewildered.)*
 
-**Zephyrine :** *(in a softer voice)*
-Not tonight.
-Not these stories.
-Kiss me.
+**Zephyrine :** *(more gently)*
+Not tonight. Not these stories. Kiss me.
 
-*He hesitates for a second. Then he obeys. They kiss again. The kiss is long, almost too intense.*
-*When they separate, Philip's eyes are still a little too bright, as if he hadn't quite finished his sentence. Zephyrine takes his arm firmly.*
+*(He hesitates for a second. Then he obeys. They kiss again. The kiss is long, almost too carefully performed. When they part, Philip’s eyes are still shining a little too brightly, as though he has not quite finished his sentence. Zephyrine takes his arm firmly.)*
 
 **Zephyrine :**
-Come on.
-Let's go back.
+Come. Let’s go home.
 
-*They move away under the moon. Behind them, a last white petal remains stuck to the damp edge of the fountain for too long.*
+*(They walk away beneath the moon. Behind them, a single white petal remains stuck for just a little too long to the wet rim of the fountain.)*

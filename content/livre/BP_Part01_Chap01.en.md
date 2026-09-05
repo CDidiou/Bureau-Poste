@@ -1,5 +1,5 @@
 ---
-title: "(Fever) The secret of the plum tree"
+title: "(The Fever) The secret of the plum tree"
 subtitle: "The rumors are going around"
 date: 2026-08-24
 version: 1.0
@@ -7,84 +7,84 @@ description: "The Village Constable has his shoulder treated by the midwife whil
 weight: 103
 ---
 **The Village Constable :**
-Slowly, damn it! Gently, Midwife! It sticks into my flesh like knitting needles!
+Easy now, damn you! Easy, Midwife! It’s going right through me, like a handful of knitting needles!
 
 **The Midwife :** 
-Stop fussing like this. A man your age groaning over a simple bruise! If you held your gun correctly, your shoulder would not be in this condition.
+For heaven’s sake, stop wriggling. A man your age, making such a fuss over a mere bruise! If you knew how to hold a gun properly, you wouldn’t have an arm in this state.
 
 **The Village Constable :**
-The shot was treacherous! A pheasant taking off low in the Mathers hedge... The shot went off on its own. The butt dried me clean.
+It was a devil of a shot! A pheasant came bursting out of the hedge by Mathurin's place, barely a foot off the ground... The gun went off before I could stop it. The stock caught me a proper crack on the shoulder.
 
 **The Midwife :** 
-And the pheasant is still running, I've been told. A cartridge wasted for nothing.
+And the pheasant is still running, by all accounts. A cartridge wasted for nothing.
 
 **The Village Constable :**
-And who said that? Only evil tongues who know nothing about it.
+And who, exactly, told you that? Nothing but idle gossip from people who haven’t got the faintest idea what they’re talking about.
 
 **The Midwife :** 
-The whole village knows about it. We saw you go back through the town with your rifle slung over your shoulder, your right arm completely numb. The marshal's little one even had to bring your drink to your lips at the inn.
+The whole village knows. They saw you come staggering back through the village with your rifle over your shoulder and your right arm hanging dead. The farrier’s boy even had to hold your glass to your lips for you at the inn.
 
 **The Village Constable :**
-How they laugh, these imbeciles! I don't care. Because I saw something. And with my own eyes, not gossip! Last night, the lame...
+Let the fools laugh! I couldn’t care less. Because I saw something. With my own two eyes, I did—not hearsay, not village gossip! Last night, the cripple...
 
-*(The Midwife stops abruptly and fixes him with an icy gaze)*
+*(The Midwife stops dead and fixes him with a freezing stare.)*
  
 **The Village Constable :**
-Well yes, the lame one! And know that he has just paid for his tour! General tour, yes lady! He took out the leather purse, full of silver coins. And he made us sing. All ! “When Madelon comes to serve us a drink, under the arbor we brush against her petticoat! » We all ended up standing on the benches. Ah that, to sing, he knows how to sing...
+Well, yes, the cripple! And what’s more, he’s just bought everyone a drink! The whole bloody lot of us! He pulled out a leather purse stuffed with silver. Then he had us singing. Every last one of us! “When Madelon comes to serve us drinks, beneath the arbor we brush against her skirt!” We ended up standing on the benches. I’ll say one thing for him—the man can sing...
 
 **The Midwife :** 
-Don't call it that. I don't want to hear that word under my roof.
+Don’t call him that. I will not have that word spoken under my roof.
 
 **The Village Constable :**
-Well what? That's what it is, right? He limps!
+What’s the matter with you? That’s what he is, isn’t it? He limps!
 
 **The Midwife :** 
-He left his leg in the Somme under shells while you guarded the canton's thickets! This man fought for this country. So a little respect.
+He left his leg in the Somme under shellfire while you were minding the hedgerows back home! That man fought for this country. So show a little respect.
 
 **The Village Constable :**
-Yeah... It's mostly a Foreigner, the lame one. And with his wooden leg, he does strange maneuvers at night.
+Oh, come off it... He’s a Foreigner, that’s what he is. And with that wooden leg of his, he gets up to all sorts at night.
 
 **The Midwife :** 
-What slanders are you still inventing? Take care of your shoulder instead of being a night owl.
+What fresh nonsense are you coming out with now? You’d do better to mind your shoulder than play at being a night watchman.
 
 **The Village Constable :**
-I'm not telling you any salad, I'm telling you what I saw! On Tuesday night, around eleven o'clock, the moon was clear. I was doing my rounds near La Roche-Fontaine. And who do I see in the darkness, in the middle of the field? Him. With its wooden gimp and a pickaxe!
+I’m not spinning you a yarn. I’m telling you what I saw! Tuesday night, about eleven o’clock. The moon was bright as anything. I was making my rounds by Roche-Fontaine. And who should I see lurking in the shadows, right in the middle of the field? Him. With that wooden leg of his—and a pickaxe!
 
 **The Midwife :** 
-And after? A man no longer has the right to go to his own land?
+And? A man’s not allowed on his own land now?
 
 **The Village Constable :**
-His lands, his lands... He was at the limits! Around the old plum tree, the one which serves as a boundary marker between the new plot he has just purchased and that of Mathers. He dug his wooden leg into the soaked earth, turned around, made holes all around the tree. And not little holes, I tell you! Deep holes, well aligned. This man is a trick, a real trick!
+His land, his land... He was right on the boundary! By the old plum tree, the one that marks the boundary between the new plot he’s just bought and Mathurin’s. He was driving that wooden leg of his into the wet earth, turning round and round, making holes all around the tree. And I don’t mean little holes, either! Deep ones, neat as you like. There’s something sly about that man. A real schemer, he is!
 
 **The Midwife :** 
-I especially wonder if it wasn't you who was too soaked in brandy. Stay calm now, it will heat up a little.
+I’m beginning to wonder whether you hadn’t had a little too much brandy yourself. Now hold still. This is going to sting.
 
 **The Village Constable :**
-Ouch! What the hell is this crap? It burns my skin! There's cloves in there... And camphor! What is this devilry?
+Ow! Good Lord, what in heaven’s name is that stuff? It’s burning my hide! There’s cloves in it... And camphor! What sort of witch’s brew is this?
 
 **The Midwife :** 
-Stop complaining, you're lucky. It is a balm of my composition.
+Stop your grumbling. You’re lucky to have it. It’s a balm of my own making.
 
 **The Village Constable :**
-A concoction that will make me peel, yes!
+A balm? It’ll have the skin peeling off me!
 
 **The Midwife :** 
-It was the priest who brought it to me last week. From his visit to the diocese, in town. There he met a former military chaplain who spent the entire war in rear hospitals. It comes to us directly from the English cantonments. It seems that they have been treating the bruises of their officers since the battles of the Somme.
+The priest brought it back for me last week. He got it on his visit to the diocese in town. While he was there, he met an old army chaplain who spent the whole war working in hospitals behind the lines. It comes straight from the English camps. Apparently, they’ve been using it on their officers’ bruises ever since the fighting on the Somme.
 
 **The Village Constable :**
-English? I'm wary of these puppets. Able to stop dead in the middle of the attack because it's time for their damn cup of tea!
+The English? I don’t trust those fools. They’re quite capable of stopping in the middle of an attack because it’s time for their blasted cup of tea!
 
 **The Midwife :** 
-Let it work and stop squawking like a magpie. This balm will activate blood circulation and, tomorrow, you will be able to grab your mug without having to annoy the marshal's kid.
+Let it do its work and stop chattering like a magpie. It’ll get the blood flowing again, and by tomorrow you’ll be able to lift your mug without pestering the farrier’s boy.
 
 **The Village Constable :**
-Ah that, I would rather check it twice than once! I'm tired of seeing these drunks making fun of me in the pub while the lame man is rinsing the village! And the marshal's other kid... He's ten years old, the little one, and a little older, he drank half of it for me while holding the glass for me!
+I’ll be checking that twice over, you mark my words! I’ve had enough of those drunks laughing at me in the tavern while the cripple buys drinks for half the village! And the farrier’s other boy... Ten years old, that little chap, and he nearly drank half my drink for me while he was holding the glass!
 
 **The Midwife :** 
-And the Major, as you say, knows how to read and write. He understands the legal texts and provides service to the entire village. Come on, put your jacket back on. And no brandy tonight: the plums don't need your supervision at night.
+And the Major, as you call him, can read and write, for a start. He understands the law and does good turns for everyone in the village. Now put your jacket on. And no brandy tonight. The plum trees can manage perfectly well without you keeping watch over them after dark.
 
 **The Village Constable :**
-All the same... Sticking his wooden leg into the soaked earth... He has an idea behind his head, this rogue, I put my hand in the fire!
+Still... Driving that wooden leg into the wet earth... That old fox has got something up his sleeve, I’d stake my life on it!
 
 **The Midwife :** 
-Come on, go! Go, and come back tomorrow at dawn so I can take a look at the compress.
+Now, off you go! And come back at first light tomorrow. I’ll have a look at that dressing.

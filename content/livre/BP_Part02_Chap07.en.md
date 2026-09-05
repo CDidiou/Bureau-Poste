@@ -1,59 +1,81 @@
 ---
-title: "(La Plume) The miracle of life"
-subtitle: "Suspended breath"
+title: "*(The Pen)* The Miracle of Lifee"
+subtitle: "Bated Breath"
 date: 2026-08-24
 version: 1.0
-description: "At the Mathers farm, the child is born miraculously, stops breathing, returns changing sex; a fight breaks out and Zephyrine, tired, decides not to go looking for the men anymore."
+description: "As Mathurin's wife gives birth, Zephyrine witnesses a disturbing miracle: the child seems to change from a boy into a girl, sending the household into panic."
 weight: 125
 ---
-*(The large room of Mathers's farm. Suddenly, from the next room, there comes a muffled cry of pain, followed by a moan of distress. Mathers suddenly loses all his color, staggers back and almost knocks over a chair.)*
+*(The main room of Mathurin’s farmhouse. Suddenly, from the adjoining room, comes a muffled cry of pain, followed by a distressed moan. All colour drains from Mathurin’s face. He stumbles backwards and nearly knocks over a chair.)*
 
-**Mathers :** *(screaming in panic)* That's it, my Jeanne is going! I knew it, life only brings misfortunes!
+**Father Mathurin :** *(shouting in panic)*
+It’s happening! My Jeanne’s dying! I knew it — life brings nothing but misery!
 
-**Zephyrine :** *(getting up hastily, but without the slightest panic, readjusting her white apron with grace)* Have no fear, Mathers. Deliverance approaches. Tonight, the night is too sweet for suffering to have its place.
+**Zephyrine :** *(rising hastily, but without the slightest trace of panic, gracefully readjusting her white apron)*
+Do not be afraid, Mathurin. The birth is near. Tonight, the night is too gentle to have any room for suffering.
 
-*(She enters the next room. Barely two minutes pass. A golden light seems to emanate from the half-open door. Then, a small, clear cry sounds.)*
+*(She goes into the adjoining room. Barely two minutes pass. A golden light seems to emanate from the half-open doorway. Then a clear little cry rings out.)*
 
-**Zephyrine :** *(reappearing on the threshold, carrying an infant swaddled in white linen, her voice vibrating)* It's a boy! A vigorous and magnificent little man!
+**Zephyrine :** *(reappearing in the doorway, carrying a newborn wrapped in white linen, her voice vibrant)*
+It’s a boy! A strong, beautiful little fellow!
 
-*(Mathers approaches, his arms already outstretched. But as he goes to grab the child, the little body in Zephyrine's arms suddenly stiffens. The crying stops abruptly.)*
+*(Mathurin approaches, his arms already outstretched. But just as he is about to take the child, the little body in Zephyrine’s arms suddenly stiffens. The crying stops dead.)*
 
-**Mathers :** *(choked voice)* He... he's not crying anymore.
+**Father Mathurin :** *(his voice strangled)*
+He… he’s stopped crying.
 
-*(Zephyrine carries the child against her, leans her ear to her small chest, in a silence that stretches, stretches, too long to be bearable. The Priest murmurs a prayer. The Guard takes a step back, as if to escape what is to follow.)*
+*(Zephyrine holds the child against her, bends her ear to its tiny chest, and listens as the silence stretches and stretches, far too long to bear. The Priest murmurs a prayer. The Constable takes a step backwards, as though preparing to flee from whatever is about to happen.)*
 
-**Zephyrine :** *(in a breath, a prayer more than a sentence)* Come back. Come back, little one. This is not how this night should end.
+**Zephyrine :** *(in a whisper, more a prayer than a sentence)*
+Come back. Come back, little one. This is not how tonight is meant to end.
 
-*(Total silence. Then, against all reason, a breath. A cry, again - but more acute, this time, almost different. Zephyrine, relieved, moves the cloth aside to show the child to the light.)*
+*(Absolute silence. Then, against all reason, a breath. A cry again — but higher this time, almost different. Relieved, Zephyrine pulls back the linen to show the child in the light.)*
 
-**Zephyrine :** *(voice hesitating, barely a second)* He lives... She lives. It's a girl.
+**Zephyrine :** *(her voice faltering for barely a second)*
+It’s alive… She’s alive. It’s a girl.
 
-*(No one in the room notices the strangeness. Mathers takes the child against him as if nothing had happened, his face bathed in tears of joy.)*
+*(No one in the room remarks upon the strangeness. Mathurin takes the child into his arms as though nothing at all has happened, his face wet with tears of joy.)*
 
-**Mathers :** *(voice trembling with happiness that does not seem to notice the flaw)* My child... Welcome among us, whatever name I give you. You are born into a world where men love and protect each other.
+**Father Mathurin :** *(his voice trembling with a happiness that seems not to notice the flaw)*
+My child… Welcome among us, whatever name I come to give you. You are born into a world where men love one another and protect one another.
 
-**The Priest :** *(hands raised in blessing, but voice less assured than usual)* May Heaven be praised for this miracle... twice accomplished, this night.
+**The Priest :** *(raising his hands in blessing, though his voice is less assured than usual)*
+Heaven be praised for this miracle… twice wrought tonight.
 
-**The Brave Guard :** *(staring at the child, uneasy, trying to hide his confusion behind a false casualness)* Twice, yes... Curious, all the same. A boy, then a girl, in the same breath. *(He hesitates, then starts, his voice rising.)* Do you know what they say in the canton, Mathers? That this child, whoever he is, may not be completely yours!
+**The Brave Constable :** *(his eyes fixed on the child, uneasy, trying to hide his disquiet behind studied nonchalance)*
+Twice, yes… Curious, all the same. A boy, then a girl, in the very same breath. *(He hesitates, then goes on, his voice rising.)* You know what they say around the district, Mathurin? That this child, whatever it may be, perhaps isn’t quite yours after all!
 
-**Mathers :** *(turning around suddenly, the child hugged against him)* What do you dare say, Guard?!
+**Father Mathurin :** *(wheeling round, the child held tightly against him)*
+What the hell do you dare say, Constable?!
 
-**The Brave Guard :** *(stepping back, but not giving up this time)* I say what I see! A child who changes his face between two heartbeats is not natural, Mathers! There's something wrong in this house, and it's not from today!
+**The Brave Constable :** *(backing away, but not taking it back this time)*
+I’m saying what I see! A child changing its face between two heartbeats — that isn’t natural, Mathurin! Something’s wrong in this house, and it didn’t start today!
 
-*(Mathers, without another word, entrusts the child to Zephyrine with a sudden gesture and throws himself at the Guard. The two men topple against the table; a punch goes off, then another. The Curé steps back against the wall, startled, without daring to intervene.)*
+*(Without another word, Mathurin thrusts the child into Zephyrine’s arms and launches himself at the Constable. The two men crash against the table; one punch lands, then another. The Priest backs against the wall, aghast, not daring to intervene.)*
 
-**Zephyrine :** *(screaming, the child pressed against her)* Stop! Stop, you will hurt the baby!
+**Zephyrine :** *(shouting, the child clasped against her)*
+Stop! Stop, you’ll hurt the baby!
 
-**Philip :** *(appearing, grabbing Mathers and the Guard each with one hand, with a sudden force that is unlike him)* That's enough! Get out, both of you! *(He pushes them towards the door unceremoniously.)* Settle your scores in the courtyard if you must, but not here, not in front of this child, not in front of her!
+**Philip:** *(bursting in, seizing Mathurin and the Constable, one in each hand, with a sudden strength quite unlike him)*
+That’s enough! Out, both of you! *(He shoves them towards the door without ceremony.)* Settle your quarrel in the yard if you must, but not here, not in front of this child, not in front of her!
 
-*(He points to Zephyrine with his chin. The Priest, understanding, opens the door himself and goes out following the two men, who continue to hurl invectives at each other in the night. Philip closes the door behind them with a sharp gesture. The silence falls, brutally, in the disordered room. Zephyrine remains alone for a moment in the center of the room, the child against her heart, short of breath. She looks at the little sleeping face - a face which, this time, does not change more, as if the newfound silence had finally allowed him to settle down.)*
+*(He indicates Zephyrine with a jerk of his chin. The Priest, understanding, opens the door himself and follows the two men outside, where they continue hurling insults at one another into the night. Philip shuts the door behind them with a sharp gesture.)*
 
-**Zephyrine :** *(quietly, as if speaking to herself as much as to the child)* I don't really know who you are anymore this evening. Boy or girl, alive or back in too short a breath... The thread escapes me. I'm tired.
+*(Silence falls again, brutally, over the disordered room. Zephyrine remains alone for a moment in the middle of it, the child against her heart, her breath short.)*
 
-*(Philip approaches, places a hand on her shoulder. She turns towards him, her eyes shining, but without any more of this customary exaltation - something more serious, more resolute.)***Zephyrine :** *(louder, almost like a declaration)* Philip! I am with you, we are happy. Joy, our joy, will nourish the world, on its own. I'm sure of it.
+*(She looks down at the sleeping little face — a face which, this time, does not change again, as though the silence that has returned has finally allowed it to settle.)*
 
-*(As in response to these words, the room, which had remained dark and cold since the altercation, warms up again - but not the room itself: it is only around Zephyrine and the child that a golden light returns.)*
+**Zephyrine :** *(very softly, speaking as much to herself as to the child)*
+I’m no longer quite sure who you are tonight. Boy or girl, alive or returned from a breath that was too brief… The thread is slipping from my hands. I am tired.
 
-**Zephyrine :** *(in a breath, to Philip, but also a little beyond him)* You know, I won't go looking for them anymore, Philip. Neither the Guard in the courtyard, nor Mathers in his anger, nor the Priest in his doubts.
+*(Philip approaches and places a hand on her shoulder. She turns to him, her eyes bright, but without their customary exaltation — there is something graver in them now, something resolved.)*
 
-*(She rocks the child against her, in this pool of light which no longer belongs to anyone but herself, while outside, through the poorly joined shutters, we still hear, muffled, the bursts of voices of the night which continues, indifferent, without her.)*
+**Zephyrine :** *(more loudly, almost as a declaration)*
+Philip! I am with you, and we are happy. Our joy, our joy alone, will go on to nourish the world. I know it.
+
+*(As though in answer to her words, the room, which has remained dark and cold since the quarrel, warms once more — but not the room itself: only Zephyrine and the child are bathed again in a golden light.)*
+
+**Zephyrine :** *(in a whisper, to Philip, but also slightly beyond him)*
+You know, Philip, I shall stop looking for them now. Not the Constable out in the yard, nor Mathurin in his anger, nor the Priest in his doubts.
+
+*(She rocks the child against her, standing in that pool of light which now belongs to her alone, while outside, through the ill-fitting shutters, the muffled voices of the night can still be heard — the night carrying on, indifferent, without her.)*

@@ -1,54 +1,52 @@
 ---
-title: "(La Plume) The temple of charity"
-subtitle: "Where fears kneel"
+title: "*(The Pen)* The Temple of Charity"
+subtitle: "Where Fears Kneel"
 date: 2026-08-24
 version: 1.0
 description: "Zephyrine and Philip convert the guard, the priest and Mathers, transforming the post office into a temple of fraternity and collective love."
 weight: 119
 ---
-*(The large room of the requisitioned post office, bathed in golden light. In the center, a large wooden table brings together the five protagonists.)*
+*(The great hall of the requisitioned post office, bathed in golden light. At the centre, a large wooden table brings the five protagonists together.)*
 
+**The Brave Constable :** *(waving a paper in a panic, his moustache trembling)*
+Twenty francs’ worth of disinfectant! And the sub-prefect insists that every litre be recorded, stamped and checked! If we miss a single seal, we’ll all be hauled before the Administration’s disciplinary board! Those are the regulations. We have to obey without question, bow our heads before the hierarchy comes down on us!
 
-**The brave guard :** *(waving a paper with a panicked look, mustaches trembling)*
-Twenty francs worth of disinfectant! And the sub-prefect requires that each liter be recorded in writing, stamped, verified! If we forget a single stamp, we will all be referred to a disciplinary council by the Administration! This is the rule, we must obey without question, bend our backs before the hierarchy falls on us!
+**Zephyrine :** *(smiling with infinite patience, placing a calming hand on the constable’s trembling wrist)*
+Put your fears aside, my brave Constable. The Administration only has power over paper; we have lives to save. Philip has already initialled the registers with such flourish that even the sub-prefect will take it for exemplary zeal. Catch your breath. A uniform weighs nothing when love guides your steps.
 
-**Zephyrine :** *(smiling with infinite patience, placing her soothing hand on the guard's trembling wrist)*
-Calm your fears, my brave Guard. The administration only has control over paper; we have our lives to save. Joseph has already initialed the registers with such brilliance that the sub-prefect himself will only see zeal in it. Take a breath, the uniform weighs nothing when love guides your steps.
+**The Brave Constable :** *(his eyes suddenly shining with blind devotion)*
+Ah… Mademoiselle Zephyrine… You’re right. With you and Philip, we need fear neither the law nor death!
 
-**The brave guard :** *(eyes suddenly shining with blind devotion)*
-Ah... Miss Zéphyrine... You are right. With you and Joseph, we no longer fear the law or death!
+**The Priest :** *(standing apart, his hands folded inside his sleeves)*
+All very well to rejoice, but the crowd is ignorant and fickle. The Bishop is ordering me back to the city to preside over grand theological synods. For what are a handful of coughing peasants compared with the great debates of ecclesiastical intellect? The common people know so little of the mysteries of faith.
 
-**The priest :** *(standing aside, hands crossed in his sleeves)*
-It's all well and good to be amazed, but the crowd is ignorant and fickle. The bishop orders me to return to the city to preside over high-level theological synods, because what weight do a few country coughers have in the face of the great debates of ecclesiastical intelligence? The plebs are so little instructed in the mysteries of the faith.
+**Zephyrine :** *(stepping forward, her eyes blazing with proud conviction)*
+Mysteries, Father? The only mystery here is that of a heart beating for its own. Don’t run away into your books! Philip watches over your writings as he watches over our souls, and together we shall raise this village far higher than the lofty circles of the bishopric. Stay, and witness the miracle of a community that loves one another.
 
-**Zephyrine :** *(stepping forward, her gaze incandescent and proud)*
-Mysteries, Father? The only mystery here is that of a heart that beats for its own. Don't run away from your books! Joseph watches over your writings as well as our souls, and together, we raise this village much higher than the upper echelons of the bishopric. Stay to see the miracle of a community that loves each other.
+**Philip :** *(stepping forward with noble dignity)*
+Knowledge without charity is nothing but dry ink, Father. Stay among us. I’ll fund your libraries and your parishes out of my own pocket. Here, your intellect will finally find living soil.
 
-**Philip :** *(advancing with a noble step)*
-Knowledge without charity is dry ink, Father. Stay among us, I will finance your libraries and your parishes from my own pocket. Here your intelligence will finally find living ground.
+**The Priest :** *(moved, feeling his icy pride melt beneath the couple’s ardour)*
+Philip… Zephyrine… You’re right. My books are worth less than a single glance from either of you. I’ll stay.
 
-**The priest :** *(moved, feeling his superb ice cream melt under the ardor of the couple)*
-Joseph... Zéphyrine... You are right. My books are not worth a single glance from you. I stay.
+**Father Mathurin :** *(grumbling)*
+And enough of this talk about the State and those damned city taxes! If they come near my barns with their orders, I’ll set the dogs on them and take up my pitchfork! If a single townsman sets foot here, I’ll be waiting!
 
-**Father Mathers :** *(groaning)*
-And stop talking to me about the state and these damn city taxes! If they approach my barns with their orders, I'll release the dogs and take my pitchfork! If even one city dweller sets foot here, I'll wait for them!
+**Zephyrine :** *(not retreating an inch, her face radiant with irresistible strength)*
+Mathurin, put that anger away. It only feeds the plague. Your land is worth more than your hatred. Philip and I have opened your granaries to everyone, not by force, but through the grace of our union. You are not alone in defending your own; we protect them all together.
 
-**Zephyrine :** *(not retreating an inch, her face radiant with invincible strength)*
-Mathers, put away this anger, it only feeds the plague. Your lands are worth more than your hatred. With Joseph, we opened your silos to broad daylight, not by force, but by the grace of our union. You are not alone in defending yours; we protect them all together.
+**Philip :** *(smiling with sunny ease, holding out an open hand to the farmer)*
+And your harvests, Mathurin, will feed the whole district in your own name, blessed by everyone’s respect. No one will dare lay a hand on a single ear of your wheat, because we are watching over you.
 
-**Philip :** *(smiling with sunny ease, extending a frank hand to the peasant)*
-And your harvests, Mathers, will feed the entire canton under your own name, blessed by the respect of all. No one will dare touch a single one of your ears, because we are watching.
+**Father Mathurin :** *(hand on his heart)*
+And to think I once believed I had to guard my harvests and lock my barns against the fear of tomorrow… What blindness was mine! Today, I declare it before Heaven: my granaries are open to all! The wheat is yours, and no one else’s.
 
-**Father Mathers :** *(hand on his heart)*
-And I who once believed I had to guard my crops and lock my barns for fear of tomorrow... What blindness was mine! Today, I affirm to you before Heaven: my silos are open to all! The wheat is yours, and no one else's.
+**Zephyrine :** *(in a rapture of happiness, clasping her hands)*
+See how simple and bright everything becomes when hearts open! The sickness can no longer touch us, because it finds itself faced with the invincible friendship of an entire village! Look at this post office: it is no longer an administrative office. It is the temple of charity and aid!
 
-**Zephyrine :** *(in a frenzy of happiness, clasping her hands)*
-See how simple and bright everything becomes when hearts open! The illness no longer has a hold on us, because it finds in its face the invincible friendship of an entire village! Look at this post office: it is no longer an administration office, it is the temple of charity and relief!
+**The Brave Constable :** *(raising his glass of herbal tea with a merry hussar’s cheer)*
+To our district! To Zephyrine’s health, and to brotherhood restored!
 
-**The brave guard :** *(raising his glass of herbal tea while pushing a happy hussar)*
-To our canton! To the health of Zéphyrine and to the rediscovered fraternity!
+**All :** To brotherhood! To life!
 
-**All in chorus :**
-To the fraternity! To life!
-
-*(Everyone embraces and shakes hands in an outpouring of pure joy, while soft, heavenly music seems to rise from the stove, bathing the scene in perfect harmony.)*
+*(They all embrace and clasp hands in an outpouring of pure joy, while soft, heavenly music seems to rise from the stove, bathing the scene in perfect harmony.)*

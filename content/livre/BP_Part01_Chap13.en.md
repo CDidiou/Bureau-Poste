@@ -1,45 +1,45 @@
 ---
-title: "(Fever) Blackmail"
-subtitle: "He's seen too much"
+title: "(The Fever) The Blackmail"
+subtitle: "He’s Seen Too Much"
 date: 2026-08-24
 version: 1.0
 description: "The midwife secretly meets the carpenter's wife and her child near the washhouse, in a scene of pressure and unsaid words."
 weight: 115
 ---
-*(The next afternoon at the edge of the river, about ten meters from the washhouse where the regular beating of the beaters and the chatter of the washerwomen make a continuous background sound. The midwife has withdrawn to one side with the carpenter's wife, under the pretext of giving her some dry herbs for her older child who is coughing red. The carpenter's wife holds tightly the hand of her child - the carpenter's little one -, terrified.)*
+*(The following afternoon, by the river, some ten yards from the wash-house, where the steady thump of the washboards and the chatter of the washerwomen provide an unbroken background hum. The Midwife has drawn the carpenter’s wife aside, supposedly to give her some dried herbs for her eldest, who has begun coughing blood-red. The carpenter’s wife is clutching her boy’s hand — the carpenter’s little lad — who is terrified.)*
 
-**The Midwife :** *(pulling a bundle of strings with one hand, with the other holding the kid's arm with a grip of steel)*
-Look at me carefully, little one. And listen with both ears.
+**The Midwife :** *(pulling a bundle of string from one hand, gripping the boy’s arm with the other, her fingers like iron)*
+Look at me, lad. And listen with both ears.
 
-**The carpenter's wife :** *(nervous, worried glance towards the other women in the washhouse)*
-Leave him alone, mademoiselle... He was already scared enough the other evening at the fountain.
+**The Carpenter’s Wife :** *(nervously glancing towards the other women at the wash-house)*
+Leave him alone, Mademoiselle… He was frightened enough the other night at the fountain.
 
-**The Midwife :** *(without letting go of the child, her tone cold)*
-He's scared because his tongue is too limp for his age. And what did he believe? See the devil himself next to the pool! He's just a little chatterbox that his father had better correct.
+**The Midwife :** *(without letting go of the child, her voice icy)*
+He’s frightened because he’s got too loose a tongue for his age. And what did he think he saw? The Devil himself beside the basin! He’s nothing but a little chatterbox. His father would do well to teach him some manners.
 
-**The carpenter's wife :** *(blushing)*
-My man is violent, you know that well... If he finds out that the kid was hanging around outside after the round, he's going to put the blame on him!
+**The Carpenter’s Wife :** *(going pale)*
+My man’s a violent one, you know that… If he finds out the boy was out after the round, he’ll take the strap to his back!
 
-**The Midwife :** *(approaching very close to the carpenter's wife, very low, venomous voice)*
-Oh, it's not the carpenter's fly you should be afraid of, mother. Because if your kid keeps telling fairy tales about what he sees at night, I'll jog my memory. And I could go and tell the carpenter how your delivery went for this one.
+**The Midwife :** *(stepping right up to the carpenter’s wife, her voice very low and poisonous)*
+Oh, it isn’t the carpenter’s beating you should be afraid of, Mother. Because if your boy keeps telling fairy tales about what he sees at night, I might just refresh my memory. And I could tell the carpenter exactly how this one came into the world.
 
-**The carpenter's wife :** *(choking)*
-What... What are you talking about?
+**The Carpenter’s Wife :** *(choking)*
+What… What are you talking about?
 
-**The Midwife :** *(short smile, without warmth)*
-I'm talking about her ears, mother. He doesn't have a single carpenter's line on his face. And when I took it out of your belly eight years ago, we both knew very well that the seeds did not come from the wood workshop. Do you want us to go ask the carpenter if he remembers what the town's chief clerk looked like that summer?
+**The Midwife :** *(a brief, humourless smile)*
+I’m talking about his ears, Mother. There isn’t a single trace of the carpenter in that face. And when I pulled him out of you eight years ago, you and I both knew those seeds hadn’t come from the woodshop. Shall we go and ask the carpenter whether he remembers what the town clerk looked like that summer?
 
-**The carpenter's wife :** *(with tears in her eyes, grabbing her son by the collar to press him against her skirt)*
-Shut up... Please, shut up! The carpenter would kill him, and me too!
+**The Carpenter’s Wife :** *(tears in her eyes, grabbing her son by the collar and pulling him against her skirts)*
+Stop… For God’s sake, stop! The carpenter would kill him — and me with him!
 
-**The Midwife :** *(sharp)*
-So hold your son. Shut him down at the family table. Let him not have a word about the fountain, not a word about me. If I hear the slightest rumor coming out of your house before the end of the week, I'll be the one to say a few words to your man between two strokes of the plane. And you, remove your claws from the major. Did you understand me correctly?
+**The Midwife :** *(sharply)*
+Then keep hold of your boy. Shut him up at the family table. Not a word about the fountain. Not a word about me. If I hear the slightest rumour coming out of your house before the end of the week, I’ll have a quiet word with your husband myself, between one plane stroke and the next. And you — keep your claws off the Major. Do you understand me?
 
-**The carpenter's wife :** *(shaking the kid in panic)*
-Do you hear that? Not a word! You don't say anything to your father, ever! Neither on water, nor on anything!
+**The Carpenter’s Wife :** *(shaking the boy in a panic-stricken fury)*
+Do you hear that? Not a word! You say nothing to your father, ever! Not about the water, not about anything!
 
-**The carpenter's little one :** *(runny nose, muffled voice)*
-Yes, mom... I didn't see anything, I swear...
+**The Carpenter’s Little Boy :** *(nose running, his voice muffled)*
+Yes, Mum… I didn’t see anything, I swear…
 
-**The Midwife :** *(coldly handing her the packet of herbs)*
-So much for the herbal tea. Boil twice. And now, go back to the wash house before the others make a fuss about it.
+**The Midwife :** *(coldly handing her the bundle of herbs)*
+There. That’s for the tisane. Boil it twice. And now get back to the wash-house before the others have something to chew over.

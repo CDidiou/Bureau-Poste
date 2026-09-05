@@ -1,35 +1,35 @@
 ---
 title: "(The Fever) Under the Straw"
-subtitle: "Out of sight"
+subtitle: "Out of Sight"
 date: 2026-08-24
 version: 1.0
-description: "Le Boiteux confronts Mathers at his farm and discovers that the peasant is hiding something heavy under the straw of his barn."
+description: "The Cripple confronts Mathurin at his farm and discovers that the peasant is hiding something substantial beneath the straw in his barn."
 weight: 108
 ---
-*(On the edge of the neighboring hamlet. The daylight is fading. Mathers carries a heavy load near his barn. The lame man arrives at the peasant's farm at his own pace, leaning on his stick.)*
+*(On the outskirts of the neighbouring hamlet. Dusk is falling. Mathurin is hauling a heavy load beside his barn. The Cripple approaches the farm at his usual pace, leaning on his stick.)*
 
-***The Lame Man :**
-You work late, Mathers. It looks like you're sheltering the grain before the rain. Or before the police.
+**The Cripple :**
+Working late, Mathurin. Looks as though you're getting the grain under cover before the rain. Or before the gendarmes.
 
-**Mathers :** *(without stopping)*
-The rain or the police, that concerns me. What are you dragging around here?
+**Mathurin :** *(without stopping)*
+The rain or the gendarmes, that's my business. What are you doing hanging around here?
 
-***The Lame Man :**
-The general interest, old man. The prefecture requisitions straw for the canton hospital. And since your La Côte field runs along the municipal road, the town quickly calculated what you owe them.
+**The Cripple :**
+The public good, my old friend. The Prefecture is requisitioning straw for the district hospital. And seeing as your field at La Côte runs along the common, the commune won't take long to work out what you owe it.
 
-**Mathers :** *(putting down his bag violently)*
-Not a bit of straw. Neither for the Geuse, nor for the city, nor for your feverish canton.
+**Mathurin :** *(slamming down his sack)*
+Not a single straw. Not for the Republic, not for the town, and not for your district full of fever cases.
 
-***The Lame Man :** *(quietly)*
-Don't raise your voice, you'll spoil your blood. You know like me that your fence wall extends a good meter into the path, right at the plum tree. If the country guard comes to stick his nose in for the census, he will quickly find fault. But if you let me look in your barn, I can forget to point out the paragraph.
+**The Cripple :** *(calmly)*
+Don't raise your voice. You'll make yourself ill. You know as well as I do that your boundary wall encroaches a good metre onto the path, right by the plum tree. If the Village Constable comes poking around during the census, he'll soon find something to complain about. But if you let me have a look inside your barn, I might just forget to mention that little clause.
 
-**Mathers :** *(he steps forward, threatening, grabbing his fork)*
-Listen to me carefully, lame guy. You have never set foot on my land, and it will be the same tomorrow. The barn is closed. The path is closed. If I see your crutch crossing the hedge, I'll break it on your back, prefecture or no prefecture. Ouste.
+**Mathurin :** *(stepping towards him threateningly, grabbing his pitchfork)*
+Listen to me carefully, Cripple. You've never set foot on my land, and tomorrow won't be any different. The barn is shut. The path is shut. If I see that stick of yours coming back over the hedge, I'll break it across your back, Prefecture or no Prefecture. Now clear off.
 
-*(The Lame makes a simulated U-turn. His gaze slides along the half-open door of the barn. Under the hastily pulled canvas tarpaulin, he thinks he sees the iron of a reinforced angle iron.)*
+*(The Cripple turns as though to leave. His gaze slides along the half-open barn door. Beneath the hastily pulled canvas tarpaulin, he thinks he catches the glint of reinforced angle iron.)*
 
-***The Lame Man :** *(stopping, his gaze fixed on the shadow of the door, a slow smile drawing his face)*
-You are very angry over a few bunches of rye, Mathers... What have you put under your straw to be so afraid of someone approaching a blotter?
+**The Cripple :** *(stopping, his eyes fixed on the shadow in the doorway, a slow smile spreading across his face)*
+That's an awful lot of anger over a few sheaves of rye, Mathurin... What have you got under that straw that you're so frightened of anyone coming near it with a blotting paper?
 
-**Mathers :** *(abruptly blocking the crack in the door with his body, his voice muffled and trembling with rage)*
-I won't repeat. Get the fuck out.
+**Mathurin :** *(abruptly blocking the crack in the door with his body, his voice low and trembling with rage)*
+I won't say it again. Get out.

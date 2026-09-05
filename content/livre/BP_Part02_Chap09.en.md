@@ -1,33 +1,53 @@
 ---
-title: "(La Plume) The procession of joy"
-subtitle: "Unrest in the ranks"
+title: "(The Pen) The Procession of Joy"
+subtitle: "Stirring in the Ranks"
 date: 2026-08-24
 version: 1.0
-description: "The crowd sings the Hymn to Joy; but the priest suddenly proclaims the end of the masquerade, everyone frees themselves in laughter and euphoria, while Philip embraces the carpenter's wife and Zephyrine remains alone on the path."
+description: "The whole village sets out in a joyful procession, convinced that harmony has finally been achieved. But as the crowd breaks free of Zephyrine’s influence, Philip turns towards another woman, leaving her utterly alone."
 weight: 127
 ---
-*(The ridge path which overlooks the entire canton. Late afternoon, light of pure gold. It is no longer a small group but the entire crowd of the village which advances in a collected march. At the head, the Curé, the cross in hand, the cassock held high. Behind him, the Garde Champêtre leads the way with pride, flanked by Philip who gives his arm to Zephyrine, and Mathers who carries his child on his shoulders. The whole village follows, singing with one voice.)*
+*(The ridge path overlooking the whole district. Late afternoon, bathed in pure golden light. It is no longer a small group, but the entire village moving forward in a solemn procession. At the head, the Priest carries the cross, his cassock gathered high. Behind him, the Village Constable leads the way proudly, flanked by Philip, who is offering Zephyrine his arm, and Mathurin, carrying his child on his shoulders. The whole village follows, singing with one voice.)*
 
-**The Brave Guard:** *(stopping at the edge of the embankment, pointing to the valley with an enthusiastic cane)* Look at this land, my braves! Here is Combe-aux-Belles-Filles! Two centuries that our elders have been grazing animals there. My uncle said that you can hear the echo of the canton singing louder than elsewhere.
+**The Brave Constable :** *(stopping at the edge of the bank, pointing enthusiastically down into the valley with his stick)*
+Just look at that land, my friends! Pretty Girls’ Hollow! Two hundred years our forefathers have grazed their cattle here. My uncle used to say you could hear the whole district singing louder here than anywhere else.
 
-**The Priest :** *(turning towards the crowd, the cross raised towards the setting sky)* He was speaking the truth, my brave Guard! Because today, it is not only the canton that is singing — it is its entire soul that is rising. Look at yourself: no more poor nor rich here, no more resentment, no more fear. We are children of the same grace.
+**The Priest :** *(turning towards the crowd, holding the cross aloft against the setting sun)*
+He spoke the truth, my good Constable! For today, it is not merely the district that sings — its very soul is rising. Look at yourselves: no poor or rich among us now, no grudges, no fears. We are all children of the same grace.
 
-*(The priest stops at the top of the mound, facing the wide valley, and intones in a full voice a song that the crowd immediately takes up - an old canticle of the canton, which everyone seems to know from the cradle, about rediscovered fraternity and the light which erases old quarrels. The voices, in an instant, unite in a chorus which swells and makes the sides of the valley vibrate. Zephyrine stops in the middle of the path, overwhelmed by the beauty of the valley. spectacle. Tears flow silently down her cheeks. Philip leans towards her and wipes one away with the tip of his finger.)*
+*(The Priest stops at the top of the rise, facing the valley spread out below, and begins in a full voice a hymn that the crowd immediately takes up — an old hymn of the district, one everyone seems to have known since childhood, about brotherhood restored and a light that wipes away old quarrels. In an instant, the voices join as one, swelling into a chorus that makes the sides of the hollow tremble. Zephyrine stops in the middle of the path, overwhelmed by the beauty of the scene.)*
 
-**Philip :** *(whispering)* Are you crying, Zee-Zee?
+*(Tears run silently down her cheeks. Philip leans towards her and brushes one away with the tip of his finger.)*
 
-**Zephyrine :** *(heart on the edge of her lips)* Tears of victory, Philip. Look at them. Listen to this song that fills the mountains. Never again will anyone be alone in this canton. The world has finally become as beautiful as we dreamed it would be.
+**Philip :** *(whispering)*
+Are you crying, Zee-Zee?
 
-*(Suddenly, the Priest freezes in the middle of a note. His forehead wrinkles. He slowly raises his arms, and the singing around him dies little by little, like a receding wave.)*
+**Zephyrine :** *(her heart in her mouth)*
+Tears of victory, Philip. Look at them. Listen to that song filling the hills. No one in this district will ever be alone again. At last, the world has become as beautiful as we dreamed it would.
 
-**The Priest :** *(in a dry voice, which cracks like a cleaver)* My brothers. That's enough. It's over. The charade is over.
+*(Suddenly, the Priest freezes halfway through a note. His brow furrows. Slowly, he raises both arms, and the singing around him dies away, little by little, like a wave drawing back.)*
 
-*(A silence. Then a shudder runs through the assembly - not of fear, but of an immense and sudden lightness, like a weight that one has carried without knowing it and which one finally lets fall. A stifled laugh bursts out, then another.)*
+**The Priest :** *(his voice dry, cracking like a cleaver)*
+My brothers. Enough. It is over. The masquerade is over.
 
-**A voice, in the crowd :** We no longer need to be told to be happy!
+*(Silence. Then a tremor passes through the crowd — not fear, but an immense and sudden lightness, like a weight they had carried without knowing it, finally set down. One muffled laugh breaks out, then another.)*
 
-**Another :** We already are, hey! We always have been, without her needing to write it to us!
+**A voice in the crowd :**
+We don't need anyone telling us to be happy!
 
-*(Cries of joy break out from all sides. We applaud, we kiss, we hug each other, laughing out loud - a new, insolent happiness, which no longer seems to owe anything to anyone. Zephyrine, still on Philip's arm, feels the crowd getting rid of her like a tide that recedes without a sound. Mathers, his face transfigured by a smile that was unknown to him, extends his hand to a child who passes by laughing; the little one grasps it without hesitation, and they both begin to hop in rhythm, away from her, away from Philip, away from everything she had wanted to write for them. The Country Guard kneels in front of the Curé. He blesses him with a simple gesture, not a character. They smile at each other, and move away together on the path. path as if she had always been part of the procession He embraces her They remain like this, frozen in an embrace that lasts forever, indifferent to everything else - indifferent, above all, to the arm that Zephyrine has just lost.)*
+**Another voice :**
+We already are! Always have been — without her having to write it down for us!
 
-**The Priest :** *(turning one last time towards the valley, his voice radiant)* My brothers! Let us salute this newfound freedom!*(The crowd starts moving again, united by a new song, simpler, almost childish - a song that no one, this time, has written for them. She moves away, moves away again, taking with her all the golden light of the path. Zephyrine does not move. She lets the procession move away without her. She watches Mathers laugh with this child who is no longer his to tell, the Guard and the Cure walk side by side without looking for her anymore, Philip embracing another at the edge of the path - all this happiness which continues, intact, and which suddenly no longer needs her to exist. Slowly, the trembling of her lips ceases. She dries her last tears with the back of her hand. But it is no longer just the tears that dry up: something in her dries up with them - as if joy itself, by dint of having been shed for others, had no longer left enough source for her. of the procession still rises towards the nascent stars, further and further away, lighter and lighter - and Zephyrine remains alone on the crest path, in the light which, around her alone, has ceased to be golden.)*
+Shouts of joy erupt from every side. People clap, embrace one another, throw their arms around each other and laugh out loud — a new, insolent happiness that seems no longer to owe anything to anyone. Zephyrine, still holding Philip’s arm, feels the crowd slipping away from her like a tide quietly drawing back.
+
+Mathurin, his face transformed by a smile no one has ever seen on him before, holds out his hand to a laughing child passing by. The little one takes it without hesitation, and the two of them begin skipping along in time, far from her, far from Philip, far from everything she had wanted to write for them. The Village Constable kneels before the Priest. The Priest blesses him with a simple gesture, without ceremony — a man’s gesture, not a character’s. He helps him to his feet. They smile at one another and walk away together down the path.
+
+Philip then makes his way through the crowd and joins the carpenter’s wife, who has appeared at the edge of the path as though she had always been part of the procession. He embraces her. They remain locked together in an embrace that seems to last forever, oblivious to everything else — above all, oblivious to the arm Zephyrine has just lost.)*
+
+**The Priest :** *(turning one last time towards the valley, his voice radiant)*
+My brothers! Let us salute our freedom regained!
+
+The crowd sets off again, united by a new song, simpler now, almost childlike — a song that, this time, no one has written for them. They move farther away, farther still, carrying all the golden light of the path with them. Zephyrine does not move. She watches the procession leave without her.
+
+She watches Mathurin laughing with the child who is no longer his to tell a story about, the Constable and the Priest walking side by side without so much as looking for her, Philip embracing another woman at the edge of the path — all that happiness carrying on, untouched, and suddenly needing nothing from her in order to exist. Slowly, the trembling of her lips stops. She wipes away her last tears with the back of her hand.
+
+But it is not only the tears that dry up: something inside her dries with them — as though joy itself, poured out for others for so long, has left her with no spring from which to draw for herself. The song of the procession rises still towards the first stars, farther and farther away, lighter and lighter — and Zephyrine remains alone on the ridge path, in the light that, around her alone, has ceased to be golden.

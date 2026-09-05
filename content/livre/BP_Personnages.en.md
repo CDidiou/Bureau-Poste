@@ -4,88 +4,90 @@ date: 2026-08-24
 version: 1.0
 weight: 102
 ---
-## The Lame
+## The Cripple
 
-**Portrait.** The forties weathered by the trenches. A wooden leg clicking on the flagstones of the post office — a sound that the entire village recognizes before they even see him enter. He retained from the army a stiff back and a way of always standing a little too straight, as if to compensate.
+**Portrait.** A man in his forties, weathered by the trenches. A wooden leg clicking across the flagstones of the post office — a sound the whole village recognises before he even comes through the door. The army left him with a stiffness in his back and a habit of standing a little too straight, as though to make up for what he has lost.
 
-**Apparent strength.** An irresistible cheekiness, a raw energy of action, and an unexpected ease with decrees and administrative paperwork - he, the former major, knows how to bend the regulations to his advantage.
+**Outward strength.** Irresistible swagger, raw energy, and a surprising ease with decrees and official paperwork — the former Major knows how to bend regulations to his advantage.
 
-**Crack.** The damaged body and the stigma of the prosthesis. Beneath the simplicity, an obsessive need to maintain the posture of the great solitary man, to never let the vulnerability be seen - nor the self-serving maneuvers that it pushes one to commit.
+**Crack.** A damaged body and the stigma of the prosthesis. Beneath the bluster lies an obsessive need to play the part of the great solitary man, never allowing anyone to see his vulnerability — or the self-serving schemes it drives him to.
 
-**Deep wound.** Dispossession: of his name, of his family history, of a buried treasure that he hunts down with an almost sickly obstinacy. Finding this gold does not mean getting rich — it means ceasing to be the poor devil that we tolerate out of charity.
+**Deep wound.** Dispossession: of his name, his family history, and a buried treasure he pursues with an almost pathological determination. Finding the gold is not about getting rich — it is about no longer being the poor devil people tolerate out of charity.
 
-**Which annoys.** His arrogance as a demoted little notable, his devious art of trapping his neighbors in a contract clause.
+**What gets under people's skin.** The arrogance of a minor local notable fallen on hard times, and his devious knack for trapping his neighbours in the fine print of a contract.
 
-**Key relationships.** A tense, never-spoken bond with the Midwife — from displayed distrust to an intimacy that never finds the words to declare itself. A report of latent rivalry with Mathers around the boundary of the old plum tree.
+**Key relationships.** A tense, unspoken bond with the Midwife — from open distrust to an intimacy that never quite finds the words to declare itself. A simmering rivalry with Mathurin over the boundary marker by the old plum tree.
 
-**Object-symbol.** The wooden leg, which digs holes in the soaked earth — the war wound that has become, despite himself, the instrument of his quest.
+**Symbolic object.** The wooden leg, which digs holes in the soaked earth — a war wound that has become, despite him, the instrument of his quest.
 
 ---
 
 ## The Midwife
 
-**Portrait.** A middle-aged woman, a voice that never trembles, hands that have given birth to half the canton and closed the other half in a shroud. It is said to be without weakness; we never see her cry.
+**Portrait.** A woman of mature years, with a voice that never wavers and hands that have delivered half the canton and shrouded the other half. They say she has no weaknesses; no one ever sees her cry.
 
-**Apparent strength.** Moral rectitude, absolute authority, a sense of care in the heart of health chaos. It is she who holds the village together when the epidemic threatens to take everything away.
+**Outward strength.** Moral rectitude, absolute authority, and a gift for nursing people through the heart of a public-health crisis. She is the one who keeps the village on its feet when an epidemic threatens to sweep everything away.
 
-**Crack.** The crushing weight of all the health and birth secrets of the canton, which she carries alone and without ever putting them down. And, lurking behind the rigor, a secret and tormented attachment for the Lame Man whom she does not allow herself to name.
+**Crack.** The crushing weight of every secret of illness and childbirth in the district, which she carries alone and never sets down. And beneath all that sternness, a secret, troubled attachment to the Cripple that she will not allow herself to name.
 
-**Deep wound.** Fundamental impotence in the face of the tragedies of life - giving birth to the dead as much as the living - and an almost devouring desire to bring out, somewhere, a sweet and romantic world, for lack of being able to impose it on reality.
+**Deep wound.** The fundamental helplessness of the human condition — delivering the dead as well as the living — and an almost consuming desire to bring forth, somewhere, a gentler, more romantic world, since she cannot impose one upon reality.
 
-**Which annoys.** The permanent control, the iron fist with which she manages the community, her propensity to infantilize or manipulate to maintain appearances.
+**What gets under people's skin.** Her constant need for control, the iron grip with which she runs the community, and her tendency to patronise or manipulate people to preserve appearances.
 
-**Key relationships.** Unwilling confidant of the Garde Champêtre, whom she treats and reprimands in the same breath. The only one who knows, or almost, the buried secrets of each of the men in the village.
+**Key relationships.** The reluctant confidante of the Village Constable, whom she treats and scolds in the same breath. Almost the only person who knows the buried secrets of every man in the village.
 
-**Object-symbol.** Clove and camphor balm — empirical science and care as the only hold on a world that escapes all control. Later: the quill pen and the inkwell, when the care of bodies gives way to the care of souls, through writing.
+**Symbolic object.** The clove-and-camphor balm — empirical knowledge and care as her only means of taking hold of a world that refuses to be controlled. Later: the quill pen and inkwell, when tending to bodies gives way to tending to souls through the written word.
 
 ---
 
 ## The Priest
 
-**Portrait.** A long and austere silhouette, often absent - constantly reminded of his bishopric, as if the village were only a passing stop in a larger ecclesiastical career.
+**Portrait.** A tall, austere figure, often absent — forever being summoned back to his bishopric, as though the village were merely a stopping place on the way to a larger ecclesiastical career.
 
-**Apparent strength.** A cold perspective, an analytical height of mind, a perfect mastery of diocesan archives and factory registers.
+**Outward strength.** Cool detachment, an analytical cast of mind, and a complete mastery of diocesan archives and parish records.
 
-**Crack.** An almost monastic isolation, at the top of his presbytery, totally detached from the carnal realities, the mud and the dramas of the village that he is nevertheless supposed to guide.
+**Crack.** An almost monastic isolation at the top of his presbytery, utterly detached from the physical realities, the mud and the dramas of the village he is nevertheless supposed to guide.
 
-**Deep wound.** The muffled rejection of the parishioners, who perceive his emotional gap - his inability to truly console, his practical helplessness in the face of raw suffering, despite all his knowledge of the Scriptures.
+**Deep wound.** The quiet rejection of his parishioners, who sense his emotional distance — his inability to offer genuine comfort, his practical helplessness in the face of raw suffering, despite all his knowledge of Scripture.
 
-**Which annoys.** This haughty detachment, this tendency to see residents not as souls to be saved but as names on a cadastral register, pieces on an administrative chessboard.
+**What gets under people's skin.** His lofty detachment, his tendency to see the villagers not as souls to be saved but as names in a land register, pieces on an administrative chessboard.
 
-**Key relationships.** A relationship of distant esteem with the Midwife, to whom he brings remedies and news from the diocese. The only villager who seems to hear, without ever really responding, what Zephyrine Pearl does not say.
+**Key relationships.** A relationship of distant respect with the Midwife, to whom he brings medicines and news from the diocese. The only villager who seems to hear, without ever quite answering, what Marie-Zéphyrine leaves unsaid.
 
-**Object-symbol.** The factory register — faith as accounting more than as presence.
+**Symbolic object.** The parish records — faith reduced to bookkeeping rather than presence.
 
 ---
 
 ## The Village Constable
 
-**Portrait.** An aging man, the rifle a little too heavy for his shoulder, the hesitant gait of a man who is more used to the counter than to the nocturnal rounds.
+**Portrait.** An ageing man, his rifle a little too heavy for his shoulder, with the uncertain gait of someone more accustomed to the bar than to making the rounds at night.
 
-**Apparent strength.** An innate sense of camaraderie, a gruff generosity, a real talent for creating bonds over a drink or during a hunt.**Crack.** An accelerating physical decline, and above all a sickly inferiority complex in the face of writing - official texts, stamps, everything that reminds us that he does not have the knowledge of others.
+**Outward strength.** An instinctive sense of camaraderie, a rough-edged generosity, and a genuine talent for bringing people together over a drink or on a hunting drive.
 
-**Deep wound.** The constant fear of being perceived as a useless old invalid, a subordinate whom the cantonal authority no longer needs.
+**Crack.** A physical decline that is gathering pace, and above all a pathological inferiority complex when it comes to the written word — official documents, stamps, anything that reminds him that others know things he does not.
 
-**Which annoys.** The opportunism, the penchant for gout, the propensity to peddle little clandestine confidences which feed the village rumors.
+**Deep wound.** The constant fear of being seen as a useless old cripple, a subordinate whose authority in the district is no longer needed.
 
-**Key relationships.** Recurrent patient and a bit grumpy from the Midwife. The first — and the worst tongue — to comment on the nocturnal comings and goings of the Lame.
+**What gets under people's skin.** His opportunism, his weakness for a drop of spirits, and his habit of passing on little confidential tidbits that feed the village rumours.
 
-**Object-symbol.** The gun and the glass at the inn — two failed ways of regaining an authority that eludes him.
+**Key relationships.** A regular, somewhat grumbling patient of the Midwife. The first — and the worst gossip — to comment on the Cripple's nocturnal comings and goings.
+
+**Symbolic object.** The rifle and the glass at the inn — two failed attempts to reclaim an authority that is slipping away from him.
 
 ---
 
-## Mathers
+## Mathurin
 
-**Portrait.** A taciturn colossus, calloused hands, eyes that flee as soon as you approach his barn or his land.
+**Portrait.** A taciturn giant, with calloused hands and a gaze that shifts away whenever anyone comes too close to his barn or his land.
 
-**Apparent strength.** Brut physical strength, an unshakeable grounding, the fierce instinct of the owner who protects his family and his domain at all costs.
+**Outward strength.** Brute physical strength, an unshakable connection to the soil, and the fierce instinct of a landowner who will protect his own and his property at any cost.
 
-**Crack.** A panicked and visceral fear of the law, the gendarmes, the prefecture — and anything that could bring to light the war secret he hides under the straw of his barn.
+**Crack.** A visceral, almost panicked fear of the law, the gendarmes, the prefecture — and of anything that might bring to light the wartime secret he keeps hidden beneath the straw in his barn.
 
-**Deep wound.** Poverty and an intimate mourning never named, coupled with a sick mistrust of the authorities, whom he constantly suspects of wanting to rob him of what he has left.
+**Deep wound.** Poverty and an unnamed private grief, compounded by a deep-seated distrust of authority, which he constantly suspects of wanting to strip him of whatever he has left.
 
-**Which annoys.** A knee-jerk aggressiveness as soon as he feels cornered, a stubborn stubbornness, a reflex recourse to physical threats to signal his rejection of others.
+**What gets under people's skin.** A hair-trigger temper whenever he feels cornered, stubborn obstinacy, and a reflexive resort to physical threats to make his rejection of others unmistakable.
 
-**Key relationships.** Neighbor and boundary rival of Le Boiteux around the old plum tree. A bond of mutual distrust with the Garde Champêtre, who prowls a little too close to his land.
+**Key relationships.** Neighbour and boundary rival to the Cripple over the old plum tree. A relationship of mutual suspicion with the Village Constable, who has a habit of prowling a little too close to his land.
 
-**Object-symbol.** The straw of the barn — that which hides and that which, in the end, can suffocate as well as protect.
+**Symbolic object.** The straw in the barn — something that conceals, but which, in the end, can just as easily smother as protect.

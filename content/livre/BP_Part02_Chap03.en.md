@@ -1,91 +1,124 @@
 ---
-title: "(La Plume) Gold buttons"
-subtitle: "The priest's trouble"
+title: "*(The Pen)* Gold Buttons"
+subtitle: "The Priest’s Unease"
 date: 2026-08-24
 version: 1.0
 description: "Opening the military crate reveals a uniform without buttons, a mysterious note and a numbered stamp which disturbs the priest, whom Zephyrine forces to stay."
 weight: 121
 ---
-*(Mathers' barn, at the very first light of dawn. The night has not yet completely given way: through the cracks in the boards, a soft, milky light seeps in, as if dawn itself was hesitating to enter. Grains of golden dust float in the air, suspended, almost motionless, like stardust that has slipped from the previous night to here. Somewhere outside, the first song of a bird rises, pure and crystalline, like a late echo of the fountain and the petals of the day before. The old military chest, passed down in the family from Mathers's grandfather, sits in the center: Philip, his gait still tall and supple, the Curé clutching his breviary against him, Mathers with his arms crossed, The Brave Guard who cannot sit still, and Zephyrine, still wrapped in her large dark silk shawl. a white petal forgotten in the folds, in the background, which observes the scene with a mixture of pride and vigilance.)*
+*(Mathurin’s barn, at the first pale light of dawn. Night has not quite surrendered yet: through the gaps between the boards, a milky, gentle light seeps in, as though dawn itself were hesitating to enter. Golden motes of dust float in the air, almost motionless, like stardust that has drifted down from the previous night and settled here.)*
 
-**Zephyrine :** *(in a low voice, almost to herself, looking up at the golden particles dancing in the air)* The night hasn't quite closed in on us yet, it seems. She left some of her dust here, as if to watch over what we will find.
+*(Somewhere outside, the first birdcall rises, pure and crystalline, like a late echo of the fountain and its petals. The old military chest, passed down through Mathurin’s family from his grandfather, stands in the centre.)*
 
-**Philip :** *(kneeling in front of the cash register, voice trembling with excitement, a radiant smile on his lips)* So keep watch, Zee-Zee! The clasp held in this barn for a hundred years... and it will break today, in front of all of you, under the same light that blessed us last night.
+*(Around it: Philip, still standing tall and graceful; the Priest clutching his breviary; Mathurin with his arms folded; the Village Constable unable to keep still; and Zephyrine, still wrapped in her great dark silk shawl, a forgotten white petal caught in its folds, standing slightly apart and watching the scene with a mixture of pride and vigilance.)*
 
-**Mathers :** *(in a deep voice, almost reluctant, but softened in spite of himself by the moment)* She was always there. My father told me: “We don’t touch it, we don’t talk about it. » I never knew why.
+**Zephyrine :** *(softly, almost to herself, gazing up at the golden motes dancing in the air)*
+Night has not quite closed its hand over us yet, I think. It has left a little of its dust behind, as though to watch over what we are about to find.
 
-**The Country Guard :** *(leaning over Philip's shoulder, whispering as if in a church)* Come on, Lame - sorry, Major! Don't go easy on yourself! It looks like we're going to open a story chest, with this light...
+**Philip :** *(kneeling before the chest, his voice trembling with excitement, a radiant smile on his face)*
+Then let it watch, my Zee-Zee! That clasp has held for a hundred years in this barn… and today it will give way, before all of you, beneath the very same light that blessed us last night.
 
-*(Philip forces the rusty clasp. A dry, almost musical crack, like a harp string unraveling. The lid rises in a cloud of fine dust which swirls for an instant in the ray of light before falling, slowly, like golden snow. An enchanted silence, then the gaze looks over the box.)*
+**Father Mathurin :** *(in a deep voice, almost reluctant, though the moment has softened him despite himself)*
+It’s always been there. My father used to tell me: “Don’t touch it. Don’t talk about it.” I never knew why.
 
-**Philip :** *(taking out, with almost religious care, a carefully folded officer's jacket)* My great-uncle's coat...
+**The Brave Constable :** *(leaning over Philip’s shoulder, whispering as though in church)*
+Come on, Cripple — sorry, Major! Give it some welly! With this light, you’d think we were opening some chest out of a fairy tale…
 
-*(He unfolds it. The sheet, despite the years, retains a dull, almost velvety shine in this dawn light. But in the place where golden buttons should have shone, only torn threads and small gaping holes remain in the fabric.)*
+*(Philip forces the rusted clasp. A sharp crack, almost musical, like a harp string coming loose. The lid rises in a cloud of fine dust which swirls for a moment in the shaft of light before settling slowly, like golden snow. An enchanted silence. Then they all lean over the chest.)*
 
-**Philip :** *(voice breaking a little, charm suspended for a moment)* The buttons... They were torn off. All the marks of his rank, gone. *(He turns the jacket over in his hands, disoriented.)* Why would anyone do that to a man's suit, if not so that we could never tell who he was?
+**Philip :** *(lifting out, with almost religious care, a neatly folded officer’s jacket)*
+My great-uncle’s uniform…
 
-**Zephyrine :** *(approaching, her voice maintaining its softness despite everything, as if not to let the spell completely break)* Or so that we could never tell what he had done. But look, Philip — even without its buttons, this garment has passed through a hundred years of silence to reach your hands, this very morning. There is grace in that, even in what is lacking.
+*(He unfolds it. Despite the years, the cloth retains a muted lustre, almost velvety in the dawn light. But where golden buttons should have gleamed, there are only torn threads and small gaping holes in the fabric.)*
 
-*(Philip, while folding the jacket, feels a dent in the lining under his fingers. He tears the worn thread with a fingernail and takes out a tiny piece of paper folded in four. He carefully unfolds it. Barely a few words, written in nervous writing.)*
+**Philip :** *(his voice faltering slightly, the enchantment suspended for a moment)*
+The buttons… Someone tore them off. Every mark of his rank, gone. *(He turns the jacket over in his hands, bewildered.)* Why would anyone do that to a man’s uniform, unless they wanted to make sure no one could ever say who he was?
 
-**Philip :** *(reading aloud, almost to himself)* “For Montreal. Do not return to H.”
+**Zephyrine :** *(coming closer, her voice still gentle, as though she does not want the spell to break completely)*
+Or so no one could ever say what he had done. But look, Philip — even without its buttons, this uniform has crossed a hundred years of silence to reach your hands this very morning. There is grace in that, even in what is missing.
 
-*(A perplexed silence follows these words, and for the first time, the golden light seems to hold its breath. The Brave Guard frowns. Mathers looks away, uneasy. Philip remains frozen, the paper between his fingers, searching for a meaning that escapes him.)*
+*(As Philip folds the jacket again, he feels a lump beneath his fingers. He tears through the worn thread with his fingernail and pulls out a tiny piece of paper folded into four. He unfolds it carefully. Only a few words, written in a nervous hand.)*
 
-**The Country Guard:** Put back what? And give this “H” to whom?
+**Philip :** *(reading aloud, almost to himself)*
+“For Montreal. Do not deliver to H.”
 
-**Philip :** *(shaking his head, confused)* I don't know. But someone, one day, wanted us to know it — and not to forget it.
+*(A puzzled silence follows. For the first time, the golden light seems to hold its breath. The Village Constable frowns. Mathurin looks away, uneasy. Philip stands frozen, the paper between his fingers, searching for a meaning that eludes him.)*
 
-**Zephyrine :** *(gently placing her hand on Philip's arm, as if to bring a little clarity to the moment)* So this note will have waited a hundred years for the right day to speak. A secret kept so long cannot be entirely dark, Philip. There is an intention of tenderness, somewhere in there, even hidden.
+**The Brave Constable :**
+Deliver what? And who’s this “H”?
 
-*(Mathers, without a word, plunges his hand back into the box and pulls out another object: a saber strap, the cracked leather, the tarnished gold thread which still catches, despite everything, a little of the morning light.)*
+**Philip :** *(shaking his head, troubled)*
+I don’t know. But someone, once, wanted it to be known — and not forgotten.
 
-**Mathers :** *(turning it in his calloused palm)* A dragon strap. That, at least, is solid. It must have girded a real sword, back in the day.
+**Zephyrine :** *(gently placing a hand on Philip’s arm, as though to bring a little clarity back into the moment)*
+Then that little note has waited a hundred years for the right day to speak. A secret kept that long cannot be entirely dark, Philip. Somewhere inside it, however well hidden, there must be an intention of tenderness.
 
-*(The Brave Guard, emboldened, in turn plunges his hands into the box and brings out a wad of yellowed letters, the ink of which has leaked in places due to the humidity, then a broken wax seal, still marked with a coat of arms.)*
+*(Without a word, Mathurin reaches back into the chest and draws out another object: a sword-knot, the leather cracked, the tarnished gold thread still catching a little of the morning light.)*
 
-**The Brave Guard :** *(examining the seal in the light)* These are weapons of the great people, not of peasants. Look at this coat of arms…
+**Father Mathurin :** *(turning it over in his calloused palm)*
+A sword-knot. That, at least, is something solid. Must have belonged to a proper sword, back in the day.
 
-**Philip :** *(grabbing it, panting)* The weapons of the July monarchy. *(He puts the seal down with a sort of fearful respect.)* This was no ordinary soldier, my friends. Nor an ordinary affair.
+*(Emboldened, the Village Constable plunges his hands into the chest and emerges with a bundle of yellowed letters, their ink blurred in places by damp, followed by a broken wax seal still bearing a coat of arms.)*
 
-*(Zephyrine, leaning over the cash register, takes out a small black leather notebook, a sealed envelope, then a tin box which rattles weakly, like a little sleeping bell.)*
+**The Brave Constable :** *(examining the seal in the light)*
+Those are the arms of important people, not some peasant. Look at that crest…
 
-**Zephyrine :** Another register. And an envelope. And… *(she opens the box, almost in wonder)* … pills. Lead pills, a good dozen. They look like little coins from another world.
+**Philip :** *(snatching it up, breathless)*
+The arms of the July Monarchy. *(He puts the seal down again with something like fearful reverence.)* He wasn’t an ordinary soldier, my friends. And this wasn’t an ordinary affair.
 
-*(She rolls them in her palm, where they capture for a moment the glow of dawn. Most bear generic designs – French weapons, common military symbols – except one, heavier than the others, which has an engraved number.)*
+*(Zephyrine leans over the chest and, in her turn, takes out a little black leather notebook, a sealed envelope, then a tin box which rattles faintly, like a tiny sleeping bell.)*
 
-**Philip :** *(flicking through the envelope, distraught)* Papers... but I don't understand anything. Neither dates nor names that speak to me. It seems like a language made on purpose so that we can get lost in it.
+**Zephyrine :**
+Another register. And an envelope. And… *(she opens the box, almost in wonder)* …seals. Lead seals, a good dozen of them. They look like little coins fallen out of another world.
 
-*(Excitement takes over the small group despite everything, carried by this light which still completely refuses to give in to ordinary day - The Brave Guard turns the pills while whistling, Mathers weighs the strap with hesitant pride. But the Curé, who had approached without a word, remains frozen, his eyes riveted on the numbered stamp that Zephyrine still holds between two fingers. And it is as if, for him alone, the golden dust suddenly ceased to dance.)*
+*(She lets them roll across her palm, where they catch the dawn for an instant. Most bear generic designs — French arms, common military symbols — except for one, heavier than the rest, with a number engraved upon it.)*
 
-**The Priest :** *(in a changed voice, almost absent)* This figure...
+**Philip :** *(leafing through the envelope, bewildered)*
+Papers… but I can’t make head nor tail of them. No dates, no names that mean anything to me. It’s as though they were written in a language designed to lose you.
 
-**Zephyrine :** *(noticing him, turning her head towards him, the charm still clinging to her voice)* My Father?
+*(The little group’s excitement returns, carried along by the light which still refuses to give way entirely to ordinary day — the Village Constable spins the seals between his fingers, whistling; Mathurin weighs the sword-knot in his hand with hesitant pride. But the Priest, who has approached without a word, remains frozen, his eyes fixed on the numbered seal still held between Zephyrine’s fingers. And it is as though, for him alone, the golden dust has suddenly stopped dancing.)*
 
-**The Priest :** *(recovering himself immediately, closing his face like a door)* Nothing. A number like any other. *(He takes a step back.)* None of this concerns me. Go on without me.
+**The Priest :** *(his voice changed, almost absent)*
+That number…
 
-*(He steps back again, his gaze shifting, the breviary clutched to his chest like a shield, emerging against the golden light to join the grayer shadow near the door. He turns and heads towards the exit of the barn, with quick, stiff steps.)*
+**Zephyrine :** *(noticing, turning towards him, the enchantment still lingering in her voice)*
+Father?
 
-**Mathers:** *(frowning)* Where is this one going?
+**The Priest :** *(recovering at once, shutting his expression like a door)*
+Nothing. Just a number. *(He takes a step back.)* None of this concerns me. Carry on without me.
 
-**Philip :** *(too absorbed in the envelope to look up)* Leave it. He will have his reasons as a priest.
+*(He takes another step back, his eyes avoiding theirs, his breviary clutched against his chest like a shield. Backlit by the golden light, he retreats towards the greyer shadows by the door. He turns and heads for the barn door, his steps quick and stiff.)*
 
-*(But Zephyrine, for her part, does not leave him. She abandons the circle in an instant, crosses the barn with long steps - also crossing this patch of shadow where the light no longer sings - and catches up with the Curé on the threshold, just before he completely crosses into the light outside. She grabs his arm - a firm, almost authoritarian gesture, which is not usually like her towards him.)*
+**Father Mathurin :** *(frowning)*
+Where’s he off to?
 
-**Zephyrine :** *(low, but urgent)* My Father. A figure like any other does not make a man turn pale.
+**Philip :** *(too absorbed in the envelope to look up)*
+Leave him. He’ll have his reasons, being a priest.
 
-**The Priest :** *(without completely turning around, his voice tense)* Leave me, Midwife.
+*(But Zephyrine does not leave him. She abandons the circle at once and strides across the barn — crossing that same patch of shadow where the light no longer sings — catching up with the Priest on the threshold, just before he can step fully into the daylight. She grips his arm, firmly, almost imperiously, a gesture that is not normally hers with him.)*
 
-**Zephyrine :** *(gently forcing him to face her)* No. Not this time.
+**Zephyrine :** *(quietly, but insistently)*
+Father. Just a number doesn’t make a man turn pale.
 
-*(A silence. The Priest looks at her, disconcerted, caught at fault. Something gives way, imperceptibly, in his posture.)*
+**The Priest :** *(without quite turning to face her, his voice taut)*
+Leave me, Midwife.
 
-**The Priest :** *(lower, almost in spite of himself)* A few months ago, while searching the archives of the diocese for something completely different, I came across a forgotten correspondence - the letter from a former officer, never delivered to its recipient. It bore a number, in the margin, as a mark of authenticity. *(He hesitates.)* I hadn't thought about it until that moment. But this number, on this stamp... I wouldn't swear that it is different from the one I read.
+**Zephyrine :** *(gently forcing him to face her)*
+No. Not this time.
 
-**Zephyrine :** *(a smile of relief appearing on her lips, a smile which already seeks to bring back a little of the sweetness of earlier)* So it is not a shadow that has seized you, My Father — it is a thread. And the threads continue until the end. Show us this letter.
+*(A silence. The Priest looks at her, disconcerted, caught out. Something gives, almost imperceptibly, in his posture.)*
 
-**The Priest :** *(after a final moment of hesitation, with a sigh that resembles surrender)* Come to the presbytery. This afternoon. I will open the archives — but I don't promise anything. A number can look similar without being the same.*(He finally allows himself to be led back towards the group, where Philip is already folding the buttonless jacket with feverish gestures, the small note still clutched in his other hand. The light of dawn, in the meantime, has finally reached the entire barn, chasing away the last scarves of shadow - but a few grains of golden dust continue, stubbornly, to dance above the open chest.)*
+**The Priest :** *(more quietly, almost against his will)*
+A few months ago, while searching the diocesan archives for something entirely different, I came across a forgotten correspondence — a letter from an old officer, never delivered to its intended recipient. It bore a number in the margin, like a mark of authenticity. *(He hesitates.)* I had not thought of it again until this moment. But that number, on that seal… I would not swear it is different from the one I read.
 
-**Zephyrine :** *(taking Philip's arm again, leading the Priest to the other side, lighter now)* A number that looks similar, perhaps. But it is you who recognized him, My Father. It's time to go see what he's hiding — all together, as we should.
+**Zephyrine :** *(a relieved smile appearing on her lips, a smile already trying to restore some of the gentleness of earlier)* Then it was not a shadow that seized you, Father — it was a thread. And threads are meant to be followed to the end. Show us the letter.
 
-*(The Priest allows himself to be led, still stiff, a little elsewhere - but he stays, and he has spoken. Behind them, on the threshold of the barn, the morning light continues to flow, still almost tender, on the freshly turned earth.)*
+**The Priest :** *(after one last hesitation, with a sigh that sounds like surrender)*
+Come to the presbytery. This afternoon. I’ll open the archives — but I promise nothing. Two numbers may look alike without being the same.
+
+*(At last, he allows himself to be led back towards the group, where Philip is already folding the buttonless jacket with feverish movements, the little note still clenched in his other hand. By now, the dawn has fully conquered the barn, driving away the last ribbons of shadow — but a few grains of golden dust continue, stubbornly, to dance above the open chest.)*
+
+**Zephyrine :** *(taking Philip’s arm again and drawing the Priest along on the other side, lighter now)*
+A number that looks the same, perhaps. But you were the one who recognised it, Father. It is time to see what it hides — all together, as it should be.
+
+*(The Priest allows himself to be led along, still stiff, still slightly elsewhere — but he stays, and he has spoken. Behind them, on the barn threshold, the morning light continues to spill, almost tenderly still, over the freshly turned earth.)*

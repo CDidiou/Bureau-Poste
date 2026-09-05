@@ -1,43 +1,43 @@
 ---
-title: "(Fever) First sputum"
-subtitle: "A pastor's duty"
+title: "*(The Fever)* The First Coughs"
+subtitle: "A Shepherd's Duty"
 date: 2026-08-24
 version: 1.0
-description: "The priest prepares his bags to flee to the bishopric, while the midwife tries to hold him back in the face of the worsening epidemic."
+description: "The Priest prepares to leave for the diocesan council, but the Midwife confronts him with his duty to remain among his dying parishioners."
 weight: 112
 ---
-*(The porch of the presbytery. The Priest, his face tense and tired, places a worn leather suitcase and a large tied canvas bag on the ground. He checks the lock of the heavy oak door one last time. The Midwife arrives from down the street, a woolen blanket under her arm and disinfectant on her clothes.)*
+**(The presbytery porch. The Priest, his face drawn and weary, sets a battered leather case and a large tied canvas bag on the ground. He checks the heavy oak door's lock one last time. The Midwife comes up from the lower end of the street, a woollen blanket under her arm and disinfectant stains on her clothes.)**
 
-**The Midwife :** *(stopping abruptly upon seeing the suitcases)*
-Are you packing your bags, Father? However, the midday train has not yet been announced.
-
-**The Priest :**
-The bishop is waiting for me for the diocesan relief council. Ecclesiastical discipline does not stop at the limits of the canton, mademoiselle. It is there that the distribution of aid and public prayers are decided.
-
-**The Midwife :**
-Public prayers! When black sweat rises to the lungs of children and mothers are suffocating in their beds, your bishop is well sheltered behind his stained glass windows! And is it in the city that we need night caps and candles the most?
-
-**The Priest :** *(his voice rises in tone, pricked)*
-Don't judge my duties, Mademoiselle! The Holy Church must organize charity on a diocesan scale! My place is where my superiors order me to be!
-
-**The Midwife :**
-Your place is here, among your parishioners who are dying of fear! You leave them the empty parish hall, a country guard who threatens bicycles with a rifle without a sling, and Mr. Major who begins to spit his dust while counting the bags of grain!
+**The Midwife :** **(stopping dead when she sees the cases)**
+You're packing your bags, Father? The midday train hasn't even been announced yet.
 
 **The Priest :**
-The major knows how to keep to himself very well.
+The Bishop is expecting me at the diocesan relief council. Church discipline does not stop at the district boundary, Mademoiselle. That is where the distribution of aid and the public prayers are decided.
 
 **The Midwife :**
-The major is ill! He's coughing like hell behind his post office! If you leave now, who will give the last rites when the first body is cold? Is it the postman who will recite the paternôtres with his stamp? Am I going to be the beadle between two births?
+Public prayers! When black sweat is filling children's lungs and mothers are suffocating in their beds, your Bishop is safely tucked away behind his stained-glass windows! And it is in town that they need nightcaps and candles most?
 
-**The Priest :** *(staring at the Midwife, hands clenched on the handle of her suitcase)*
+**The Priest :** *(his voice rising, stung by the accusation)*
+Do not presume to judge my duties, Mademoiselle! Holy Church must organise charity across the whole diocese! My place is wherever my superiors command me to be!
+
+**The Midwife :**
+Your place is here, among your parishioners who are frightened out of their wits! You leave them an empty parish hall, a Village Constable threatening bicycles with a rifle that hasn't even got a sling, and the Major coughing his lungs out behind his post-office desk while counting sacks of grain!
+
+**The Priest :**
+The Major knows perfectly well how to look after himself.
+
+**The Midwife :**
+The Major is ill! He's been coughing fit to crack his ribs behind his desk at the post office! If you leave now, who is going to give the last rites when the first body goes cold? Is the postman going to recite the prayers with his rubber stamp? Am I supposed to play the churchwarden between one delivery and the next?
+
+**The Priest :** *(staring at the Midwife, his hands clenched around the handle of his case)*
 Are you accusing me of desertion?
 
 **The Midwife :**
-I accuse you of cowardice, father! When the shepherd turns back just as the wolf crosses the stream, we don't say that he is going to the diocesan council: we say that he is afraid for his skin!
+I'm accusing you of cowardice, Father! When the shepherd turns back just as the wolf crosses the stream, you don't say he's off to the diocesan council. You say he's frightened for his own skin!
 
-*(A heavy silence settles in. In the distance, the whistle of the locomotive resounds in the valley, announcing the passage of the train into the station. The Priest looks down at his suitcases, then raises a dark and determined look towards the Midwife.)*
+*(A heavy silence settles between them. In the distance, the locomotive's whistle echoes through the valley, announcing the train's arrival at the station. The Priest lowers his eyes to his luggage, then raises a dark, resolute gaze towards the Midwife.)*
 
-**The Priest :** *(slowly letting go of the handle of his suitcase which falls onto the pavement)*
-The good shepherd does not leave his sheep to the wolves... You will stay with your cresyl, Miss Marie. And I stay with my death records. May God have mercy on our souls if the coming night is as black as your tongue.
+**The Priest :** *(slowly letting go of the handle, the case dropping onto the paving stones)*
+A good shepherd does not leave his sheep to the wolves... You can keep your cresyl, Mademoiselle Marie. I'll keep my death registers. May God have mercy on our souls if the night ahead is as dark as your tongue.
 
-*(He picks up his bag, unlocks the presbytery door again and goes inside, pushing it back sharply.)*
+*(He picks up his bag, unlocks the presbytery door once more and goes back inside, pulling it firmly shut behind him.)*

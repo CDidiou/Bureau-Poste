@@ -1,24 +1,27 @@
 ---
-title: "Twist stud"
-subtitle: "Some erasures"
+title: "Plot Twist"
+subtitle: "A Few Erasures"
 date: 2026-08-24
 version: 1.0
 weight: 118
 ---
-*(A heavy silence sets in. The flickering light of the stable goes out. Black. Long silence. Then the voice of Zephyrine Pearl, almost breathless.)*
+*(A heavy silence settles over the room. The flickering light in the cowshed dies. Darkness. A long silence. Then the voice of Zephyrine Pearl, barely more than a breath.)*
 
 **Zephyrine Pearl :**
-So leave this book if you were looking for the consolation of sermons! Put it on the table and go to bed. The story is ugly, you hear me? Men are ugly. The world is ugly.
+If you came to this book looking for the comfort of sermons, you might as well leave it here. Put it down on the table and go to bed. This is an ugly story, do you hear me? Men are ugly. The world is ugly.
 
-What did you believe? That the priest's preaching would transform these mud souls into stained glass saints? That they were going to fall into each other's arms crying in brotherhood? Reality is not a church song. It falls flat, ugly and dry like a shovelful of earth on a tree.
+What did you expect? That the Priest’s sermon would turn these souls of mud into saints in stained glass? That they would fall into one another’s arms, weeping with brotherly love? Reality is nothing like a hymn. It falls flat, mean and dry as a shovelful of earth thrown onto a coffin.
 
-Listen to the rest, since you love the truth: Philip, the Lame, died three days later in his bed of straps, suffocated in his own blood without ever daring to tell me that he loved me. Mathers, driven mad by grief over his dead child and fear of ruin, jumped into the well on his farm the following Tuesday. The country guard, struck down by a devastating attack of gout in the middle of the cold, was left crippled, his body twisted and his memory damaged. And the priest? Ah, the great preacher of universal love! He packed his bags at dawn, climbed into the first cart for the bishopric and fled towards the city without a word, without a goodbye, without even a glance over his shoulder. He left me alone. Alone with my dead, my basins of cresyl and my heart too big for this canton of brutes.
+Listen to what happened next, since you claim to love the truth: Philip, the Cripple, died three days later in his canvas-strung bed, choking on his own blood, never once daring to tell me that he loved me. Mathurin, driven mad by the grief of losing his child and the fear of being ruined, threw himself down his farm well the following Tuesday. The Village Constable, struck down by a blinding attack of gout in the bitter cold, was left crippled, his body twisted and his memory riddled with holes.
 
-*(His voice becomes more muffled, vibrating with a gentle madness, a sublime and feverish despair.)*
+And the Priest? Ah, the great preacher of universal love! He packed his bags at dawn, climbed into the first cart bound for the bishopric and fled to the city without a word, without a farewell, without so much as a glance over his shoulder. He left me alone. Alone with my dead, my basins of cresyl and a heart too big for this district of brutes.
 
-But I refuse this world! I'm crossing it out! I spit it out!
+*(Her voice grows deeper, trembling with a gentle madness, a sublime and feverish despair.)*
 
-Since men are incapable of being great, I will force them to be! If life only knows how to break people, my pages will resurrect them! What the priest's sermon promised for heaven, I will build here, under my pen, in the paradise of words! In my kingdom, Philip found his strength, the priest found his soul because I taught him how to use it, Mathers opened his barns under my aegis and the child... oh, the child is breathing, because I deigned to save him!
-Look at them... They are there. They no longer cough. They no longer count their coins. Listen to the breath of the novel rising! Listen to the love and glory that take hold of a finally just world! This time they will speak from their hearts.
+But I refuse this world! I cross it out! I spit on it!
 
-Now... turn the page.
+If men are incapable of greatness, I shall force them to become great! If life knows only how to break people, then my pages will bring them back to life! What the Priest’s sermon promised for Heaven, I shall build here, beneath my pen, in the paradise of words! In my kingdom, Philip has regained his strength, the Priest has found his soul again because I taught him how to use it, Mathurin has opened his barns under my protection and the child… oh, the child is breathing, because I have seen fit to save her! Look at them… There they are.
+
+They no longer cough. They no longer count their coins. Listen to the breath of the novel rising! Listen to love and glory taking hold of a world at last made just! This time, they will speak with their hearts.
+
+Now… turn the page.

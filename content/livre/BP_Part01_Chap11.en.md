@@ -1,47 +1,41 @@
 ---
-title: "(The Fever) The Patriots"
-subtitle: "A family affair"
+title: "*(The Fever)* The Patriots"
+subtitle: "A Family Affair"
 date: 2026-08-24
 version: 1.0
-description: "Suffering from his stump, the Boiteux reveals to the midwife the story of his great-uncle and the treasure linked to the 1837 expedition to Lower Canada."
+description: "Suffering from pain in his stump, the Cripple reveals to the Midwife the story of his great-uncle and the treasure linked to the 1837 expedition to Lower Canada."
 weight: 113
 ---
-*(At the presbytery. Evening is falling. The storm is looming in the distance. The Lame Man is sitting on a bench, his leg outstretched, groaning in pain. The Midwife applies a poultice of brandy and mustard to his trembling stump. Philip, irritated by the pain and the ambient contempt of the village, bangs his fist on the table.)*
+*(At the presbytery. Evening is falling. A storm is gathering in the distance. The Cripple is sitting on a bench, his leg stretched out, groaning with pain. The Midwife is applying a poultice of brandy and mustard to his trembling stump. Philip, irritated by the pain and by the contempt of the village around him, pounds his fist on the table.)*
+
+**The Midwife :** *(tightening the bandage)*
+Stop fidgeting, Major! If you hadn't been playing the hero among the brambles at Roche-Fontaine with that prosthesis of yours, you wouldn't have rubbed yourself raw!
+
+**The Cripple :** *(his voice hoarse, teeth clenched)*
+The brambles? You think I go tearing myself to pieces in the brambles for the pleasure of giving the Constable something to gossip about? They all think I'm mad! The Priest with his diocesan parchments, the Constable with his register, and Mathurin threatening me with his pitchfork whenever I go near his barn!
 
 **The Midwife :**
-*(tightening the band)*
-Don't move so much, Major! If you weren't going to do the zouave in the middle of the brambles of Roche-Fontaine with your prosthesis, your flesh wouldn't be raw!
+But what on earth possesses you to go digging on other people's land? What are you looking for around that plum tree, after all?
 
-**The Lame Man:**
-*(hoarse voice, grinding teeth)*
-The brambles? Do you think I'm going to skin myself in the brambles for the pleasure of making the Countryman talk? They all think I'm crazy! The priest with his parchments of the diocese, guards him with his register, and Mathers who threatens me with his pitchfork as soon as I approach his barn!
+**The Cripple :** *(suddenly leaning towards her, his eyes bloodshot with frustration, his voice dropping to a feverish whisper)*
+What is owed to me, Mademoiselle Zephyrine! What was stolen from my family! Do you think my people have always been a bunch of down-at-heel beggars, waiting for charity from the district?
 
-**The Midwife :**
-But anyway, why are you going to dig up other people's land? What are you looking for around this plum tree, in the end?
-
-**The Lame Man:**
-*(approaching her abruptly, his eyes bloodshot and annoyed, his voice lowered to a feverish whisper)*
-My due, Miss Zephyrine! What was stolen from my family! Do you think mine have always been laggards waiting for charity from the canton?
-
-**The Midwife :** *(surprised by her vehemence)*
+**The Midwife :** *(taken aback by his vehemence)*
 Major...
 
-**The Lame Man:**
-*(cutting her off, the voice vibrating with resentment accumulated over years)*
-My great-uncle, André, left for Lower Canada in 1837! He fought alongside the patriots of the Hindelang expedition! Men of valor, not cowards like those here! When the affair turned sour with the English, a financing deposit - subscriptions of support sent by the French committees - was repatriated in secret by the networks of the Reds and the Blacks! An entire cassette entrusted to mine for safekeeping!
+**The Cripple :** *(cutting her off, his voice vibrating with years of accumulated bitterness)*
+My great-uncle André went to Lower Canada in 1837! He fought alongside the Patriots in the Hindenlang expedition! Men of courage, not cowards like the ones around here! When things turned sour with the English, a fund — subscriptions raised by French committees in support of the cause — was brought back in secret through the networks of the Reds and the Blacks! An entire strongbox entrusted to my family to keep it safe!
 
-**The Midwife :**
-*(skeptical but troubled)*
-A box of gold in our valleys? Major, these are bedtime tales to forget hunger...
+**The Midwife :** *(sceptical, but troubled)*
+A chest of gold in our valleys? Major, those are fireside tales for forgetting hunger...
 
-**The Lame Man:**
-These are not tales! The evidence has crossed the ocean, the parchments and lead seals have arrived in the canton! But Mathers's ancestors died. They barricaded their barn, they left my great-uncle to die in poverty and they kept the land and what was underneath! I know it! My family was robbed! The boundaries of the plum tree were falsified by the notaries to erase the deposit!
+**The Cripple :**
+They're not tales! The evidence crossed the ocean with it. The parchments and lead seals arrived here in the district! But Mathurin's ancestors played dead. They barricaded their barn, let my great-uncle die in poverty, and kept the land and whatever lay beneath it! I know it! My family was cheated! The boundary marker by the plum tree was falsified by the notaries to erase the record of the deposit!
 
-**The Midwife :**
-*(softening, gently placing a hand on his shoulder)*
-And that’s why you’re destroying your health? For century-old gold that has burned in memories?
+**The Midwife :** *(softening, gently placing a hand on his shoulder)*
+And that's why you're ruining your health? For gold a century old, burned away in people's memories?
 
-**The Lame Man:** *(looking at her with deep distress and broken pride)*
-It's not for the gold, Miss Zéphie... It's to no longer be the Lame! The poor devil from the Somme who we tolerate because he knows how to read the decrees! If I find what my family left, I'll set the record straight. I put everyone in their place!
+**The Cripple :** *(looking at her with profound distress and wounded pride)*
+It's not for the gold, Zee-Zee... It's so I don't have to be the Cripple any more! The poor devil from the Somme whom people tolerate because he knows how to read decrees! If I find what my family left behind, I'll set the record straight. I'll put everyone back in their proper place!
 
-*(A heavy silence settles in. The Midwife looks at him with immense compassion, understanding the abyss of bitterness and pride in which the Lame Man locks himself, unable to see that she loves him for who he is and not for a lost treasure.)*
+*(A heavy silence settles over the room. The Midwife looks at him with immense compassion, understanding the gulf of bitterness and pride into which the Cripple has shut himself away, unable to see that she loves him for what he is, not for some lost treasure.)*

@@ -1,33 +1,36 @@
 ---
-title: "(Fever) The threat of the epidemic"
-subtitle: "Drum rolls"
+title: "(The Fever) The Threat of the Epidemic"
+subtitle: "Drum Rolls"
 date: 2026-08-24
 version: 1.0
-description: "The country guard officially announces the arrival of the Spanish flu and imposes a compulsory meeting, causing panic in the village."
+description: "The Village Constable officially announces the arrival of Spanish flu and orders a compulsory meeting, sending panic through the village."
 weight: 105
 ---
-*(Mid-afternoon. The village market. The country guard has climbed onto a stone bench, his arm in a sling, holding his drum with one hand with furious clumsiness. The villagers are scolding. The priest watches from the sidelines.)*
+*(Mid-afternoon. The village market hall. The Village Constable has climbed onto a stone bench, his arm in a sling, holding his drum in one hand and beating it with furious awkwardness. The villagers grumble. The Priest watches from the sidelines.)*
 
-**The Village Constable :** *(taps a sharp and missed blow on the drum head)*
-Notice! Notice to the population! By order of the Mayor and the Prefect of the department! The river is crossed! I repeat: the water is no longer a barrier! In Saint-Martin, the Spanish flu has been in homes since this morning!
-*(Brouhaha in the hall. Voices are raised, worried and hostile.)*
-Shut your mouth for two minutes! The tavern meetings are over! Those from the city install the cordon santé at the border of the canton. This very evening, eight o'clock sharp, obligatory meeting in the village hall for the big inventory of beds and blankets! Make sure no one misses, or it's a two-franc fine and a ticket in the ass!
+**The Village Constable :** *(strikes the drum head with a sharp but badly aimed blow)*
+Hear ye! Hear ye! By order of the Mayor and the Prefect of the department! The river has been crossed! I repeat: the water is no longer a barrier! In Saint-Martin, Spanish flu has been in the houses since this morning!
 
-*(The tension of the announcement implodes the group. Under the market, the crowd parts in a sudden movement: the carpenter's wife, her face closed with tears, advances through the tight ranks holding her little boy by the hand. She does not look for the guard, she rushes straight towards the Curé who has remained behind. At the same moment, at the other end of the pillars, it is the peasant Mathers who breaks through the stampede to rush towards the Midwife.)*
+*(An uproar breaks out beneath the market hall. Worried, hostile voices rise from the crowd.)*
 
-**The carpenter's wife :** *(stops suddenly, voice breaking)*
-My father! Bless us, I beg you...
+Shut your mouths for two minutes! No more tavern gossip! The people from the city are putting up a cordon sanitaire at the district boundary. Tonight, at eight o'clock sharp, everyone is to report to the village hall for a full count of beds and blankets! Nobody stays away, or it's a two-franc fine and a summons for the lot of you!
 
-*(The Cure flinches. His expression of aristocratic detachment instantly cracks, replaced by poorly concealed panic. He steps back half a step, almost bumping into a pillar of the hall, terrified at the idea of being hit.)*
+*(The announcement sends the crowd into a panic. Beneath the market hall, people suddenly scatter: the carpenter's wife, her face tight with tears, pushes through the packed ranks, holding her little boy by the hand. She does not look for the Constable; she heads straight for the Priest, who has remained at the back. At the same moment, at the far end of the pillars, the peasant Mathurin forces his way through the crush and makes for the Midwife.)*
 
-**The Priest :** *(stammering, fingers clenching on his breviary)*
-The... Theology teaches us that suffering is a test of the soul!
+**The carpenter's wife :** *(stopping dead, her voice breaking)*
+Father! Bless us, I beg you...
 
-*(He suddenly extends his hand, hastily makes a sign of the cross in the void on the forehead of the child and then of the mother, and almost trots away.)*
-*(A few steps further, taking advantage of the general confusion around the drum, Mathers unceremoniously grabs the midwife's arm.)*
+*(The Priest flinches. His aristocratic detachment cracks at once, replaced by barely concealed panic. He takes half a step backwards, almost stumbling into one of the market-hall pillars, terrified at the prospect of being touched.)*
 
-**Mathers :** *(grabbing the midwife's arm)*
-Hey, Midwife! I need you, and quickly! It's for my wife. The pain takes over without respite, it drags on and on. She's like a beast that can't take it anymore!
+**The Priest :** *(stammering, his fingers clenched around his breviary)*
+The... The Church teaches us that suffering is a trial of the soul!
 
-**The Midwife :** *(grabbing her leather bag, hard look)*
-I follow you, Mathers. Don't shout so loudly, death already has enough drummers today.
+*(He thrusts out a hand, hurriedly makes the sign of the cross in the air over the child's forehead and then the mother's, and almost scurries away.)*
+
+*(A few steps away, taking advantage of the confusion around the drum, Mathurin grabs the Midwife's arm without ceremony.)*
+
+**Mathurin :** *(clinging to the Midwife's arm)*
+Hey, Midwife! I need you, and I need you now! It's my wife. The pains won't let up, and it's been going on for hours. She's like an animal that's got nothing left in her!
+
+**The Midwife :** *(snatching up her leather bag, her expression hard)*
+I'm coming, Mathurin. And don't bellow so loudly. Death has quite enough drummers for one day.
